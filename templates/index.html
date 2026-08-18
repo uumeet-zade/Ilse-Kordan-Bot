@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Caprican Bills Database</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header class="flat-header">
+            <div class="header-content">
+                <h1>Caprican Bills Archive</h1>
+                <p>Ilse Kordan's Legislative Analysis</p>
+                <input type="text" id="searchInput" placeholder="Search bills, proposers, or topics..." class="search-bar">
+            </div>
+            
+            <div class="status-bar" id="statusBar">
+                <div class="status-indicator">
+                    <span class="dot" id="statusDot"></span>
+                    <span id="statusText">Checking...</span>
+                </div>
+                <div class="last-update" id="lastUpdate">Last Updated: Checking...</div>
+            </div>
+        </header>
+        
+        <main id="billsContainer" class="bills-grid">
+            <div class="loader">Loading database...</div>
+        </main>
+    </div>
+
+    <script>
+        let allBills = [];
+
+        async function fetchBills() {
+            try {
+                const response = await fetch('/api/bills');
+                allBills = await response.json();
+                renderBills(allBills);
+            } catch (error) {
+                document.getElementById('billsContainer').innerHTML = `<div class="error">Failed to load bills.</div>`;
+                console.error('Error fetching bills:', error);
+            }
+        }
+
+        function renderBills(bills) {
+            const container = document.getElementById('billsContainer');
+            if (bills.length === 0) {
+                container.innerHTML = `<div class="empty">No bills found matching your search.</div>`;
+                return;
+            }
+            
+            container.innerHTML = bills.map((bill, index) => `
+                <a href="/bill/${bill.id}" class="bill-card flat-panel clickable" style="text-decoration: none; color: inherit;">
+                    <div class="bill-header">
+                        <h2 class="truncate">${bill.title}</h2>
+                        <span class="date">${bill.date || 'Unknown Date'}</span>
+                    </div>
+                    <div class="meta">
+                        <span class="proposer truncate-short">By: ${bill.proposer || 'Unknown'}</span>
+                    </div>
+                    
+                    <div class="section main-goal">
+                        <h3>Main Goal</h3>
+                        <p class="truncate-multi">${bill.main_goal || 'Not specified'}</p>
+                    </div>
+                </a>
+            `).join('');
+        }
+        
+        // Store current displayed bills to map index correctly
+        let currentDisplayedBills = [];
+        
+        function updateDisplay(bills) {
+            currentDisplayedBills = bills;
+            renderBills(bills);
+        }
+        
+        async function fetchBills() {
+            try {
+                const response = await fetch('/api/bills');
+                allBills = await response.json();
+                updateDisplay(allBills);
+            } catch (error) {
+                document.getElementById('billsContainer').innerHTML = `<div class="error">Failed to load bills.</div>`;
+                console.error('Error fetching bills:', error);
+            }
+        }
+
+        document.getElementById('searchInput').addEventListener('input', (e) => {
+            const term = e.target.value.toLowerCase();
+            const filtered = allBills.filter(b => 
+                (b.title && b.title.toLowerCase().includes(term)) ||
+                (b.proposer && b.proposer.toLowerCase().includes(term)) ||
+                (b.main_goal && b.main_goal.toLowerCase().includes(term))
+            );
+            updateDisplay(filtered);
+        });
+        
+        async function fetchStatus() {
+            try {
+                const response = await fetch('/api/status');
+                const status = await response.json();
+                
+                const dot = document.getElementById('statusDot');
+                const text = document.getElementById('statusText');
+                const update = document.getElementById('lastUpdate');
+                
+                if (status.online) {
+                    dot.className = 'dot online';
+                    text.innerText = 'Bot Online';
+                } else {
+                    dot.className = 'dot offline';
+                    text.innerText = 'Bot Offline';
+                }
+                
+                update.innerText = 'Last Updated: ' + status.last_update;
+                
+            } catch (error) {
+                console.error("Status fetch failed", error);
+            }
+        }
+
+        // Initialize
+        fetchBills();
+        fetchStatus();
+        setInterval(fetchStatus, 30000); // Check status every 30s
+    </script>
+</body>
+</html>
