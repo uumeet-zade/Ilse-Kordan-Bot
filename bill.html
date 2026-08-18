@@ -50,6 +50,24 @@
             line-height: 1.8;
             white-space: pre-wrap;
         }
+        .doc-button {
+            display: inline-block;
+            background-color: var(--accent);
+            color: #000;
+            padding: 0.8rem 1.5rem;
+            font-size: 1.1rem;
+            font-weight: 600;
+            text-decoration: none;
+            border-radius: 0;
+            margin-top: 1rem;
+            transition: background-color 0.2s, transform 0.1s;
+        }
+        .doc-button:hover {
+            background-color: #3b82f6;
+            text-decoration: none;
+            color: #000;
+            transform: translateY(-2px);
+        }
     </style>
 </head>
 <body>
@@ -86,7 +104,7 @@
                 
                 let docLinkHtml = '';
                 if (bill.doc_link && bill.doc_link !== 'No Link') {
-                    docLinkHtml = `<a href="${bill.doc_link}" target="_blank" class="doc-link">View Full Document ↗</a>`;
+                    docLinkHtml = `<a href="${bill.doc_link}" target="_blank" class="doc-button">View Full Document ↗</a>`;
                 }
                 
                 document.getElementById('billContent').innerHTML = `

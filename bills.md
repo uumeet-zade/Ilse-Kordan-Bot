@@ -4493,3 +4493,26 @@
 **Proposer:** asapientllama (ID: 789557256294760468)
 **Document:** No Link
 
+## Raudea Agreement 2038 
+**Date:** 2026-02-26
+**Proposer:** nikderprager (ID: 773197858970271744)
+**Document:** https://docs.google.com/document/d/1soQ_HD-jr4BiTnjXNvvAVc6JBJiqiEX4zkXbsRptEaA
+
+**Main Goal:** The Raudea Agreement aims to establish a multilateral free trade area while fostering democratic cooperation, student mobility, and shared environmental targets between Caprica, Alania, and the Columbian Union.
+
+---
+
+## Do a referendum asking the voters the following question: Do you agree that Caprica's citizens who reside abroad should be able to have the free and democratic right to vote in Caprican General Elections?
+**Date:** 2025-04-16
+**Proposer:** qtvnickbro (ID: 553254232791187486)
+**Document:** No Link
+
+**Main Goal:** The bill proposes a national referendum to determine whether Caprican citizens residing abroad should be granted the right to participate in General Elections.
+
+---
+
+## Open a Parliamentary Enquiry into Voting rights of Capricans abroad - Nick Bratanovič
+**Date:** 2025-04-15
+**Proposer:** qtvnickbro (ID: 553254232791187486)
+**Document:** No Link
+

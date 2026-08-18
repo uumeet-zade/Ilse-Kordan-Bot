@@ -166,8 +166,16 @@ async def daily_bill_scrape():
                 
                 # Push the updated JSON files to git to trigger GitHub Pages
                 print("Committing and pushing updated JSON to GitHub...")
+                
+                github_token = os.environ.get("GITHUB_TOKEN")
+                
+                if github_token:
+                    push_cmd = f'git push https://uumeet-zade:{github_token}@github.com/uumeet-zade/Ilse-Kordan-Bot.git'
+                else:
+                    push_cmd = 'git push'
+                    
                 git_proc = await asyncio.create_subprocess_shell(
-                    'git add bills.json status.json && git commit -m "Automated daily bills update" && git push',
+                    f'git add bills.json status.json && git commit -m "Automated daily bills update" && {push_cmd}',
                     stdout=asyncio.subprocess.PIPE,
                     stderr=asyncio.subprocess.PIPE
                 )

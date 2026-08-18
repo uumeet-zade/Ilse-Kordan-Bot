@@ -5467,3 +5467,25 @@
 
 ---
 
+## Raudea Agreement 2038 
+**Proposer:** nikderprager
+
+### What Ilse Liked:
+> I appreciate the Ordoliberal focus on restoring market competition through tariff reduction and the social democratic emphasis on student mobility and international democratic solidarity. Establishing a rules-based framework for economic cooperation after years of protectionist isolation is essential for Caprica's long-term prosperity.
+
+### What Ilse Disliked:
+> The 50% tariff reduction on luxury goods appears to be a regressive incentive that prioritizes elite consumption over the strengthening of foundational industries, and the agreement lacks specific social safety net protections for workers who may face displacement due to the accelerated reduction in trade barriers.
+
+---
+
+## Do a referendum asking the voters the following question: Do you agree that Caprica's citizens who reside abroad should be able to have the free and democratic right to vote in Caprican General Elections?
+**Proposer:** qtvnickbro
+
+### What Ilse Liked:
+> I support the expansion of democratic franchise, as empowering all citizens—regardless of residency—strengthens the legitimacy of our political system and ensures the social contract remains inclusive.
+
+### What Ilse Disliked:
+> I worry about the practical administrative burden and the potential for disconnected voters to influence domestic policy without being subject to the daily economic and social realities of Caprican life.
+
+---
+
