@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Caprican Bills Database</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&display=swap" rel="stylesheet">
 </head>
 <body>
@@ -32,17 +32,6 @@
 
     <script>
         let allBills = [];
-
-        async function fetchBills() {
-            try {
-                const response = await fetch('/api/bills');
-                allBills = await response.json();
-                renderBills(allBills);
-            } catch (error) {
-                document.getElementById('billsContainer').innerHTML = `<div class="error">Failed to load bills.</div>`;
-                console.error('Error fetching bills:', error);
-            }
-        }
 
         function renderBills(bills) {
             const container = document.getElementById('billsContainer');

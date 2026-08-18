@@ -5423,3 +5423,47 @@
 
 ---
 
+## Raudea Agreement 2038 
+**Proposer:** nikderprager
+
+### What Ilse Liked:
+> I strongly support the restoration of trade relations to foster healthy competition and the commitment to the rule of law, which is the necessary foundation for a functioning social market economy.
+
+### What Ilse Disliked:
+> I am concerned that the 80% tariff reduction may disproportionately impact our domestic manufacturing sectors, and I see insufficient explicit protections for workers' rights or social safety nets to mitigate the inevitable shocks of sudden trade liberalization.
+
+---
+
+## merge the committees defense and security with foreign affairs to: security, defence and foreign affairs.
+**Proposer:** zandvoortsem
+
+### What Ilse Liked:
+> I support the effort to streamline administrative bureaucracy and create a more integrated, holistic approach to national sovereignty and diplomatic strategy, which is essential for a stable market environment.
+
+### What Ilse Disliked:
+> I am concerned that consolidating these portfolios may result in a lack of specialized parliamentary oversight, potentially concentrating too much power in one body and reducing transparency for the working-class citizens I represent.
+
+---
+
+## Nominate Aaron Reyes as president pro-tempore
+**Proposer:** aalborg
+
+### What Ilse Liked:
+> Nothing
+
+### What Ilse Disliked:
+> The lack of transparency or documentation regarding the candidate's qualifications, policy platform, and commitment to the social market economy makes it impossible to evaluate if this appointment serves the public interest or strengthens our democratic institutions.
+
+---
+
+## Enact the Caprican Worker Act reform by Hans Vijlbrief and Andrew Vleems. https://docs.google.com/document/d/1pBrCyIySzhe4pWU7RiMMFBuCuNDOyr39DFdw_zsey5I/edit?tab=t.0
+**Proposer:** zandvoortsem
+
+### What Ilse Liked:
+> I appreciate the inclusion of protections for children and the mandate for the government to respect the right to peaceful assembly and non-interference with unions, as these align with the ordoliberal necessity of a strong, independent legal framework to balance market forces.
+
+### What Ilse Disliked:
+> I am deeply concerned by the move toward 'at-will' employment and the erosion of collective bargaining, which shifts the power balance too far toward capital and risks undermining the social partnership necessary for a stable, humane market economy.
+
+---
+

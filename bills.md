@@ -4452,3 +4452,44 @@
 **Proposer:** billy_clitoris (ID: 1266679401383198781)
 **Document:** No Link
 
+## Raudea Agreement 2038 
+**Date:** 2026-02-26
+**Proposer:** nikderprager (ID: 773197858970271744)
+**Document:** https://docs.google.com/document/d/1soQ_HD-jr4BiTnjXNvvAVc6JBJiqiEX4zkXbsRptEaA
+
+**Main Goal:** The Raudea Agreement 2038 establishes a framework for a free trade area, democratic cooperation, and shared climate goals between Caprica, Alania, and the Columbian Union to restore regional stability.
+
+---
+
+## merge the committees defense and security with foreign affairs to: security, defence and foreign affairs.
+**Date:** 2025-04-24
+**Proposer:** zandvoortsem (ID: 975815908809375774)
+**Document:** No Link
+
+**Main Goal:** The bill proposes consolidating the existing committees of defense and security with foreign affairs into a single unified committee.
+
+---
+
+## Nominate Aaron Reyes as president pro-tempore
+**Date:** 2025-04-24
+**Proposer:** aalborg (ID: 508032256166854666)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to appoint Aaron Reyes to the position of president pro-tempore.
+
+---
+
+## Enact the Caprican Worker Act reform by Hans Vijlbrief and Andrew Vleems. https://docs.google.com/document/d/1pBrCyIySzhe4pWU7RiMMFBuCuNDOyr39DFdw_zsey5I/edit?tab=t.0
+**Date:** 2025-04-17
+**Proposer:** zandvoortsem (ID: 975815908809375774)
+**Document:** https://docs.google.com/document/d/1pBrCyIySzhe4pWU7RiMMFBuCuNDOyr39DFdw_zsey5I
+
+**Main Goal:** This bill seeks to fundamentally deregulate the Caprican labor market by shifting employment terms to individual contracts, prohibiting closed-shop union mandates, and privatizing unemployment insurance systems.
+
+---
+
+## Allow voters (us) to vote in every region instead of just one (like how it was pre-reset). By Lisa.
+**Date:** 2025-04-17
+**Proposer:** asapientllama (ID: 789557256294760468)
+**Document:** No Link
+
