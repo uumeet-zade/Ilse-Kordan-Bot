@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bill Details - Caprican Bills Archive</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .bill-container {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        .back-link {
+            display: inline-block;
+            margin-bottom: 2rem;
+            color: var(--accent);
+            text-decoration: none;
+            font-weight: 600;
+        }
+        .back-link:hover {
+            text-decoration: underline;
+        }
+        .bill-detail-panel {
+            padding: 3rem;
+            width: 100%;
+            margin: 0 auto;
+        }
+        .bill-detail-panel h1 {
+            font-size: 1.8rem;
+            color: var(--text-main);
+            margin-bottom: 1rem;
+            line-height: 1.4;
+            overflow-wrap: break-word;
+            word-break: break-word;
+        }
+        .bill-detail-panel .date {
+            color: var(--text-muted);
+            margin-bottom: 2rem;
+            display: block;
+        }
+        .bill-detail-panel .meta {
+            margin-bottom: 2rem;
+        }
+        .bill-detail-panel .section {
+            margin-top: 2rem;
+        }
+        .bill-detail-panel .section p {
+            font-size: 1.1rem;
+            line-height: 1.8;
+            white-space: pre-wrap;
+        }
+    </style>
+</head>
+<body>
+    <div class="bill-container">
+        <a href="index.html" class="back-link">← Back to Archive</a>
+        
+        <div class="flat-panel bill-detail-panel" id="billContent">
+            <div class="loader">Loading bill details...</div>
+        </div>
+    </div>
+
+    <script>
+        async function loadBill() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const billId = parseInt(urlParams.get('id'));
+            
+            if (!billId) {
+                document.getElementById('billContent').innerHTML = `<div class="error">Invalid bill ID.</div>`;
+                return;
+            }
+            
+            try {
+                const response = await fetch('bills.json');
+                const bills = await response.json();
+                
+                const bill = bills.find(b => b.id === billId);
+                
+                if (!bill) {
+                    document.getElementById('billContent').innerHTML = `<div class="error">Bill not found.</div>`;
+                    return;
+                }
+                
+                document.title = `${bill.title} - Caprican Bills Archive`;
+                
+                let docLinkHtml = '';
+                if (bill.doc_link && bill.doc_link !== 'No Link') {
+                    docLinkHtml = `<a href="${bill.doc_link}" target="_blank" class="doc-link">View Full Document ↗</a>`;
+                }
+                
+                document.getElementById('billContent').innerHTML = `
+                    <h1>${bill.title}</h1>
+                    <span class="date">${bill.date || 'Unknown Date'}</span>
+                    
+                    <div class="meta">
+                        <span class="proposer">By: ${bill.proposer || 'Unknown'}</span>
+                        ${docLinkHtml}
+                    </div>
+                    
+                    <div class="section main-goal">
+                        <h3>Main Goal</h3>
+                        <p>${bill.main_goal || 'Not specified'}</p>
+                    </div>
+                `;
+            } catch (error) {
+                document.getElementById('billContent').innerHTML = `<div class="error">Failed to load bill data.</div>`;
+                console.error('Error fetching bills:', error);
+            }
+        }
+        
+        loadBill();
+    </script>
+</body>
+</html>
