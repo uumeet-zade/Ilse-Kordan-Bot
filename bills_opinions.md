@@ -4862,3 +4862,564 @@
 
 ---
 
+## Allow twitter voting for the upcoming and future general elections
+**Proposer:** uzkalnis
+
+### What Ilse Liked:
+> Nothing
+
+### What Ilse Disliked:
+> This proposal creates a dangerous vulnerability in our democratic framework; Twitter is a private, profit-driven entity subject to opaque algorithmic manipulation, and its integration into our electoral system undermines the institutional integrity and secure, secret-ballot standards essential to a functioning Ordoliberal state.
+
+---
+
+## Motion to host a Diddy Party for all incumbent MPs before the upcoming election.
+**Proposer:** solowingpixy7350
+
+### What Ilse Liked:
+> Nothing.
+
+### What Ilse Disliked:
+> This motion is an egregious abuse of public trust and parliamentary resources that reeks of elitist cronyism, standing in direct opposition to the Ordoliberal necessity for transparency and the Social Democratic duty to serve the working class rather than indulge in decadent, exclusionary festivities.
+
+---
+
+## Appoint <@975815908809375774> to the CEC.
+**Proposer:** billy_clitoris
+
+### What Ilse Liked:
+> Nothing.
+
+### What Ilse Disliked:
+> The proposal lacks any substantive policy framework, transparent qualification criteria, or evidence of institutional independence required to ensure a fair and competitive market for democratic processes.
+
+---
+
+## Appoint <@403953635740090379> to the CEC.
+**Proposer:** billy_clitoris
+
+### What Ilse Liked:
+> The focus on administrative continuity and the procedural staffing of essential democratic oversight institutions is vital for maintaining the rule of law.
+
+### What Ilse Disliked:
+> The proposal lacks any substantive information regarding the nominee's qualifications, their commitment to impartial governance, or the transparency of the selection process.
+
+---
+
+## For lack of governance, this Parliament declares no confidence in the government under the terms of Article III, Section II.e of the Constitution and nominates <@828696415017893978> as a suitable successor to the position of Prime Minister.
+**Proposer:** socdemadam
+
+### What Ilse Liked:
+> The strict adherence to constitutional procedure under Article III provides the necessary legal framework to ensure political accountability and restore institutional order.
+
+### What Ilse Disliked:
+> The lack of substantive documentation regarding the proposed successor's legislative agenda or economic platform violates the Ordoliberal principle of transparency and predictable governance.
+
+---
+
+## Declare Caprica dead.
+**Proposer:** smntrl
+
+### What Ilse Liked:
+> Nothing.
+
+### What Ilse Disliked:
+> As a Social Democrat committed to the strength of our democratic institutions and the social market economy, I find the premise of this bill entirely unacceptable; it represents a reckless abandonment of the constitutional order and the social contract that protects our working class.
+
+---
+
+## Forward the questions meant for the Prime Minister to the first Deputy Prime Minister Dowydas Hayward. Note: the Prime Minister still has the duty to answer the inquiry.
+**Proposer:** zandvoortsem
+
+### What Ilse Liked:
+> I appreciate the attempt to enhance administrative efficiency and streamline parliamentary processes, ensuring that the burden of bureaucratic intake does not obstruct the Prime Minister's oversight functions.
+
+### What Ilse Disliked:
+> The proposal introduces a potential layer of bureaucratic obfuscation; if the Prime Minister remains solely responsible, this delegation could become a performative exercise that delays transparency and dilutes the direct accountability essential to a functioning social democracy.
+
+---
+
+## Censure Prime Minister Bluespan and Minister Gabriponte for failing to uphold the constitutional duty of accountability, as enshrined in Article III, Section II.d of the Constitution, by refusing to answer questions posed by Members Adam and Vijlbrief as requested by Parliament.
+**Proposer:** zandvoortsem
+
+### What Ilse Liked:
+> As a proponent of Ordoliberalism and democratic institutions, I fully support the insistence on transparency and the strict adherence to constitutional checks and balances; without accountability, the rule of law collapses.
+
+### What Ilse Disliked:
+> While the censure is necessary, I worry that such reactive measures signal a deeper systemic breakdown in the cooperative governance required to maintain a functional social market economy.
+
+---
+
+## Summon Prime Minister <@1179175976584888401> and Treasury Secretary <@474236895635963904> to appear before Parliament and answer questions regarding the budget of the members Adam and Vijlbrief to take place at a time of the ministers' choosing within 24 hours of the passage of this motion in https://discord.com/channels/1189603606568108103/1334279859832225862.
+**Proposer:** zandvoortsem
+
+### What Ilse Liked:
+> As a Social Democrat, I value the principle of parliamentary oversight and the necessity for the executive branch to be held accountable by the people's representatives regarding public expenditure.
+
+### What Ilse Disliked:
+> The strict 24-hour window is potentially performative and risks disrupting the orderly function of governance; parliamentary inquiry should prioritize substantive rigor over rushed timelines.
+
+---
+
+## Raudea Agreement 2038 
+**Proposer:** nikderprager
+
+### What Ilse Liked:
+> I appreciate the commitment to the rule of law and the strengthening of multilateral democratic institutions, which are essential for a stable market economy, as well as the focus on student mobility and innovation as a means to empower the workforce.
+
+### What Ilse Disliked:
+> The 80% reduction in tariffs, particularly regarding luxury goods, risks favoring capital over labor if not paired with strong social protections, and the framework lacks specific guarantees against corporate monopolies that could undermine the competitive order I champion.
+
+---
+
+## 1997 Budget proposal spreadsheet: Cell Expenditure-A15 to read: "Interest payments (3%)"; Cell Expenditure-B15 to read "92"; Cell Analysis-B2 to read: "66"; Cell Analysis-B3 to read "2.01%"; Cell Analysis-B5 to read: "17.94%"; Cell Analysis-B8 to read: "3.68%"; Add new Cell Analysis-A9 to read: "Debt repayment"; Add new Cell Analysis-B9 to read: "66"
+**Proposer:** uzkalnis
+
+### What Ilse Liked:
+> I approve of the clear, transparent accounting of debt interest and the prioritization of debt repayment, as fiscal responsibility and a stable currency are the essential foundations for a functioning social market economy.
+
+### What Ilse Disliked:
+> The bill lacks any substantive policy framework to address how these debt servicing costs impact public investment in social infrastructure or the working-class standard of living.
+
+---
+
+## Summon Prime Minister <@1179175976584888401> and Treasury Secretary <@474236895635963904> to appear before Parliament and answer questions regarding the budget of the members Adam and Vijlbrief to take place at a time of the ministers' choosing within 24 hours of the passage of this motion in https://discord.com/channels/1189603606568108103/1334279859832225862.
+**Proposer:** zandvoortsem
+
+### What Ilse Liked:
+> As an Ordoliberal, I strongly support the principle of parliamentary oversight and institutional transparency, which ensures that government actions remain accountable to the rule of law and the public interest.
+
+### What Ilse Disliked:
+> The extremely short 24-hour window for scheduling could be perceived as performative pressure rather than a genuine effort to foster constructive, well-prepared dialogue between the executive and legislative branches.
+
+---
+
+## [1https://docs.google.com/spreadsheets/d/1F06M4KOzvqJ1hZufhcTFX6UNjHXXHVvMw--mtCT9DPA/edit?usp=drivesdk](1997 Caprican Federal Budget: Securing Our Future)
+**Proposer:** solowingpixy7350
+
+### What Ilse Liked:
+> Nothing
+
+### What Ilse Disliked:
+> I cannot provide an analysis as the provided link is inaccessible and contains no readable document text for review.
+
+---
+
+## 1997 Budget proposal spreadsheet: Cell Expenditure-A15 to read: "Interest payments (3%)"; Cell Expenditure-B15 to read "92"; Cell Analysis-B2 to read: "66"; Cell Analysis-B3 to read "2.01%"; Cell Analysis-B5 to read: "17.94%"; Cell Analysis-B8 to read: "3.68%"; Add new Cell Analysis-A9 to read: "Debt repayment"; Add new Cell Analysis-B9 to read: "66"
+**Proposer:** uzkalnis
+
+### What Ilse Liked:
+> The commitment to systematic debt repayment aligns with Ordoliberal principles of maintaining stable, transparent public finances to prevent long-term inflationary pressures.
+
+### What Ilse Disliked:
+> The lack of qualitative context regarding these expenditures makes it impossible to determine if the interest payments represent a burden on social infrastructure funding or an efficient management of public credit.
+
+---
+
+## For lack of Governance including a budget that has been missing for almost two years now: This Parliament declares non-confidence in the Government under the terms of Article III, Section II.e of the Constitution and nominates <@828696415017893978> as a suitable succesor to the position of Prime Minister.
+**Proposer:** zandvoortsem
+
+### What Ilse Liked:
+> As an Ordoliberal, I fundamentally value the rule of law and the necessity of a functioning, transparent budgetary process; a government that fails to produce a budget for two years forfeits its mandate and undermines the economic stability of Caprica.
+
+### What Ilse Disliked:
+> While the motion to dismiss is necessary given the circumstances, I am cautious about the proposed succession process, as it must ensure that the new administration is committed to institutional stability rather than merely replacing one form of gridlock with another.
+
+---
+
+## [1https://docs.google.com/spreadsheets/d/1F06M4KOzvqJ1hZufhcTFX6UNjHXXHVvMw--mtCT9DPA/edit?usp=drivesdk](1997 Caprican Federal Budget: Securing Our Future)
+**Proposer:** solowingpixy7350
+
+### What Ilse Liked:
+> Nothing
+
+### What Ilse Disliked:
+> I cannot provide a meaningful assessment because the provided link contains no actionable legislative text or budgetary details for me to analyze according to my Ordoliberal and Social Democratic principles.
+
+---
+
+## Put all revenue from the proposed 1% VAT to the science budget
+**Proposer:** baseddepartmint
+
+### What Ilse Liked:
+> I support the prioritization of long-term investment in scientific innovation, as it strengthens our competitive framework and fosters future productivity, which is essential to a robust Ordoliberal market economy.
+
+### What Ilse Disliked:
+> I am concerned that a broad-based VAT is a regressive tax that disproportionately burdens the working class, potentially undermining social cohesion if the fiscal policy is not balanced by broader structural reforms or targeted relief for lower-income households.
+
+---
+
+## For lack of Governance including a budget that has been missing for almost two years now: This Parliament declares non-confidence in the Government under the terms of Article III, Section II.e of the Constitution and nominates <@828696415017893978> as a suitable succesor to the position of Prime Minister.
+**Proposer:** zandvoortsem
+
+### What Ilse Liked:
+> As an Ordoliberal, I appreciate the restoration of constitutional order and the principle of accountability; a government unable to produce a budget for two years is a dereliction of the basic social contract.
+
+### What Ilse Disliked:
+> The lack of policy substance or a stated legislative program for the successor is concerning, as structural stability requires more than just a change in leadership.
+
+---
+
+## Amend Article 2 Section I of the CPA to allow government seizure of private property via nationalisation if appropriate compensation is given. By Lisa.
+**Proposer:** asapientllama
+
+### What Ilse Liked:
+> The inclusion of a compensation requirement acknowledges property rights, which is a fundamental component of the market order; however, the lack of defined constraints on such seizures makes it difficult to support.
+
+### What Ilse Disliked:
+> As an Ordoliberal, I find the prospect of state-led expropriation fundamentally dangerous to the competitive order and the rule of law. Arbitrary nationalization threatens the economic security of the working class by destabilizing private ownership, which serves as the ultimate safeguard against state overreach.
+
+---
+
+## Put all revenue from the proposed 1% VAT to the science budget
+**Proposer:** baseddepartmint
+
+### What Ilse Liked:
+> I support the prioritization of long-term investment in scientific research, as fostering technological advancement is essential for maintaining a competitive social market economy.
+
+### What Ilse Disliked:
+> I strongly oppose this regressive tax structure; a VAT disproportionately burdens the working class, and earmarking tax revenue violates the Ordoliberal principle of budgetary unity, which prevents fragmented and inefficient fiscal policy.
+
+---
+
+## implement a 1% VAT on all goods and services. Exceptions: groceries, care and healthcare, education, sport, culture, housing, and financial services.
+**Proposer:** zandvoortsem
+
+### What Ilse Liked:
+> I appreciate the inclusion of robust exemptions for groceries, healthcare, and education, which protects the purchasing power of the working class and upholds the Social Democratic commitment to social equity.
+
+### What Ilse Disliked:
+> As an Ordoliberal, I am concerned that a broad VAT structure, even at a low rate, introduces market distortions and administrative complexity that may create an uneven playing field for smaller enterprises.
+
+---
+
+## Amend Article 2 Section I of the CPA to allow government seizure of private property via nationalisation if appropriate compensation is given. By Lisa.
+**Proposer:** asapientllama
+
+### What Ilse Liked:
+> Nothing.
+
+### What Ilse Disliked:
+> As an Ordoliberal, I fundamentally oppose state-led expropriation as it undermines the sanctity of private property rights, which are the essential bedrock of a functioning competitive market order. Nationalization distorts economic incentives and risks placing undue power in the hands of the state, threatening the very economic freedom that ensures long-term social prosperity.
+
+---
+
+## Civil Protections Act, 1997
+**Proposer:** uzkalnis
+
+### What Ilse Liked:
+> As an Ordoliberal, I strongly support the creation of a stable, predictable rule of law that constrains state overreach, as well as the provision of state-funded legal aid which ensures that the working class is not disadvantaged by an imbalance of resources in the courtroom.
+
+### What Ilse Disliked:
+> While the protections are commendable, I am wary of the 'exceptional emergencies' clause in Article II, Section 1, which lacks clear definition and risks being exploited by state actors to bypass the very warrants this legislation seeks to require.
+
+---
+
+## Into the Future Act
+**Proposer:** baseddepartmint
+
+### What Ilse Liked:
+> I support the focus on modernization and the investment in education and research, as these are essential drivers of long-term economic competitiveness and social progress. Strengthening our ties with international academic institutions is a pragmatic step toward ensuring our workforce remains skilled and our economy remains innovative.
+
+### What Ilse Disliked:
+> I am deeply concerned by Section 6.6, which removes the University of Caprica system from external regulatory oversight, making it answerable only to Parliament. As an Ordoliberal, I believe that public institutions must be subject to clear, transparent, and independent checks and balances to prevent institutional capture and ensure accountability in the use of public funds.
+
+---
+
+## implement a 1% VAT on all goods and services. Exceptions: groceries, care and healthcare, education, sport, culture, housing, and financial services.
+**Proposer:** zandvoortsem
+
+### What Ilse Liked:
+> I appreciate the targeted approach to the exemptions, which protects the working class by shielding essential services like healthcare, education, and housing from additional tax burdens.
+
+### What Ilse Disliked:
+> I am concerned that a broad VAT, even at a low rate, remains a regressive tax instrument that could dampen domestic consumption and complicate the market framework for small businesses.
+
+---
+
+## Amend section 6 to: the taxes raised as a result of the taxes shall be collected in the treasury and used for alleviating government debt until 1999. (Afterwards the revenue can be used for anything else like any other revenue)
+**Proposer:** zandvoortsem
+
+### What Ilse Liked:
+> The emphasis on fiscal responsibility and the commitment to reducing government debt aligns with the Ordoliberal requirement for a stable, sound monetary and budgetary foundation that prevents the state from becoming a burden on future generations.
+
+### What Ilse Disliked:
+> The rigid earmarking of these funds prevents the necessary flexibility to invest in immediate social welfare programs or public infrastructure, which are vital for maintaining the social contract and supporting the working class during periods of economic transition.
+
+---
+
+## Civil Protections Act, 1997
+**Proposer:** uzkalnis
+
+### What Ilse Liked:
+> As an Ordoliberal, I strongly support the establishment of clear, enforceable rules that constrain the state and prevent the abuse of executive power, as well as the provision of state-funded legal aid, which ensures that equality before the law is not merely a theoretical construct but a practical reality for the working class.
+
+### What Ilse Disliked:
+> Nothing.
+
+---
+
+## EXCESSIVE SPENDING REDUCTION ACT, 1996
+**Proposer:** uzkalnis
+
+### What Ilse Liked:
+> I support the ordoliberal principle of fiscal responsibility and long-term sustainability; a 100% debt-to-GDP ratio poses a systemic threat to our market economy that must be addressed to preserve the state's capacity to act.
+
+### What Ilse Disliked:
+> I strongly object to the indiscriminate cutting of investments in health and education, as these are the vital 'human capital' foundations required for a productive, fair, and competitive social market economy.
+
+---
+
+## Into the Future Act
+**Proposer:** baseddepartmint
+
+### What Ilse Liked:
+> As an Ordoliberal, I strongly support the focus on fostering innovation and modernization through the National Scientific Grant fund, which promotes competitive research, as well as the move toward international collaboration, which helps integrate Caprica into the global market of ideas.
+
+### What Ilse Disliked:
+> I have deep concerns regarding Section 6, Clause 6; removing external regulation of the University of Caprica system in favor of an internal Oversight body undermines the principle of checks and balances and risks creating an opaque, self-serving bureaucratic institution that lacks proper democratic accountability.
+
+---
+
+## Nicotine and Harmful Products Control Act
+**Proposer:** baseddepartmint
+
+### What Ilse Liked:
+> As an Ordoliberal, I appreciate the state using fiscal levers to internalize the negative externalities of these goods, as well as the earmarking of revenue for scientific research which addresses the long-term societal costs of these products.
+
+### What Ilse Disliked:
+> The regressive nature of these taxes poses a disproportionate financial burden on working-class families, and the lack of transparency or specific legislative guidelines for the discretionary spending of sugar tax revenue contradicts my commitment to fiscal accountability and social equity.
+
+---
+
+## Amend section 6 to: the taxes raised as a result of the taxes shall be collected in the treasury and used for alleviating government debt until 1999. (Afterwards the revenue can be used for anything else like any other revenue)
+**Proposer:** zandvoortsem
+
+### What Ilse Liked:
+> I approve of the commitment to fiscal discipline and the reduction of government debt, which is a foundational element for ensuring long-term economic stability and preventing the state from becoming beholden to creditors.
+
+### What Ilse Disliked:
+> The rigid earmarking of revenue, even for debt service, risks undermining the necessary flexibility of fiscal policy and neglects the immediate social welfare investments that are crucial to protecting the working class during periods of transition.
+
+---
+
+## EXCESSIVE SPENDING REDUCTION ACT, 1996
+**Proposer:** uzkalnis
+
+### What Ilse Liked:
+> I approve of the fiscal responsibility demonstrated by addressing the 100% debt-to-GDP ratio, as maintaining a stable currency and sustainable public finances is a prerequisite for a functioning social market economy.
+
+### What Ilse Disliked:
+> I fundamentally object to the erosion of long-term social capital; by cutting education and medical infrastructure, we undermine the competitive potential of our workforce and the social welfare of our citizens, which is a short-sighted approach that neglects the Ordoliberal duty to ensure equal opportunity and future economic viability.
+
+---
+
+## Criminal Reform Act of 1996
+**Proposer:** uzkalnis
+
+### What Ilse Liked:
+> I appreciate the move toward restorative justice for youth offenders through vocational training, as well as the pragmatic decriminalization of marijuana, which reduces the unnecessary burden on the state's criminal justice machinery and respects individual autonomy.
+
+### What Ilse Disliked:
+> I am deeply concerned by the repeal of the assault rifle ban, which undermines public security, and the decentralization of rehabilitation funding, which risks creating systemic inequalities in social service quality across different regions.
+
+---
+
+## Nicotine and Harmful Products Control Act
+**Proposer:** baseddepartmint
+
+### What Ilse Liked:
+> I support the use of fiscal instruments to internalize the negative externalities of these goods, as well as the earmarking of tax revenue to strengthen our scientific research infrastructure—a move that promotes both public health and institutional advancement.
+
+### What Ilse Disliked:
+> I am concerned that these taxes are regressive in nature, disproportionately burdening the working class who often have fewer dietary alternatives, and I find the lack of explicit social investment for the funds raised from the sugar tax to be a missed opportunity for building a more resilient social safety net.
+
+---
+
+## Amend Section 5 of the Caprican Bus Service Act, where intercity buses are to be operated by private transportation companies under a "Public-Private Partnership", where private companies would operate and maintain the buses if they are willing to. An investigation would be conducted on a company bidding for the maintenance of the buses to determine if they can properly maintain the buses. The time for how long the company operates these buses and the number of buses that one company operates are to be determined through negotiations between the government and the company. The funding to purchase the buses in the first place will still come from the Federal Government. This is to cut down government costs for maintaining the buses, avoiding unwanted overspending. This is also to ensure that the buses will continue to be of high quality long-term.
+**Proposer:** matiyuaaa
+
+### What Ilse Liked:
+> The focus on rigorous vetting and quality assurance measures for private contractors aligns with Ordoliberal principles of maintaining a functional competitive framework while ensuring service standards.
+
+### What Ilse Disliked:
+> The reliance on private negotiations for operating terms and fleet size risks creating private monopolies, and the government's continued responsibility for capital costs while offloading the operation raises concerns regarding the fair distribution of risk and public accountability.
+
+---
+
+## Criminal Reform Act of 1996
+**Proposer:** uzkalnis
+
+### What Ilse Liked:
+> I support the emphasis on vocational training and education for young offenders, which prioritizes social integration over mere incarceration, as well as the pragmatic decriminalization of marijuana that avoids the pitfalls of predatory, for-profit corporate exploitation.
+
+### What Ilse Disliked:
+> I am deeply concerned about the repeal of the assault rifle ban, as it undermines the safety and social order necessary for a functioning democracy, and the shift to regional budget funding for youth programs, which threatens to create dangerous disparities in service quality based on local wealth.
+
+---
+
+## Amend this bill to say 605.15 mn not bn. By Lisa.
+**Proposer:** asapientllama
+
+### What Ilse Liked:
+> I appreciate the commitment to fiscal transparency and accuracy; a state cannot maintain order or trust without precise accounting of its budgetary commitments.
+
+### What Ilse Disliked:
+> The lack of explanatory documentation accompanying such a significant reduction in allocated funds is deeply troubling, as it obscures the actual impact on public services and economic stability.
+
+---
+
+## Amend Section 5 of the Caprican Bus Service Act, where intercity buses are to be operated by private transportation companies under a "Public-Private Partnership", where private companies would operate and maintain the buses if they are willing to. An investigation would be conducted on a company bidding for the maintenance of the buses to determine if they can properly maintain the buses. The time for how long the company operates these buses and the number of buses that one company operates are to be determined through negotiations between the government and the company. The funding to purchase the buses in the first place will still come from the Federal Government. This is to cut down government costs for maintaining the buses, avoiding unwanted overspending. This is also to ensure that the buses will continue to be of high quality long-term.
+**Proposer:** matiyuaaa
+
+### What Ilse Liked:
+> I support the emphasis on rigorous pre-qualification investigations for bidders, as this reflects the Ordoliberal principle of ensuring market integrity and preventing monopolies through state oversight.
+
+### What Ilse Disliked:
+> I am concerned that the bill lacks transparent, competitive bidding rules and fixed parameters for contract duration, which risks 'crony capitalism' where private interests supersede public service duties.
+
+---
+
+## Caprican Bus Service Act by Lisa.
+**Proposer:** asapientllama
+
+### What Ilse Liked:
+> I support the emphasis on state-provided infrastructure as a necessary foundation for a functioning market, ensuring that citizens have the mobility required to participate in the labor market.
+
+### What Ilse Disliked:
+> The bill currently lacks any language regarding the enforcement of competitive bidding processes or the prevention of state-monopoly inefficiencies, which are vital to maintaining a truly competitive social market economy.
+
+---
+
+## Amend this bill to say 605.15 mn not bn. By Lisa.
+**Proposer:** asapientllama
+
+### What Ilse Liked:
+> As an Ordoliberal, I appreciate the commitment to fiscal precision and the avoidance of budgetary inflation, as clear and accurate accounting is the bedrock of a stable market order.
+
+### What Ilse Disliked:
+> I am concerned by the total lack of context regarding the original bill, as administrative corrections should always be accompanied by a rigorous impact analysis to ensure public funds are being directed toward productive competition rather than waste.
+
+---
+
+## Nominate <@1227255525650206871> as Prime Minister.
+**Proposer:** qtvnickbro
+
+### What Ilse Liked:
+> Nothing
+
+### What Ilse Disliked:
+> The proposal lacks any substantive policy framework or commitment to the social-market economy, focusing purely on the consolidation of executive power without demonstrating how this leadership will protect the working class or uphold the necessary competitive order.
+
+---
+
+## Nominate <@1179175976584888401> as Prime Minister.
+**Proposer:** billy_clitoris
+
+### What Ilse Liked:
+> Nothing
+
+### What Ilse Disliked:
+> The bill lacks any substantive policy framework, economic vision, or clear adherence to the ordoliberal principles of institutional stability and the social market economy that are vital for Caprica's governance.
+
+---
+
+## Caprican Bus Service Act by Lisa.
+**Proposer:** asapientllama
+
+### What Ilse Liked:
+> I support the emphasis on accessible public infrastructure as a foundational necessity for a functioning competitive market and as a means to ensure social mobility for the working class.
+
+### What Ilse Disliked:
+> Without specific text provided, I am concerned about the potential for fiscal irresponsibility or the creation of a state-run monopoly that stifles private enterprise and efficiency.
+
+---
+
+## Nominate <@789557256294760468> as Prime Minister.
+**Proposer:** billy_clitoris
+
+### What Ilse Liked:
+> Nothing.
+
+### What Ilse Disliked:
+> The proposal lacks any substantive policy framework or commitment to the ordoliberal principles of institutional stability and market-social stability, appearing instead to be a purely personality-driven political appointment without clear governance goals.
+
+---
+
+## Nominate <@1227255525650206871> as Prime Minister.
+**Proposer:** qtvnickbro
+
+### What Ilse Liked:
+> Nothing
+
+### What Ilse Disliked:
+> The bill lacks any substantive policy framework or commitment to the ordoliberal principles of a strong, competitive market order and social welfare protections, functioning purely as a bureaucratic appointment rather than a legislative mandate for the people.
+
+---
+
+## Nominate <@403953635740090379> as Prime Minister.
+**Proposer:** billy_clitoris
+
+### What Ilse Liked:
+> Nothing.
+
+### What Ilse Disliked:
+> The proposal lacks any substantive policy framework or commitment to ordoliberal principles, such as maintaining a competitive market order or securing social welfare; it is merely an exercise in patronage rather than governance.
+
+---
+
+## Nominate <@1179175976584888401> as Prime Minister.
+**Proposer:** billy_clitoris
+
+### What Ilse Liked:
+> Nothing
+
+### What Ilse Disliked:
+> The proposal lacks any substantive policy framework or commitment to the social market economy, failing to outline how the nominee intends to uphold ordoliberal principles or protect the interests of the working class.
+
+---
+
+## Nominate <@403953635740090379> as Prime Minister.
+**Proposer:** billy_clitoris
+
+### What Ilse Liked:
+> Nothing
+
+### What Ilse Disliked:
+> The proposal lacks any substantive policy framework or commitment to the social market economy, prioritizing individual appointment over the transparent, ordoliberal institutional processes required for stable governance.
+
+---
+
+## Nominate <@789557256294760468> as Prime Minister.
+**Proposer:** billy_clitoris
+
+### What Ilse Liked:
+> Nothing
+
+### What Ilse Disliked:
+> The bill lacks any substantive policy framework or commitment to the ordoliberal principles of a market-oriented constitution and social justice, rendering a nomination without a platform fundamentally irresponsible.
+
+---
+
+## Reappoint Lisa Edelstein-Powell as Prime Minister of Caprica.
+**Proposer:** matiyuaaa
+
+### What Ilse Liked:
+> Stability in executive leadership can prevent the kind of political volatility that often disrupts the social market economy and undermines long-term regulatory frameworks.
+
+### What Ilse Disliked:
+> I am concerned by the lack of structural procedural transparency regarding the reappointment process, as the concentration of power without robust competitive democratic mechanisms contradicts the Ordoliberal principle of preventing the abuse of state authority.
+
+---
+
+## Nominate <@403953635740090379> as Prime Minister.
+**Proposer:** billy_clitoris
+
+### What Ilse Liked:
+> Nothing.
+
+### What Ilse Disliked:
+> The proposal lacks any substantive policy framework or commitment to the social market economy, appearing instead as an opaque administrative maneuver rather than a transparent political mandate based on economic principles.
+
+---
+

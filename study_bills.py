@@ -2,6 +2,7 @@ import discord
 import asyncio
 import sqlite3
 from database import get_connection
+from export_json import export
 import os
 import re
 import json
@@ -186,6 +187,10 @@ class BillScraper(discord.Client):
                 await asyncio.sleep(4) # Rate limit protection
                 
         print("Done! Check bills.md and bills_opinions.md")
+        
+        print("Regenerating static JSON for GitHub pages...")
+        export()
+        
         await self.close()
 
 if __name__ == "__main__":

@@ -163,8 +163,22 @@ async def daily_bill_scrape():
                 c.execute('UPDATE system_status SET last_update = ? WHERE id = 1', (time.time(),))
                 conn.commit()
                 conn.close()
+                
+                # Push the updated JSON files to git to trigger GitHub Pages
+                print("Committing and pushing updated JSON to GitHub...")
+                git_proc = await asyncio.create_subprocess_shell(
+                    'git add bills.json status.json && git commit -m "Automated daily bills update" && git push',
+                    stdout=asyncio.subprocess.PIPE,
+                    stderr=asyncio.subprocess.PIPE
+                )
+                git_stdout, git_stderr = await git_proc.communicate()
+                if git_proc.returncode == 0:
+                    print("Successfully pushed to GitHub.")
+                else:
+                    print(f"Git push failed: {git_stderr.decode()}")
+                    
             except Exception as e:
-                print(f"Failed to record update time: {e}")
+                print(f"Failed to record update time or push: {e}")
         else:
             print(f"Daily bill scrape failed: {stderr.decode()}")
     except Exception as e:

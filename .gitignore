@@ -1,0 +1,29 @@
+# Secrets
+.env
+secret.key
+
+# Databases
+*.db
+*.sqlite3
+memory.db
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
+
+# Don't ignore static assets and our data file!
+!bills.json
+!static/
+!templates/

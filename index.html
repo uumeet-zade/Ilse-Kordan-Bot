@@ -52,7 +52,7 @@
             }
             
             container.innerHTML = bills.map((bill, index) => `
-                <a href="/bill/${bill.id}" class="bill-card flat-panel clickable" style="text-decoration: none; color: inherit;">
+                <a href="bill.html?id=${bill.id}" class="bill-card flat-panel clickable" style="text-decoration: none; color: inherit;">
                     <div class="bill-header">
                         <h2 class="truncate">${bill.title}</h2>
                         <span class="date">${bill.date || 'Unknown Date'}</span>
@@ -79,7 +79,7 @@
         
         async function fetchBills() {
             try {
-                const response = await fetch('/api/bills');
+                const response = await fetch('bills.json');
                 allBills = await response.json();
                 updateDisplay(allBills);
             } catch (error) {
@@ -100,7 +100,7 @@
         
         async function fetchStatus() {
             try {
-                const response = await fetch('/api/status');
+                const response = await fetch('status.json');
                 const status = await response.json();
                 
                 const dot = document.getElementById('statusDot');
@@ -125,7 +125,6 @@
         // Initialize
         fetchBills();
         fetchStatus();
-        setInterval(fetchStatus, 30000); // Check status every 30s
     </script>
 </body>
 </html>

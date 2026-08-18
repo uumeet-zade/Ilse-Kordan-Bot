@@ -3983,3 +3983,472 @@
 
 ---
 
+## Allow twitter voting for the upcoming and future general elections
+**Date:** 2025-05-28
+**Proposer:** uzkalnis (ID: 403953635740090379)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to modernize the electoral process by enabling citizens to cast their votes in general elections via the social media platform Twitter.
+
+---
+
+## Motion to host a Diddy Party for all incumbent MPs before the upcoming election.
+**Date:** 2025-05-28
+**Proposer:** solowingpixy7350 (ID: 606587837831446558)
+**Document:** No Link
+
+**Main Goal:** The motion proposes the hosting of a private social event, colloquially known as a 'Diddy Party,' exclusively for current Members of Parliament prior to the general election.
+
+---
+
+## Appoint <@975815908809375774> to the CEC.
+**Date:** 2025-05-25
+**Proposer:** billy_clitoris (ID: 1266679401383198781)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to appoint a specific individual to the Caprica Electoral Commission.
+
+---
+
+## Appoint <@403953635740090379> to the CEC.
+**Date:** 2025-05-25
+**Proposer:** billy_clitoris (ID: 1266679401383198781)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to formalize the appointment of a specific individual to the Caprica Electoral Commission.
+
+---
+
+## For lack of governance, this Parliament declares no confidence in the government under the terms of Article III, Section II.e of the Constitution and nominates <@828696415017893978> as a suitable successor to the position of Prime Minister.
+**Date:** 2025-05-25
+**Proposer:** socdemadam (ID: 828696415017893978)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to dissolve the current executive branch by passing a motion of no confidence and appointing a new Prime Minister.
+
+---
+
+## Declare Caprica dead.
+**Date:** 2025-05-21
+**Proposer:** smntrl (ID: 413791966900387841)
+**Document:** No Link
+
+**Main Goal:** The bill proposes the formal legal and political dissolution of the state of Caprica.
+
+---
+
+## Forward the questions meant for the Prime Minister to the first Deputy Prime Minister Dowydas Hayward. Note: the Prime Minister still has the duty to answer the inquiry.
+**Date:** 2025-05-13
+**Proposer:** zandvoortsem (ID: 975815908809375774)
+**Document:** No Link
+
+**Main Goal:** This bill proposes delegating the administrative task of receiving parliamentary inquiries to the Deputy Prime Minister while maintaining the Prime Minister's ultimate accountability.
+
+---
+
+## Censure Prime Minister Bluespan and Minister Gabriponte for failing to uphold the constitutional duty of accountability, as enshrined in Article III, Section II.d of the Constitution, by refusing to answer questions posed by Members Adam and Vijlbrief as requested by Parliament.
+**Date:** 2025-05-08
+**Proposer:** zandvoortsem (ID: 975815908809375774)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to formally censure the Prime Minister and Minister Gabriponte for their failure to comply with constitutional requirements regarding parliamentary oversight and accountability.
+
+---
+
+## Summon Prime Minister <@1179175976584888401> and Treasury Secretary <@474236895635963904> to appear before Parliament and answer questions regarding the budget of the members Adam and Vijlbrief to take place at a time of the ministers' choosing within 24 hours of the passage of this motion in https://discord.com/channels/1189603606568108103/1334279859832225862.
+**Date:** 2025-05-06
+**Proposer:** zandvoortsem (ID: 975815908809375774)
+**Document:** No Link
+
+**Main Goal:** This motion seeks to compel the Prime Minister and the Treasury Secretary to appear before Parliament to provide transparency and account for specific budgetary allocations.
+
+---
+
+## Raudea Agreement 2038 
+**Date:** 2026-02-26
+**Proposer:** nikderprager (ID: 773197858970271744)
+**Document:** https://docs.google.com/document/d/1soQ_HD-jr4BiTnjXNvvAVc6JBJiqiEX4zkXbsRptEaA
+
+**Main Goal:** The Raudea Agreement aims to establish a free trade area, enhance democratic cooperation, and align climate policy among Caprica, Alania, and the Columbian Union.
+
+---
+
+## 1997 Budget proposal spreadsheet: Cell Expenditure-A15 to read: "Interest payments (3%)"; Cell Expenditure-B15 to read "92"; Cell Analysis-B2 to read: "66"; Cell Analysis-B3 to read "2.01%"; Cell Analysis-B5 to read: "17.94%"; Cell Analysis-B8 to read: "3.68%"; Add new Cell Analysis-A9 to read: "Debt repayment"; Add new Cell Analysis-B9 to read: "66"
+**Date:** 2025-05-05
+**Proposer:** uzkalnis (ID: 403953635740090379)
+**Document:** No Link
+
+**Main Goal:** The bill proposes an adjustment to the national budget spreadsheet to formalize interest payment allocations and debt repayment schedules. It seeks to quantify and track fiscal obligations through specific technical data entry.
+
+---
+
+## Summon Prime Minister <@1179175976584888401> and Treasury Secretary <@474236895635963904> to appear before Parliament and answer questions regarding the budget of the members Adam and Vijlbrief to take place at a time of the ministers' choosing within 24 hours of the passage of this motion in https://discord.com/channels/1189603606568108103/1334279859832225862.
+**Date:** 2025-05-06
+**Proposer:** zandvoortsem (ID: 975815908809375774)
+**Document:** No Link
+
+**Main Goal:** This motion mandates the Prime Minister and Treasury Secretary to appear before Parliament to provide transparency regarding the specific budgetary allocations of members Adam and Vijlbrief.
+
+---
+
+## [1https://docs.google.com/spreadsheets/d/1F06M4KOzvqJ1hZufhcTFX6UNjHXXHVvMw--mtCT9DPA/edit?usp=drivesdk](1997 Caprican Federal Budget: Securing Our Future)
+**Date:** 2025-05-05
+**Proposer:** solowingpixy7350 (ID: 606587837831446558)
+**Document:** No Link
+
+**Main Goal:** The bill aims to outline the fiscal appropriations and economic strategies for the Caprican federal government during the 1997 fiscal year.
+
+---
+
+## 1997 Budget proposal spreadsheet: Cell Expenditure-A15 to read: "Interest payments (3%)"; Cell Expenditure-B15 to read "92"; Cell Analysis-B2 to read: "66"; Cell Analysis-B3 to read "2.01%"; Cell Analysis-B5 to read: "17.94%"; Cell Analysis-B8 to read: "3.68%"; Add new Cell Analysis-A9 to read: "Debt repayment"; Add new Cell Analysis-B9 to read: "66"
+**Date:** 2025-05-05
+**Proposer:** uzkalnis (ID: 403953635740090379)
+**Document:** No Link
+
+**Main Goal:** This bill serves as an administrative update to the fiscal budget spreadsheet to reflect interest payment obligations and allocate funds for debt repayment.
+
+---
+
+## For lack of Governance including a budget that has been missing for almost two years now: This Parliament declares non-confidence in the Government under the terms of Article III, Section II.e of the Constitution and nominates <@828696415017893978> as a suitable succesor to the position of Prime Minister.
+**Date:** 2025-05-04
+**Proposer:** zandvoortsem (ID: 975815908809375774)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to dissolve the current government due to a lack of governance and a prolonged budgetary impasse, while proposing a new candidate for the position of Prime Minister.
+
+---
+
+## [1https://docs.google.com/spreadsheets/d/1F06M4KOzvqJ1hZufhcTFX6UNjHXXHVvMw--mtCT9DPA/edit?usp=drivesdk](1997 Caprican Federal Budget: Securing Our Future)
+**Date:** 2025-05-05
+**Proposer:** solowingpixy7350 (ID: 606587837831446558)
+**Document:** No Link
+
+**Main Goal:** The 1997 Caprican Federal Budget aims to establish national fiscal priorities and resource allocation to ensure long-term stability and economic growth for the colony.
+
+---
+
+## Put all revenue from the proposed 1% VAT to the science budget
+**Date:** 2025-05-04
+**Proposer:** baseddepartmint (ID: 1179175976584888401)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to allocate the entirety of revenue generated from a newly proposed 1% Value Added Tax exclusively to the national science and research budget.
+
+---
+
+## For lack of Governance including a budget that has been missing for almost two years now: This Parliament declares non-confidence in the Government under the terms of Article III, Section II.e of the Constitution and nominates <@828696415017893978> as a suitable succesor to the position of Prime Minister.
+**Date:** 2025-05-04
+**Proposer:** zandvoortsem (ID: 975815908809375774)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to resolve a two-year parliamentary gridlock by passing a motion of no-confidence in the current government and appointing a new Prime Minister.
+
+---
+
+## Amend Article 2 Section I of the CPA to allow government seizure of private property via nationalisation if appropriate compensation is given. By Lisa.
+**Date:** 2025-05-04
+**Proposer:** asapientllama (ID: 789557256294760468)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to amend the Caprican Constitution to grant the government the legal authority to seize private property through nationalization, provided that fair compensation is rendered.
+
+---
+
+## Put all revenue from the proposed 1% VAT to the science budget
+**Date:** 2025-05-04
+**Proposer:** baseddepartmint (ID: 1179175976584888401)
+**Document:** No Link
+
+**Main Goal:** The bill aims to earmark all revenue generated from a proposed 1% Value Added Tax (VAT) specifically for the national science and innovation budget.
+
+---
+
+## implement a 1% VAT on all goods and services. Exceptions: groceries, care and healthcare, education, sport, culture, housing, and financial services.
+**Date:** 2025-05-04
+**Proposer:** zandvoortsem (ID: 975815908809375774)
+**Document:** No Link
+
+**Main Goal:** The bill aims to broaden the tax base by implementing a 1% Value Added Tax on most goods and services while maintaining broad exemptions for essential social services.
+
+---
+
+## Amend Article 2 Section I of the CPA to allow government seizure of private property via nationalisation if appropriate compensation is given. By Lisa.
+**Date:** 2025-05-04
+**Proposer:** asapientllama (ID: 789557256294760468)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to amend the Caprican Constitution to grant the government the authority to nationalize private property, provided that fair compensation is issued to the owners.
+
+---
+
+## Civil Protections Act, 1997
+**Date:** 2025-05-04
+**Proposer:** uzkalnis (ID: 403953635740090379)
+**Document:** https://docs.google.com/document/d/1D7pI2d6SevPvOeiIc6fwGsq6DK2SGGnvIMFdFUkylss
+
+**Main Goal:** The Civil Protections Act, 1997 aims to codify essential civil liberties, establishing a rigorous legal framework to protect individuals from arbitrary state power, unlawful surveillance, and judicial malpractice.
+
+---
+
+## Into the Future Act
+**Date:** 2025-05-03
+**Proposer:** baseddepartmint (ID: 1179175976584888401)
+**Document:** https://docs.google.com/document/d/1Jvf12JxUw4vJ_-my1KJkYLh3FouKwH-XWoFODL-IAaw
+
+**Main Goal:** The bill aims to modernize Caprican scientific research and academia by increasing government funding and integrating the nation into Columbian Union scientific institutions and projects.
+
+---
+
+## implement a 1% VAT on all goods and services. Exceptions: groceries, care and healthcare, education, sport, culture, housing, and financial services.
+**Date:** 2025-05-04
+**Proposer:** zandvoortsem (ID: 975815908809375774)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to broaden the tax base by implementing a 1% Value Added Tax on most consumer goods and services while exempting essential sectors.
+
+---
+
+## Amend section 6 to: the taxes raised as a result of the taxes shall be collected in the treasury and used for alleviating government debt until 1999. (Afterwards the revenue can be used for anything else like any other revenue)
+**Date:** 2025-05-01
+**Proposer:** zandvoortsem (ID: 975815908809375774)
+**Document:** No Link
+
+**Main Goal:** The bill mandates that specific tax revenues must be diverted exclusively toward the reduction of national debt until the year 1999.
+
+---
+
+## Civil Protections Act, 1997
+**Date:** 2025-05-04
+**Proposer:** uzkalnis (ID: 403953635740090379)
+**Document:** https://docs.google.com/document/d/1D7pI2d6SevPvOeiIc6fwGsq6DK2SGGnvIMFdFUkylss
+
+**Main Goal:** The Civil Protections Act, 1997 aims to codify fundamental legal safeguards, ensuring due process, protection from arbitrary state power, and the right to privacy for all citizens of Caprica.
+
+---
+
+## EXCESSIVE SPENDING REDUCTION ACT, 1996
+**Date:** 2025-05-01
+**Proposer:** uzkalnis (ID: 403953635740090379)
+**Document:** https://docs.google.com/document/d/1mVHj-3T1vwsDhcBEHUV1q8-yzyEzX4C4IFi9L4XC4zI
+
+**Main Goal:** The bill aims to lower Caprica's debt-to-GDP ratio by immediately halting all planned but unstarted infrastructure projects associated with the Caprican Medical and Education Association Acts.
+
+---
+
+## Into the Future Act
+**Date:** 2025-05-03
+**Proposer:** baseddepartmint (ID: 1179175976584888401)
+**Document:** https://docs.google.com/document/d/1Jvf12JxUw4vJ_-my1KJkYLh3FouKwH-XWoFODL-IAaw
+
+**Main Goal:** The bill aims to modernize Caprica's scientific research infrastructure and increase international integration by providing significant funding to universities and national laboratories while pursuing partnership in major Columbian Union scientific projects.
+
+---
+
+## Nicotine and Harmful Products Control Act
+**Date:** 2025-05-01
+**Proposer:** baseddepartmint (ID: 1179175976584888401)
+**Document:** https://docs.google.com/document/d/1LAv8r21LuHI6yz1HI1u-Swal_oahe8MyfoZ8q4tH3zc
+
+**Main Goal:** This bill seeks to reduce public consumption of harmful substances, including tobacco, alcohol, recreational drugs, and high-sugar products, through substantial tax increases.
+
+---
+
+## Amend section 6 to: the taxes raised as a result of the taxes shall be collected in the treasury and used for alleviating government debt until 1999. (Afterwards the revenue can be used for anything else like any other revenue)
+**Date:** 2025-05-01
+**Proposer:** zandvoortsem (ID: 975815908809375774)
+**Document:** No Link
+
+**Main Goal:** The bill mandates that revenue generated from specific taxes must be strictly allocated to debt reduction until the year 1999.
+
+---
+
+## EXCESSIVE SPENDING REDUCTION ACT, 1996
+**Date:** 2025-05-01
+**Proposer:** uzkalnis (ID: 403953635740090379)
+**Document:** https://docs.google.com/document/d/1mVHj-3T1vwsDhcBEHUV1q8-yzyEzX4C4IFi9L4XC4zI
+
+**Main Goal:** The bill seeks to reduce Caprica's national debt by immediately halting all pending infrastructure projects associated with the Caprican Medical and Education Association Acts.
+
+---
+
+## Criminal Reform Act of 1996
+**Date:** 2025-05-01
+**Proposer:** uzkalnis (ID: 403953635740090379)
+**Document:** https://docs.google.com/document/d/1goaRuTsmaFHvF3JY9OY1AP6OXQKKDfELV-CFVGBXVTs
+
+**Main Goal:** The bill seeks to decentralize drug enforcement, decriminalize limited personal marijuana use via non-profit social clubs, and reform rehabilitation policies for non-violent youth offenders.
+
+---
+
+## Nicotine and Harmful Products Control Act
+**Date:** 2025-05-01
+**Proposer:** baseddepartmint (ID: 1179175976584888401)
+**Document:** https://docs.google.com/document/d/1LAv8r21LuHI6yz1HI1u-Swal_oahe8MyfoZ8q4tH3zc
+
+**Main Goal:** The bill aims to discourage the consumption of tobacco, alcohol, recreational drugs, and high-sugar products through aggressive taxation while earmarking revenue for scientific research.
+
+---
+
+## Amend Section 5 of the Caprican Bus Service Act, where intercity buses are to be operated by private transportation companies under a "Public-Private Partnership", where private companies would operate and maintain the buses if they are willing to. An investigation would be conducted on a company bidding for the maintenance of the buses to determine if they can properly maintain the buses. The time for how long the company operates these buses and the number of buses that one company operates are to be determined through negotiations between the government and the company. The funding to purchase the buses in the first place will still come from the Federal Government. This is to cut down government costs for maintaining the buses, avoiding unwanted overspending. This is also to ensure that the buses will continue to be of high quality long-term.
+**Date:** 2025-05-01
+**Proposer:** matiyuaaa (ID: 1227255525650206871)
+**Document:** No Link
+
+**Main Goal:** The bill aims to reduce federal expenditure by outsourcing the operation and maintenance of intercity buses to private entities through Public-Private Partnerships.
+
+---
+
+## Criminal Reform Act of 1996
+**Date:** 2025-05-01
+**Proposer:** uzkalnis (ID: 403953635740090379)
+**Document:** https://docs.google.com/document/d/1goaRuTsmaFHvF3JY9OY1AP6OXQKKDfELV-CFVGBXVTs
+
+**Main Goal:** The bill seeks to decentralize drug enforcement, decriminalize small-scale marijuana possession through non-profit social clubs, and reform juvenile rehabilitation programs.
+
+---
+
+## Amend this bill to say 605.15 mn not bn. By Lisa.
+**Date:** 2025-05-01
+**Proposer:** asapientllama (ID: 789557256294760468)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to correct a numerical error, adjusting a fiscal figure from 605.15 billion to 605.15 million.
+
+---
+
+## Amend Section 5 of the Caprican Bus Service Act, where intercity buses are to be operated by private transportation companies under a "Public-Private Partnership", where private companies would operate and maintain the buses if they are willing to. An investigation would be conducted on a company bidding for the maintenance of the buses to determine if they can properly maintain the buses. The time for how long the company operates these buses and the number of buses that one company operates are to be determined through negotiations between the government and the company. The funding to purchase the buses in the first place will still come from the Federal Government. This is to cut down government costs for maintaining the buses, avoiding unwanted overspending. This is also to ensure that the buses will continue to be of high quality long-term.
+**Date:** 2025-05-01
+**Proposer:** matiyuaaa (ID: 1227255525650206871)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to transition intercity bus maintenance and operation to private entities via Public-Private Partnerships to reduce federal expenditures and improve service quality.
+
+---
+
+## Caprican Bus Service Act by Lisa.
+**Date:** 2025-05-01
+**Proposer:** asapientllama (ID: 789557256294760468)
+**Document:** No Link
+
+**Main Goal:** The Caprican Bus Service Act aims to establish a framework for the provision and regulation of public bus transportation throughout the nation.
+
+---
+
+## Amend this bill to say 605.15 mn not bn. By Lisa.
+**Date:** 2025-05-01
+**Proposer:** asapientllama (ID: 789557256294760468)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to correct a numerical error by reducing a fiscal allocation from 605.15 billion to 605.15 million.
+
+---
+
+## Nominate <@1227255525650206871> as Prime Minister.
+**Date:** 2025-04-29
+**Proposer:** qtvnickbro (ID: 553254232791187486)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to formalize the nomination of a specific individual to the position of Prime Minister of Caprica.
+
+---
+
+## Nominate <@1179175976584888401> as Prime Minister.
+**Date:** 2025-04-27
+**Proposer:** billy_clitoris (ID: 1266679401383198781)
+**Document:** No Link
+
+**Main Goal:** This legislative proposal seeks to formally appoint a specific individual to the position of Prime Minister of Caprica.
+
+---
+
+## Caprican Bus Service Act by Lisa.
+**Date:** 2025-05-01
+**Proposer:** asapientllama (ID: 789557256294760468)
+**Document:** No Link
+
+**Main Goal:** The bill aims to establish a framework for the regulation, funding, or expansion of bus transportation services across Caprica.
+
+---
+
+## Nominate <@789557256294760468> as Prime Minister.
+**Date:** 2025-04-26
+**Proposer:** billy_clitoris (ID: 1266679401383198781)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to appoint a specific individual as the Prime Minister of Caprica.
+
+---
+
+## Nominate <@1227255525650206871> as Prime Minister.
+**Date:** 2025-04-29
+**Proposer:** qtvnickbro (ID: 553254232791187486)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to appoint a specific individual to the position of Prime Minister of Caprica.
+
+---
+
+## Nominate <@403953635740090379> as Prime Minister.
+**Date:** 2025-04-26
+**Proposer:** billy_clitoris (ID: 1266679401383198781)
+**Document:** No Link
+
+**Main Goal:** The bill aims to appoint a specific individual to the executive office of Prime Minister.
+
+---
+
+## Nominate <@1179175976584888401> as Prime Minister.
+**Date:** 2025-04-27
+**Proposer:** billy_clitoris (ID: 1266679401383198781)
+**Document:** No Link
+
+**Main Goal:** This legislative motion seeks to appoint a specific individual to the position of Prime Minister of Caprica.
+
+---
+
+## Nominate <@403953635740090379> as Prime Minister.
+**Date:** 2025-04-25
+**Proposer:** billy_clitoris (ID: 1266679401383198781)
+**Document:** No Link
+
+**Main Goal:** This legislative proposal seeks to appoint a specific individual to the position of Prime Minister.
+
+---
+
+## Nominate <@789557256294760468> as Prime Minister.
+**Date:** 2025-04-26
+**Proposer:** billy_clitoris (ID: 1266679401383198781)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to appoint a specific individual to the position of Prime Minister of Caprica.
+
+---
+
+## Reappoint Lisa Edelstein-Powell as Prime Minister of Caprica.
+**Date:** 2025-04-24
+**Proposer:** matiyuaaa (ID: 1227255525650206871)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to formally extend the tenure of Lisa Edelstein-Powell as the Prime Minister of Caprica.
+
+---
+
+## Nominate <@403953635740090379> as Prime Minister.
+**Date:** 2025-04-26
+**Proposer:** billy_clitoris (ID: 1266679401383198781)
+**Document:** No Link
+
+**Main Goal:** This legislative proposal seeks to appoint a specific individual, referenced by a user identifier, to the office of Prime Minister of Caprica.
+
+---
+
+## In addition, change the minimum members of a committee to 3 and the maximum to 7 mps.
+**Date:** 2025-04-24
+**Proposer:** zandvoortsem (ID: 975815908809375774)
+**Document:** No Link
+
+## Nominate <@403953635740090379> as Prime Minister.
+**Date:** 2025-04-25
+**Proposer:** billy_clitoris (ID: 1266679401383198781)
+**Document:** No Link
+
