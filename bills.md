@@ -4516,3 +4516,1965 @@
 **Proposer:** qtvnickbro (ID: 553254232791187486)
 **Document:** No Link
 
+## Raudea Agreement 2038 
+**Date:** 2026-02-26
+**Proposer:** nikderprager (ID: 773197858970271744)
+**Document:** https://docs.google.com/document/d/1soQ_HD-jr4BiTnjXNvvAVc6JBJiqiEX4zkXbsRptEaA
+
+**Main Goal:** The Raudea Agreement 2038 seeks to establish a free trade area, enhance democratic cooperation, and align climate policies between Caprica, the United Islands of Alania, and the Columbian Union.
+
+---
+
+## Hold an advisory referendum on Twitter voting. By Lisa.
+**Date:** 2025-04-13
+**Proposer:** asapientllama (ID: 789557256294760468)
+**Document:** No Link
+
+**Main Goal:** The bill proposes an advisory referendum to determine whether citizens should be permitted to participate in democratic voting processes via the social media platform Twitter.
+
+---
+
+## Elect one MP per region for all 17 regions by STV. If one of these MPs resign they will be replaced by a by-election 3 days after the resignation. Have the remaining 8 seats elected by national party list. Referendum to be held 2 days after this passes. **THIS IS THE BEST WAY TO MAKE THE SIM ACTIVE AGAIN. PLEASE PUT THE SIM ABOVE POLITICS FOR ONCE.** By Lisa.
+**Date:** 2025-04-12
+**Proposer:** asapientllama (ID: 789557256294760468)
+**Document:** No Link
+
+**Main Goal:** The bill proposes a hybrid electoral system for the 25-seat legislature, consisting of 17 regional single-member seats elected by STV and 8 national party list seats, with rapid by-elections and a mandatory referendum.
+
+---
+
+## Allow Capricans (us) to vote in our state legislative elections. Reschedule gubernatorial and state elections to two weeks after a general election.
+**Date:** 2025-04-12
+**Proposer:** asapientllama (ID: 789557256294760468)
+**Document:** No Link
+
+**Main Goal:** The bill aims to expand democratic participation by ensuring state elections are held alongside general ones and establishes a two-week delay for gubernatorial and state-level contests.
+
+---
+
+## Allow parties running candidates in only 1 region to be established with only 3 members (e.g. AFL, Mezata Labour Party). By Lisa.
+**Date:** 2025-04-12
+**Proposer:** asapientllama (ID: 789557256294760468)
+**Document:** No Link
+
+**Main Goal:** The bill aims to lower the legal threshold for party establishment to just three members for political organizations that confine their electoral activities to a single region.
+
+---
+
+## Summon Minister of Home Affairs <@715198488165613588> and Minister of Justice <@475571312266575903> to appear before parliament and: 1) Brief MPs on the current security threat posed by extremists. 2) Detail the exact next steps for national security reform. To take place at a time of the ministers' choosing within 24 hours of this motion’s passage in <#1334279859832225862>
+**Date:** 2025-04-11
+**Proposer:** uzkalnis (ID: 403953635740090379)
+**Document:** No Link
+
+**Main Goal:** This motion mandates that the Ministers of Home Affairs and Justice appear before parliament to provide a briefing on national security threats and outline specific plans for security reform.
+
+---
+
+## Enact the amendment to the Business Freedom Act. https://docs.google.com/document/d/1cJ8Ed-FW-FyrcZOQ8XrT5ZP_qCM4B4g4ujZbYV4rZ2A/edit?tab=t.0
+**Date:** 2025-04-10
+**Proposer:** zandvoortsem (ID: 975815908809375774)
+**Document:** https://docs.google.com/document/d/1cJ8Ed-FW-FyrcZOQ8XrT5ZP_qCM4B4g4ujZbYV4rZ2A
+
+**Main Goal:** The bill seeks to stimulate economic growth and entrepreneurship by drastically reducing regulatory burdens, simplifying business registration, and liberalizing trade across non-essential sectors.
+
+---
+
+## Elect one MP per region to all 17 regions by STV. If a regional MP resigns a by-election must be held 3 days later to replace them. Have the 8 remaining seats elected by national party list.
+**Date:** 2025-04-10
+**Proposer:** asapientllama (ID: 789557256294760468)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to restructure the national legislature by introducing a mixed-member system featuring regional representatives elected via Single Transferable Vote and a national party-list component.
+
+---
+
+## If an MP for Moeras or Myrati resigns, a by-election will be held 3 days later (as these seats are elected by STV). Move governor elections to 3 weeks into a parliamentary term and allow Capricans (us) to vote in state legislative elections. Referendum to be held 24 hours after this passes.
+**Date:** 2025-04-10
+**Proposer:** asapientllama (ID: 789557256294760468)
+**Document:** No Link
+
+**Main Goal:** The bill aims to restructure electoral timelines for parliamentary vacancies and gubernatorial elections, while extending voting rights to state-level offices and mandating an immediate national referendum.
+
+---
+
+## rattttttttttttttttyyyyy ratttnington make him a supreme court juistce signed president HILLARY clinton – hillary clinton
+**Date:** 2025-04-09
+**Proposer:** slrcy (ID: 416566614633480192)
+**Document:** No Link
+
+**Main Goal:** The proposed document is a nonsensical assertion aimed at appointing a non-human entity named 'Ratttnington' to the Supreme Court of Caprica.
+
+---
+
+## Enact the Amendment to the Small Business & Entrepreneur Bill of Rights Act. https://docs.google.com/document/d/1bEy9GUG4IWoGgtV6wR9SlIrndCZMRcWYrZfXfYNaAPw/edit?tab=t.0
+**Date:** 2025-04-09
+**Proposer:** zandvoortsem (ID: 975815908809375774)
+**Document:** https://docs.google.com/document/d/1bEy9GUG4IWoGgtV6wR9SlIrndCZMRcWYrZfXfYNaAPw
+
+**Main Goal:** The bill seeks to stimulate economic growth by providing tax incentives, reducing regulatory burdens, and streamlining administrative processes for small businesses in Caprica.
+
+---
+
+## Repeal the Zoning Law Liquidation Act. https://docs.google.com/document/d/1Zwj01qi8pFXdLazfc2PAqZV1lAn9LcolKGllssg05QI/edit?tab=t.0#heading=h.ytnboajdbsck
+**Date:** 2025-04-09
+**Proposer:** zandvoortsem (ID: 975815908809375774)
+**Document:** https://docs.google.com/document/d/1Zwj01qi8pFXdLazfc2PAqZV1lAn9LcolKGllssg05QI
+
+**Main Goal:** The bill aims to promote rapid economic development and urban growth by completely abolishing all existing zoning laws within Caprica.
+
+---
+
+## Remove article IV.2 from the Business Freedom Act. https://docs.google.com/document/d/1bj-x9hvMHWvB_OlomCbgwM0gau-5XFxv69yJiiO6gBs/edit?tab=t.0
+**Date:** 2025-04-09
+**Proposer:** zandvoortsem (ID: 975815908809375774)
+**Document:** https://docs.google.com/document/d/1bj-x9hvMHWvB_OlomCbgwM0gau-5XFxv69yJiiO6gBs
+
+**Main Goal:** This bill seeks to amend the Business Freedom Act by repealing Article IV.2, thereby removing the current prohibition on price-setting agreements and government-imposed price controls.
+
+---
+
+## Remove the tax reductions on the first and second tax reduction from the above vote.
+**Date:** 2025-04-08
+**Proposer:** zandvoortsem (ID: 975815908809375774)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to repeal existing tax relief measures for the first and second income brackets.
+
+---
+
+## Raise the Upper Class bracket tax by 3%, bringing it to an rightful 38%, while lowering lower class taxes by 1% to 4% and lowering middle class taxes by 1% bringing it to 9%. Overall it would bring an profit of around 2bn CC, while fighting wealth inequality!
+**Date:** 2025-04-08
+**Proposer:** namesliam (ID: 958717430186786889)
+**Document:** No Link
+
+**Main Goal:** The bill aims to redistribute the tax burden by increasing the upper-class tax rate while providing targeted relief to low and middle-income households to combat wealth inequality.
+
+---
+
+## To prevent our economy to collapse, start paying yearly interest rates of 3%. Meaning: 2.910TCC debt * 0.03, so an interest payment of 87.30bn CC each year.
+**Date:** 2025-04-08
+**Proposer:** namesliam (ID: 958717430186786889)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to stabilize the Caprican economy by mandating an annual 3% interest payment on the national debt, totaling 87.30 billion CC.
+
+---
+
+## Create the position of Presiding Officer. This position will be filled by an MP. They will cast tiebreaking votes and ensure all conduct is fitting with parliamentary standards. They are to be approved by a simple majority of voting members of parliament and either be replaced or re-confirmed at the start of a new parliamentary term. By Lisa.
+**Date:** 2025-04-08
+**Proposer:** asapientllama (ID: 789557256294760468)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to establish the position of a Presiding Officer within the parliament to manage conduct and provide a tiebreaking mechanism for legislative deadlock.
+
+---
+
+## Add an additional single-member constituency for Capricans abroad as part of the new Parliament reform which would bring the total amount of seats to 26 - Nick Bratanovič
+**Date:** 2025-04-08
+**Proposer:** qtvnickbro (ID: 553254232791187486)
+**Document:** No Link
+
+**Main Goal:** The bill aims to establish a dedicated parliamentary seat representing citizens living outside of Caprica, increasing the total size of the legislature to 26 seats.
+
+---
+
+## Caprican Education Association Act. Written by Lisa, submitted by her staff.
+**Date:** 2025-04-07
+**Proposer:** asapientllama (ID: 789557256294760468)
+**Document:** No Link
+
+**Main Goal:** The bill aims to reform or establish regulations regarding the Caprican Education Association, though the specific text is currently missing.
+
+---
+
+## Bill
+**Date:** 2025-04-06
+**Proposer:** namesliam (ID: 958717430186786889)
+**Document:** https://docs.google.com/document/d/1M2kvvB8qH0qwQ508w7TM2DLScCDiPgBR18B7t5Xwcxs
+
+**Main Goal:** The MHASA aims to improve mental health outcomes across Caprica by mandating professional counseling in schools, expanding clinical infrastructure in rural areas, and incentivizing service in underserved regions.
+
+---
+
+## Nominate Beesus (<@808559236849205259>) to the Supreme Court and to the CEC. Approved by President Clinton.
+**Date:** 2025-04-06
+**Proposer:** asapientllama (ID: 789557256294760468)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to confirm the appointment of a specific individual, Beesus, to both the Supreme Court and the Caprica Election Commission.
+
+---
+
+## Nominate Logan (<@886764158417272832>) to the Supreme Court. Approved by President Clinton.
+**Date:** 2025-04-06
+**Proposer:** asapientllama (ID: 789557256294760468)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to appoint Logan to a position on the Supreme Court as nominated by the President.
+
+---
+
+## Hold Admin elections to replace admins that are inactive and for the sim to finally be a political sim again and not a chatting group, as all this sim needs are active admins. (Also Daniel Idc if this is meta 💔 )
+**Date:** 2025-04-06
+**Proposer:** namesliam (ID: 958717430186786889)
+**Document:** No Link
+
+**Main Goal:** The bill aims to institutionalize regular administrative elections to replace inactive leadership and restore the simulation's focus on political engagement rather than casual socialization.
+
+---
+
+## Integrate the Koknese island in the Gulf of Dainis into the East & Islands electoral district
+**Date:** 2025-04-06
+**Proposer:** elizijs (ID: 432437043956809738)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to administratively incorporate the island of Koknese into the East & Islands electoral district for the purpose of Caprican representation.
+
+---
+
+## Replace Article 2, Section 7 of the Caprican Medical Association Act with the following: 150 million CC shall be allocated to a Pharmacy Access Fund (PAF). The PAF will offer financial subsidies and low-interest loans to private pharmacists who open in underserved areas as designated by the Chief Medical Officer. No state-owned pharmacies shall be constructed.
+**Date:** 2025-04-05
+**Proposer:** uzkalnis (ID: 403953635740090379)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to improve pharmaceutical access in underserved regions of Caprica by providing financial incentives to private pharmacy owners.
+
+---
+
+## cookie judge supreme court signed hillary (the president)
+**Date:** 2025-04-05
+**Proposer:** slrcy (ID: 416566614633480192)
+**Document:** No Link
+
+**Main Goal:** The bill appears to be a placeholder or incomplete document intended to address judicial appointments or court-related oversight.
+
+---
+
+## Caprican Medical Association Act by Lisa.
+**Date:** 2025-04-05
+**Proposer:** asapientllama (ID: 789557256294760468)
+**Document:** No Link
+
+**Main Goal:** The bill aims to establish a regulatory framework for the Caprican Medical Association to govern professional standards and healthcare practices.
+
+---
+
+## Exempt businesses earning under 500,000CC per year from paying corporation and land value tax. By Lisa.
+**Date:** 2025-04-05
+**Proposer:** asapientllama (ID: 789557256294760468)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to provide tax relief to small businesses by exempting those with annual revenues under 500,000CC from corporate and land value taxes.
+
+---
+
+## Increase the budget amount for the environment by 2 billion, putting it at 8 billion, while ensuring a surplus of 28.5bn
+**Date:** 2025-04-05
+**Proposer:** namesliam (ID: 958717430186786889)
+**Document:** No Link
+
+**Main Goal:** The bill aims to increase environmental funding by 2 billion to a total of 8 billion while maintaining a strict fiscal surplus of 28.5 billion.
+
+---
+
+## Set a national abortion limit of 24 weeks, with exceptions up to 30 weeks in cases of rape or incest and no limit in the case of a threat to maternal health. Provide 250 million CC from the Ministry for Health for Sexual Health Services. Remove any requirement for parental notification or consent in the case of abortion relating to minors. Eliminate mandatory waiting periods for abortion and illegalise harassment of medical workers or patients on the premises of abortion clinics. By Lisa.
+**Date:** 2025-04-05
+**Proposer:** asapientllama (ID: 789557256294760468)
+**Document:** No Link
+
+**Main Goal:** The bill aims to establish a national legal framework for abortion access, setting specific gestational limits while providing significant funding for sexual health services and protecting medical providers from harassment.
+
+---
+
+## proposed constituencies by merging Moeras and Kazana into a single constituency with **3** seats. The name of the new constituency shall be decided by the CEC as culturally appropriate.
+**Date:** 2025-04-05
+**Proposer:** uzkalnis (ID: 403953635740090379)
+**Document:** No Link
+
+**Main Goal:** The bill proposes consolidating the districts of Moeras and Kazana into a single administrative electoral constituency allocated three legislative seats.
+
+---
+
+## IechydDa Act by Lisa.
+**Date:** 2025-04-04
+**Proposer:** asapientllama (ID: 789557256294760468)
+**Document:** No Link
+
+**Main Goal:** The IechydDa Act remains undefined due to a lack of provided legislative text, making it impossible to determine its specific intent.
+
+---
+
+## Legalise pizza shop/abortion clinic mergers. By Lisa.
+**Date:** 2025-04-03
+**Proposer:** asapientllama (ID: 789557256294760468)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to permit the consolidation of pizza establishments and abortion clinics into a single business entity.
+
+---
+
+## new constituencies plan to also add Ventura to the list of protected constituencies with the Southern constituency in turn to be reduced from 7 seats to 6 seats to account for this change - Nick Bratanovič
+**Date:** 2025-04-03
+**Proposer:** qtvnickbro (ID: 553254232791187486)
+**Document:** No Link
+
+**Main Goal:** The bill proposes a redistricting adjustment to designate Ventura as a protected constituency, necessitating a reduction in the seat allocation for the Southern constituency from seven to six.
+
+---
+
+## This Parliament declares non-confidence in the Government and nominates <@727621563062550618> to the position of Prime Minister. - Anne Bush Tanaka
+**Date:** 2025-04-03
+**Proposer:** danielg1220 (ID: 801562521613238362)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to initiate a vote of no confidence to dissolve the current government and install a new Prime Minister.
+
+---
+
+## make a referendum on whether twitter voting should be allowed for the next GE
+**Date:** 2025-04-02
+**Proposer:** areithy (ID: 649668937151283259)
+**Document:** No Link
+
+**Main Goal:** The bill proposes holding a public referendum to determine if electronic voting via the Twitter platform should be permitted for the upcoming General Election.
+
+---
+
+## Hold a referendum simultaneously to the above referendum that amends the constituencies to the following for effect in the next election. The singular seats in the protected constituencies (Myrati and Moeras) will be determined via RCV. The rest of the seats will be determined by regional PR. The regional seat counts are only indicatory.
+**Date:** 2025-04-02
+**Proposer:** slrcy (ID: 416566614633480192)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to modify the electoral system for future elections by transitioning to a hybrid model featuring Ranked Choice Voting for protected constituencies and regional Proportional Representation for remaining seats.
+
+---
+
+## Replace the current constituencies with the below map. Referendum to be held same time as size reduction referendum. By Lisa (map by President Izan *Freaky*)
+**Date:** 2025-04-02
+**Proposer:** asapientllama (ID: 789557256294760468)
+**Document:** No Link
+
+**Main Goal:** The bill proposes a legislative referendum to replace existing electoral constituencies with a new map alongside a separate referendum to reduce the size of the legislative body.
+
+---
+
+## Reduce the size of Parliament from 50 to 25. Referendum to be held 3 (irl) days after this passes. By Lisa.
+**Date:** 2025-04-02
+**Proposer:** asapientllama (ID: 789557256294760468)
+**Document:** No Link
+
+**Main Goal:** The bill aims to reduce the legislative body from 50 to 25 members, necessitating a national referendum within three days of parliamentary passage.
+
+---
+
+## This Parliament declares non-confidence in the Government and nominates <@439658326020849664> to the position of Prime Minister. - Anne Bush Tanaka
+**Date:** 2025-04-02
+**Proposer:** danielg1220 (ID: 801562521613238362)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to trigger a vote of no confidence in the current government and install a new Prime Minister.
+
+---
+
+## 2nd Caprican Budget; A Call for Change. By Zandvoort, Lisa, 6rat and Adam
+**Date:** 2025-03-31
+**Proposer:** asapientllama (ID: 789557256294760468)
+**Document:** No Link
+
+**Main Goal:** The bill proposes a systemic restructuring of the Caprican budget to implement significant fiscal reform and policy shifts.
+
+---
+
+## Caprican Renewal Fund Act by Lisa
+**Date:** 2025-03-31
+**Proposer:** asapientllama (ID: 789557256294760468)
+**Document:** No Link
+
+**Main Goal:** The Caprican Renewal Fund Act seeks to establish a centralized financial mechanism intended to stimulate economic revitalization and infrastructure investment across Caprica.
+
+---
+
+## This Parliament declares non-confidence in the Government and nominates <@432437043956809738> to the position of Prime Minister because Dainis rules and Lisa drools.
+**Date:** 2025-03-31
+**Proposer:** danielg1220 (ID: 801562521613238362)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to dissolve the current government and install a new Prime Minister based on personal preference rather than policy merit.
+
+---
+
+## snap elections
+**Date:** 2025-03-31
+**Proposer:** areithy (ID: 649668937151283259)
+**Document:** No Link
+
+**Main Goal:** This bill proposes the dissolution of the current legislature to initiate a general election ahead of the scheduled term end.
+
+---
+
+## Replace the Bank of Caprica Act and the National Reserve Act with the Reform of the National Reserve Act (1991). (Amendment). https://docs.google.com/document/d/1s_zYOxVId0CGxvypzTWdEYZmkggUyE2I45QuF1NAiN0/edit?tab=t.0
+**Date:** 2025-03-30
+**Proposer:** zandvoortsem (ID: 975815908809375774)
+**Document:** https://docs.google.com/document/d/1s_zYOxVId0CGxvypzTWdEYZmkggUyE2I45QuF1NAiN0
+
+**Main Goal:** This bill seeks to modernize the central banking structure of Caprica by establishing the National Reserve as an independent institution tasked with balancing price stability, full employment, and economic growth.
+
+---
+
+## Criminal Reform Act by Lisa
+**Date:** 2025-03-30
+**Proposer:** asapientllama (ID: 789557256294760468)
+**Document:** No Link
+
+**Main Goal:** The Criminal Reform Act by Lisa aims to restructure the penal system, presumably to address incarceration rates and prisoner rehabilitation.
+
+---
+
+## This Parliament declares non-confidence in this Government and nominates <@508032256166854666> to the position of Prime Minister. - Anne Bush Tanaka
+**Date:** 2025-03-30
+**Proposer:** danielg1220 (ID: 801562521613238362)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to trigger a parliamentary vote of non-confidence to remove the current government and install a new Prime Minister.
+
+---
+
+## Working Standards and Equality Act by Lisa
+**Date:** 2025-03-29
+**Proposer:** asapientllama (ID: 789557256294760468)
+**Document:** No Link
+
+**Main Goal:** The Working Standards and Equality Act seeks to codify baseline labor protections and ensure fair treatment for workers across all sectors of the Caprican economy.
+
+---
+
+## Thank You Act to allow for provinces to opt in and out of the arrangement with them having to notify Alanian and Trincompore businesses of their entry/exit from the scheme 30 days before the entry/exit from the scheme. By default all states will be in the scheme. - Nick Bratanovič MP
+**Date:** 2025-03-29
+**Proposer:** qtvnickbro (ID: 553254232791187486)
+**Document:** No Link
+
+**Main Goal:** The bill establishes a regulatory framework for provincial participation in a standardized economic scheme, mandating that provinces provide 30 days' notice to businesses when opting in or out.
+
+---
+
+## Presidential Reform Amendment
+**Date:** 2025-03-28
+**Proposer:** danielg1220 (ID: 801562521613238362)
+**Document:** https://docs.google.com/document/d/126lWwcfIxUm-TzGCzwFyEkiCJFOjZ72RNnSjCkz0GDk
+
+**Main Goal:** The bill seeks to amend the Constitution of Caprica to transition the Presidency into a strictly ceremonial role and reinforce parliamentary sovereignty in response to the recent attempted coup.
+
+---
+
+## Repeal the [Caprican Renewal Act](https://discord.com/channels/1189603606568108103/1189604125911044279/1353029197286740058)
+**Date:** 2025-03-27
+**Proposer:** uzkalnis (ID: 403953635740090379)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to abolish the Caprican Renewal Act, effectively dismantling the existing legal framework for current economic recovery and social infrastructure initiatives.
+
+---
+
+## above bill to amend two parts: Amend part 1 to set the tax-free status for Trincomporean and Alanian businesses to 8 years instead of the proposed 20. And amend part 3 to reduce the coverage of infrastructure costs to only 50% instead of the proposed 67%. - Nick Bratanovič MP
+**Date:** 2025-03-27
+**Proposer:** qtvnickbro (ID: 553254232791187486)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to limit tax exemptions for specific foreign businesses to eight years and reduce state subsidization of infrastructure costs to fifty percent.
+
+---
+
+## Thank you act:
+**Date:** 2025-03-27
+**Proposer:** lynism. (ID: 610453628657860654)
+**Document:** No Link
+
+**Main Goal:** The bill provides no document text, leaving its legislative purpose and policy objectives entirely undefined.
+
+---
+
+## lisa edelstein stan nominated to prime minister – president hillary
+**Date:** 2025-03-26
+**Proposer:** slrcy (ID: 416566614633480192)
+**Document:** No Link
+
+**Main Goal:** The bill proposes the nomination of Lisa Edelstein Stan for the office of Prime Minister under the administration of President Hillary.
+
+---
+
+## Set a 24-week nation-wide limit of abortions with exceptions up to 30 weeks in cases of rape or incest and no limit if the mother's life is threatened. Remove any requirements of parental notification for minors receiving the procedure, mandate pharmacies supply abortion pills, and eliminate all mandatory waiting periods and illegalise harassment of patients or workers on the premises of abortion clinics. By Dew.
+**Date:** 2025-03-25
+**Proposer:** creeper1984 (ID: 396057578800414722)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to codify reproductive rights by establishing a federal framework for abortion access, removing procedural barriers, and increasing protections for both patients and healthcare providers.
+
+---
+
+## Set a 24-week nation-wide limit of abortions with exceptions up to 30 weeks in cases of rape or incest and no limit if the mother’s life is threatened. Remove any requirements of parental notification for minors receiving the procedure, mandate pharmacies supply abortion pills, and eliminate all mandatory waiting periods and illegalise harassment of patients or workers on the premises of abortion clinics. By Lisa.
+**Date:** 2025-03-24
+**Proposer:** asapientllama (ID: 789557256294760468)
+**Document:** No Link
+
+**Main Goal:** The bill aims to establish a standardized national framework for abortion access by setting specific gestational limits while removing administrative barriers such as waiting periods and parental notification requirements.
+
+---
+
+## Hold snap elections this weekend
+**Date:** 2025-03-24
+**Proposer:** slrcy (ID: 416566614633480192)
+**Document:** No Link
+
+**Main Goal:** The bill aims to trigger an immediate, unscheduled general election for the upcoming weekend.
+
+---
+
+## Set Caprica's Standard Retirement Age at 65 - Nick Bratanovic
+**Date:** 2025-03-24
+**Proposer:** qtvnickbro (ID: 553254232791187486)
+**Document:** No Link
+
+**Main Goal:** The bill aims to establish a universal standard retirement age of 65 across Caprica to provide consistency in labor market transitions and pension planning.
+
+---
+
+## Vote of No Confidence: This Parliament declares non-confidence in the Government under the terms of Article III, Section II.e of the Constitution and nominates <@475571312266575903>  as a suitable successor to the position of Prime Minister.
+**Date:** 2025-03-24
+**Proposer:** llampie (ID: 563349552254681088)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to initiate a parliamentary vote of no confidence to dissolve the current government and install a new Prime Minister.
+
+---
+
+## Following Budget as an emergency stopgap, given that we do not have any economic stats from the previous two governments. The Budget is, for the most part, a continuation of the previous budget, with slight changes and an adjustment for inflation. The main purpose of this temporary budget is to ensure the government, at the very least, remains funded untill a more permanent solution can be found, after the clearing up of the economic situation.
+**Date:** 2025-03-24
+**Proposer:** 6rat. (ID: 678087754709467167)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to establish a temporary emergency budget to ensure government continuity while the administration works to resolve the lack of reliable economic data from previous terms.
+
+---
+
+## Appoint MP <@789557256294760468> as prime minister to replace the acting PM.
+**Date:** 2025-03-23
+**Proposer:** areithy (ID: 649668937151283259)
+**Document:** No Link
+
+**Main Goal:** The bill aims to formally appoint a specific Member of Parliament to the position of Prime Minister, replacing the current acting leadership.
+
+---
+
+## Caprican Renewal Act to provide 100% fair market value for property seized under eminent domain.
+**Date:** 2025-03-23
+**Proposer:** asapientllama (ID: 789557256294760468)
+**Document:** No Link
+
+**Main Goal:** The bill aims to mandate that the state compensate property owners with full fair market value when exercising the power of eminent domain.
+
+---
+
+## Vote of No Confidence: This Parliament declares non-confidence in the Government under the terms of Article III, Section II.e of the Constitution and nominates <@678087754709467167> (6’Rat) as a suitable successor to the position of Prime Minister. - Anne Bush Tanaka
+**Date:** 2025-03-22
+**Proposer:** danielg1220 (ID: 801562521613238362)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to trigger a formal vote of no confidence to dissolve the current government and install a new Prime Minister.
+
+---
+
+## Caprican Renewal Act by Lisa
+**Date:** 2025-03-22
+**Proposer:** asapientllama (ID: 789557256294760468)
+**Document:** No Link
+
+**Main Goal:** The bill aims to revitalize Caprican economic and social structures, though the specific mechanisms remain undefined due to the absence of document text.
+
+---
+
+## Repeal ARAA, by Lisa
+**Date:** 2025-03-21
+**Proposer:** asapientllama (ID: 789557256294760468)
+**Document:** No Link
+
+**Main Goal:** The bill seeks the complete legislative repeal of the Agricultural Reform and Assistance Act (ARAA).
+
+---
+
+## Parliamentary Committees Act
+**Date:** 2025-03-21
+**Proposer:** uzkalnis (ID: 403953635740090379)
+**Document:** https://docs.google.com/document/d/16W97LJQs12LpaKPlNz-b8PtW7EWTcbk5SSLrwLgBjA8
+
+**Main Goal:** The bill aims to institutionalize a structured committee system to conduct mandatory legislative reviews, ensuring rigorous vetting of bills before they reach the parliamentary floor.
+
+---
+
+## Legalize groping.
+**Date:** 2025-03-18
+**Proposer:** smntrl (ID: 413791966900387841)
+**Document:** No Link
+
+**Main Goal:** The proposed bill seeks to legalize the non-consensual physical molestation of individuals.
+
+---
+
+## make PATRIOT <@1084574150674350142> JASMIN (in an izan mask) PRIME MINISTER OF THE GREAT REPBULIC OF CAPRICA
+**Date:** 2025-03-18
+**Proposer:** slrcy (ID: 416566614633480192)
+**Document:** No Link
+
+**Main Goal:** The proposal seeks to appoint a specific individual, characterized by an 'izan mask', as the Prime Minister of the Republic of Caprica.
+
+---
+
+## make welsh WHORE <@789557256294760468> (lisa) the pm
+**Date:** 2025-03-17
+**Proposer:** slrcy (ID: 416566614633480192)
+**Document:** No Link
+
+**Main Goal:** The proposed document is an informal, incoherent statement calling for the appointment of a specific individual to the office of Prime Minister.
+
+---
+
+## appoint <@439658326020849664> PresProTem again
+**Date:** 2025-03-17
+**Proposer:** deleted_user_d28dff13f674 (ID: 1084574150674350142)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to reappoint a specific individual to the position of President Pro Tempore.
+
+---
+
+## Legalize groyping (not groping, groyping)
+**Date:** 2025-03-16
+**Proposer:** smntrl (ID: 413791966900387841)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to legalize 'groyping,' a term referring to a specific form of online political activism and influence operations.
+
+---
+
+## Make Izan (<@475571312266575903>) a Supreme Court Justice
+**Date:** 2025-03-10
+**Proposer:** slrcy (ID: 416566614633480192)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to appoint a specific individual to the position of Supreme Court Justice within the Caprican judiciary.
+
+---
+
+## Make Daniel (<@801562521613238362>) a Supreme Court Justice
+**Date:** 2025-03-09
+**Proposer:** slrcy (ID: 416566614633480192)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to appoint the individual known as Daniel to the position of Supreme Court Justice.
+
+---
+
+## Bill to ban the formation of civilian paramilitary organizations.   I) No body, organization or group may form paramilitary groups, nor imitate their training, command structure and purpose.    II) «Paramilitary» is defined as: "group organized like an army but is not official, thus, it operates outside a country’s formal military structure. Typically modeled after military organizations and may have similar training and equipment."
+**Date:** 2025-03-08
+**Proposer:** adrian.adriasola (ID: 1197711619514441828)
+**Document:** No Link
+
+**Main Goal:** The bill aims to prohibit the establishment and operation of unauthorized civilian paramilitary groups to ensure a state monopoly on the legitimate use of force.
+
+---
+
+## Pass a Motion of No Confidence in the Current Coles Government for their gross mismanagement of the economy, domestic affairs, and terrorist threats. Nominate <@403953635740090379>  as caretaker PM until snap elections can be called. - Baroness Tricky LePen
+**Date:** 2025-03-04
+**Proposer:** deleted_user_c706d113d343 (ID: 1301855753946271787)
+**Document:** No Link
+
+**Main Goal:** This motion seeks to force the resignation of the current Coles administration through a vote of no confidence and install a caretaker Prime Minister ahead of snap elections.
+
+---
+
+## the people are tired of the games played by cu,  pass the following amendement immediately
+**Date:** 2025-03-04
+**Proposer:** deleted_user_d28dff13f674 (ID: 1084574150674350142)
+**Document:** No Link
+
+**Main Goal:** The bill aims to curtail the influence and political gamesmanship of the Caprica University (CU) faction within the government.
+
+---
+
+## Section 1:
+**Date:** 2025-03-04
+**Proposer:** danielg1220 (ID: 801562521613238362)
+**Document:** No Link
+
+**Main Goal:** The bill provides no text or stated objectives for analysis.
+
+---
+
+## Call early elections for Saturday, March 8th.
+**Date:** 2025-03-02
+**Proposer:** confederationofnoodles (ID: 542409146520043521)
+**Document:** No Link
+
+**Main Goal:** The bill aims to dissolve the current legislative session and trigger a national election on March 8th.
+
+---
+
+## Establish a victim’s memorial fund for the families of the 162 victims of the Casino Siege. The fund will contain 162 million CC and will give each victim’s family 1 million CC, should they choose to claim it. - Formulated by <@789557256294760468>
+**Date:** 2025-03-02
+**Proposer:** confederationofnoodles (ID: 542409146520043521)
+**Document:** No Link
+
+**Main Goal:** The bill aims to establish a 162 million CC compensation fund to provide a one-time payment of 1 million CC to each family affected by the Casino Siege.
+
+---
+
+## Neither the federal or any regional government, shall under any circumstances establish, direct, propose or finance re-education camps for any human being.
+**Date:** 2025-02-26
+**Proposer:** adrian.adriasola (ID: 1197711619514441828)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to constitutionally prohibit the establishment, funding, or operation of state-sponsored re-education camps for human beings.
+
+---
+
+## Restore the “Abortion Rights Act” to its pre-amendment form.
+**Date:** 2025-02-26
+**Proposer:** 6rat. (ID: 678087754709467167)
+**Document:** No Link
+
+**Main Goal:** The bill aims to repeal recent restrictive amendments to the Abortion Rights Act, effectively restoring the full reproductive autonomy and protections previously codified into law.
+
+---
+
+## fairer employment standards and national minimum wage act to only contain section 6
+**Date:** 2025-02-26
+**Proposer:** simonepadoin_ (ID: 474236895635963904)
+**Document:** No Link
+
+**Main Goal:** The bill aims to establish a national minimum wage and standardized employment practices to ensure basic economic protections for workers across Caprica.
+
+---
+
+## Allocate 20 million Capricoins for necessary repairs to the White House, various modernising renovations to improve security and design, and also building a statue of Emperor-President George W. Bush in the front garden.
+**Date:** 2025-02-26
+**Proposer:** slrcy (ID: 416566614633480192)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to authorize 20 million Capricoins for structural repairs, security enhancements, and aesthetic upgrades to the White House, including the commissioning of a statue of George W. Bush.
+
+---
+
+## Reintroduce the "Fairer Employment Standards and National Minimum Wage Act" to ensure that some form of labour policy is in place.
+**Date:** 2025-02-25
+**Proposer:** 6rat. (ID: 678087754709467167)
+**Document:** No Link
+
+**Main Goal:** The bill aims to establish a foundational regulatory framework for labor relations and a national minimum wage to prevent the exploitation of workers.
+
+---
+
+## National Guard Establishment act of 1987
+**Date:** 2025-02-24
+**Proposer:** lynism. (ID: 610453628657860654)
+**Document:** https://docs.google.com/document/d/1c_g-wxCizRkP5w0_LZeptFHDsVWNLkar_ZR9wrqrWEQ
+
+**Main Goal:** The bill aims to establish a part-time, regionally-managed National Guard of Caprica to bolster emergency preparedness following the shortcomings seen in the 1986 earthquakes and to create an operational reserve for the armed forces.
+
+---
+
+## threshold for a vote of no confidence to change from a quorum to a simple majority of voting members.
+**Date:** 2025-02-22
+**Proposer:** confederationofnoodles (ID: 542409146520043521)
+**Document:** No Link
+
+**Main Goal:** The bill proposes lowering the threshold for a successful vote of no confidence from a quorum of the entire legislative body to a simple majority of members present.
+
+---
+
+## limit government control to 1/3 of the caprican economy(as mesured by gdp), except in emergencies where breaching must be aproved unimamously by the congress and president.Starting next fiscal year.If bill is breached without stated occurences then the government will shut down until parliament drafts appropriate spending cuts or approves a breach
+**Date:** 2025-02-22
+**Proposer:** libcon43 (ID: 1214662866892886037)
+**Document:** No Link
+
+**Main Goal:** The bill aims to constitutionally cap government spending at one-third of Caprica's GDP, enforcing mandatory shutdowns if spending exceeds this limit without unanimous emergency authorization.
+
+---
+
+## people in positions of power (pres, vp, pm, cab, gov, mp) excluding neutral positions like juror, guard and cec should not be in charge of events
+**Date:** 2025-02-22
+**Proposer:** deleted_user_d28dff13f674 (ID: 1084574150674350142)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to impose a strict separation of powers by prohibiting high-ranking government officials from organizing or managing public events.
+
+---
+
+## Lordmeeren Emergency Refugee Act: Section 1: Whereas it is noted that a Sawenan victory in the Lordmeeren war will cause a humanatarian crisis, and whereas such a victory is seen as an inevitability, the Government of the Republic of Caprica resolves to aid those fleeing from Rochelist terror. | Section 2: All Lordmeeren citizens, past and present, shall be welcome in Caprica, and immigration and border authorities only require some proof of such a fact. | Section 3: Regional governments may offer settlement plans for refugees is they so wish. | Tricky Buchanan
+**Date:** 2025-02-22
+**Proposer:** deleted_user_c706d113d343 (ID: 1301855753946271787)
+**Document:** No Link
+
+**Main Goal:** The bill aims to establish a framework for the Republic of Caprica to accept and settle refugees fleeing the ongoing Lordmeeren conflict as a response to an expected Sawenan victory.
+
+---
+
+## demote Oakley from events team bc he’s  clearly out of his depth
+**Date:** 2025-02-22
+**Proposer:** deleted_user_d28dff13f674 (ID: 1084574150674350142)
+**Document:** No Link
+
+**Main Goal:** The bill seeks the immediate termination or reassignment of an individual named Oakley from the events team due to perceived professional incompetence.
+
+---
+
+## ASTIFKA of 1986
+**Date:** 2025-02-22
+**Proposer:** simonepadoin_ (ID: 474236895635963904)
+**Document:** https://docs.google.com/document/d/1XIqzjykgAqcnxqMZegooOs9iL0-Cc347Rg9DBfWDDJw
+
+**Main Goal:** The ASTIFKA of 1986 seeks to reduce unemployment through corporate tax incentives for hiring and by promoting market entry, while simultaneously austerity-cutting public services to avoid deficit-driven inflation.
+
+---
+
+## Nominate <@395888307721994242> to the Supreme Court (pm adrián's orders)
+**Date:** 2025-02-21
+**Proposer:** slrcy (ID: 416566614633480192)
+**Document:** No Link
+
+**Main Goal:** The bill seeks the formal appointment of a specific individual to the Supreme Court of Caprica under the direct mandate of the Prime Minister.
+
+---
+
+## Critical Infrastructure Spending Resolution: Request that the federal government funds the following 3 vital projects:
+**Date:** 2025-02-21
+**Proposer:** cytracitrus (ID: 1170072953094950944)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to secure federal funding for three unspecified critical infrastructure projects to bolster Caprica's foundational systems.
+
+---
+
+## Nominate <@217710543904047105> to the Supreme Court (its literally empty atm 😭)
+**Date:** 2025-02-21
+**Proposer:** slrcy (ID: 416566614633480192)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to nominate a candidate to fill the currently vacant position on the Supreme Court of Caprica.
+
+---
+
+## Temporary Economic Relief Act. Normally I’d make this a link but I’m out rn.
+**Date:** 2025-02-21
+**Proposer:** smntrl (ID: 413791966900387841)
+**Document:** No Link
+
+**Main Goal:** The bill aims to provide immediate, short-term financial stabilization to the economy during an unspecified period of distress.
+
+---
+
+## pass the conversion therapy prohibition act of 1986 https://notes.io/wZacw
+**Date:** 2025-02-21
+**Proposer:** deleted_user_fa6928614070 (ID: 1227946146421407744)
+**Document:** No Link
+
+**Main Goal:** The bill aims to legally prohibit the practice of conversion therapy across Caprica, criminalizing the attempt to alter an individual's sexual orientation or gender identity.
+
+---
+
+## Public Works Act by <@789557256294760468>, proposed by <@542409146520043521>, both @┃People's Alliance
+**Date:** 2025-02-21
+**Proposer:** confederationofnoodles (ID: 542409146520043521)
+**Document:** No Link
+
+**Main Goal:** The bill aims to initiate a series of state-led infrastructure projects intended to stimulate the economy and provide public services.
+
+---
+
+## Federal Public Employment Service Act
+**Date:** 2025-02-21
+**Proposer:** uzkalnis (ID: 403953635740090379)
+**Document:** https://docs.google.com/document/d/16W97LJQs12LpaKPlNz-b8PtW7EWTcbk5SSLrwLgBjA8
+
+**Main Goal:** The bill seeks to formalize a rigorous legislative review process by establishing standing committees that must approve proposed legislation before it reaches the parliamentary floor.
+
+---
+
+## "Food Stamps Act"
+**Date:** 2025-02-21
+**Proposer:** 6rat. (ID: 678087754709467167)
+**Document:** No Link
+
+**Main Goal:** The Food Stamps Act aims to establish a government-funded nutrition assistance program to provide food security for low-income citizens of Caprica.
+
+---
+
+## change the caprican summer into caprican sommer
+**Date:** 2025-02-21
+**Proposer:** deleted_user_d28dff13f674 (ID: 1084574150674350142)
+**Document:** No Link
+
+**Main Goal:** The bill proposes a linguistic change to the official nomenclature of the 'Caprican Summer' season.
+
+---
+
+## Ammend the bill to change "60 Billion over 10 years, or 10 billion annually." to "85 Billion over 10 years, or 8.5 Billion Annually", the actual spending figures of the bill.
+**Date:** 2025-02-21
+**Proposer:** 6rat. (ID: 678087754709467167)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to adjust the total and annual budgetary allocation for a specific initiative, lowering the annual expenditure while extending the fiscal framework.
+
+---
+
+## "Unemployment Reduction Act"
+**Date:** 2025-02-21
+**Proposer:** 6rat. (ID: 678087754709467167)
+**Document:** No Link
+
+**Main Goal:** The bill aims to reduce unemployment rates across the Caprican labor market through unspecified policy interventions.
+
+---
+
+## **Energy Production and Independence Act of 1986.**
+**Date:** 2025-02-21
+**Proposer:** smntrl (ID: 413791966900387841)
+**Document:** https://docs.google.com/document/d/1M1VfRmol-LZc_X91ExFfCsS0HAZoWcZjgxYR1biyKjc
+
+**Main Goal:** The bill aims to secure Caprica's energy independence and reduce costs by aggressively streamlining the regulatory framework for fossil fuel, nuclear, and renewable energy expansion.
+
+---
+
+## *National Reserve Act of 1986.**
+**Date:** 2025-02-21
+**Proposer:** smntrl (ID: 413791966900387841)
+**Document:** https://docs.google.com/document/d/12MSDCQQYvNDqoDtHClQ2M2wtQOPrbfdOWWWePcA8cHc
+
+**Main Goal:** The bill seeks to establish the Caprican National Reserve as an independent central bank tasked with managing monetary policy through nominal GDP targeting to ensure financial stability and economic growth.
+
+---
+
+## body camera requirement act https://notes.io/wZyAv
+**Date:** 2025-02-20
+**Proposer:** deleted_user_fa6928614070 (ID: 1227946146421407744)
+**Document:** No Link
+
+**Main Goal:** The bill aims to mandate the use of body-worn cameras by law enforcement personnel to increase transparency and accountability in public safety operations.
+
+---
+
+## pass the Women's Justice reform act shared below
+**Date:** 2025-02-20
+**Proposer:** deleted_user_fa6928614070 (ID: 1227946146421407744)
+**Document:** No Link
+
+**Main Goal:** The Women's Justice Reform Act aims to address systemic legal and socioeconomic disparities facing women in Caprica through legislative intervention.
+
+---
+
+## [The Affordable energy act] (https://docs.google.com/document/d/1f9r07UhcJ6o8n30Y97AVe7H7d7beJuO5xaoiXHxzYqA/edit?usp=sharing).
+**Date:** 2025-02-20
+**Proposer:** s0mr (ID: 262134118853246978)
+**Document:** https://docs.google.com/document/d/1f9r07UhcJ6o8n30Y97AVe7H7d7beJuO5xaoiXHxzYqA
+
+**Main Goal:** The bill aims to dismantle state control of the energy sector by privatizing all state-owned assets and establishing a market-driven, competitive framework for energy production and distribution.
+
+---
+
+## Youth Mental Health Consideration act: Requires teachers in public schools to have training session for signs of mental health issues among students and staff. These training regiments will be administered with the techniques of the clinical psychologists and counsellors.
+**Date:** 2025-02-20
+**Proposer:** deleted_user_fa6928614070 (ID: 1227946146421407744)
+**Document:** No Link
+
+**Main Goal:** The bill aims to mandate professional mental health detection training for all public school personnel to improve the identification of psychological distress in students and staff.
+
+---
+
+## force the guard to make what admins voted for in <#1338548351242866759> public
+**Date:** 2025-02-20
+**Proposer:** areithy (ID: 649668937151283259)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to compel the guard to release information or action items that were previously approved by administrative vote.
+
+---
+
+## Modified copying act which articulates the policy of the government to not recognise any sort of intellectual property claims or any intellectual property rights. These include any claims of property which include the involuntary stopping of any citizen from copying and/or replicating the use of an invention, name, design, or piece of literature or art. Civil courts may not award money for any act of intellectual property "theft". Any acts passed by this parliament are herein repealed  if they acknowledge or recognise any claim of intellectual property. The reasoning of this bill is the lack of empirical evidence that intellectual property rights increase the amount of innovation that occurs compared to regimes with no intellectual property protections.
+**Date:** 2025-02-19
+**Proposer:** deleted_user_fa6928614070 (ID: 1227946146421407744)
+**Document:** No Link
+
+**Main Goal:** The bill aims to abolish all intellectual property rights and legal protections for inventions, designs, and creative works, effectively legalizing unrestricted replication.
+
+---
+
+## Equal Confidence Amendment Act
+**Date:** 2025-02-19
+**Proposer:** uzkalnis (ID: 403953635740090379)
+**Document:** https://docs.google.com/document/d/19opyeYtop_aN7WsIe8jhtrKszpcqehmDLsde-MpdltQ
+
+**Main Goal:** The bill aims to lower the threshold for a vote of no confidence to a simple majority of members present and voting, while mandating the simultaneous nomination of a successor prime minister.
+
+---
+
+## Make <@958717430186786889> (Liam) CEC.
+**Date:** 2025-02-19
+**Proposer:** slrcy (ID: 416566614633480192)
+**Document:** No Link
+
+**Main Goal:** The proposal seeks to appoint Liam to the position of Chief Executive Commissioner.
+
+---
+
+## Copying act which abolishes any and all systems of intellectual property laws and repeals any and all intellectual property laws
+**Date:** 2025-02-18
+**Proposer:** deleted_user_fa6928614070 (ID: 1227946146421407744)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to completely dismantle the legal framework governing intellectual property, effectively abolishing all patents, copyrights, and trademark protections within Caprica.
+
+---
+
+## Taxation Transparency act which requires the government to give all  tax paying citizens a spreadsheet showing where their tax dollars are going.
+**Date:** 2025-02-18
+**Proposer:** deleted_user_fa6928614070 (ID: 1227946146421407744)
+**Document:** No Link
+
+**Main Goal:** The bill mandates full disclosure of government expenditure to taxpayers by providing a detailed breakdown of how public funds are utilized.
+
+---
+
+## Declare a national state of emergency, and issue mandatory evacuation orders for all within 3 km of the coastlines in these following states: Costa Blanca, Ventura, Kazana, Mezata, Cambria, Myrati, Moeras, Ambrosia, Pleucadeuc, Reno, Montiablo, and Oplana. Residents should seek areas 30 meters above sea level and 3+ km inland. Authorize the use of military personnel and equipment in assisting local officials in the evacuation effort and subsequent rescue missions. Also, make public transportation free for evacuees. - Cytra Ley Braun, MP for Myrati.
+**Date:** 2025-02-18
+**Proposer:** cytracitrus (ID: 1170072953094950944)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to initiate a mandatory mass evacuation of coastal regions due to a declared state of emergency and utilizes military logistics and free public transit to ensure the safety of the populace.
+
+---
+
+## Pass a Motion of No Confidence in the Current Adrian Government for their gross mismanagement of the budget and clear lack of understanding of the situation on the ground in caprica. Nominate <@403953635740090379> as caretaker PM until snap elections can be called.
+**Date:** 2025-02-17
+**Proposer:** 6rat. (ID: 678087754709467167)
+**Document:** No Link
+
+**Main Goal:** The motion seeks to dissolve the current government due to perceived fiscal incompetence and install a caretaker Prime Minister to lead the nation toward snap elections.
+
+---
+
+## organ selling legalisation bill
+**Date:** 2025-02-17
+**Proposer:** deleted_user_fa6928614070 (ID: 1227946146421407744)
+**Document:** No Link
+
+**Main Goal:** The bill proposes the total legalization of the trade and commercial sale of human organs within Caprica.
+
+---
+
+## Wait, I forgot. Also amend it to cut the second Montiablo port, the Santa Valentina, one, both of the ones on Kazana, the one near Buenida and the one on the Ventura to reduce and therefore reduce costs from 70 to 40. Increase outlay figures by 3.75 and therefore be 150b over that timespan considering the recent recalculation of the exchange rate as per SLE/Alan saying it’s now 7.5 CC per USD. Keep the labor market and regulatory provisions, though.
+**Date:** 2025-02-17
+**Proposer:** smntrl (ID: 413791966900387841)
+**Document:** No Link
+
+**Main Goal:** The bill aims to consolidate infrastructure spending by cancelling multiple port projects across Caprica while simultaneously increasing the total capital outlay to 150 billion CC to account for recent exchange rate fluctuations.
+
+---
+
+## Prison Reform Act: A) Allow prisons, both public and private, to not pay prisoners for labour. B) Allow the government and private enterprises (ie, the owners of the private prisons) to commandeer prisoners for whatever they see fit, as long as the act is not criminal in nature. C) Labour Laws and Worker Protection laws shall not apply to prison labour. - Tricky
+**Date:** 2025-02-17
+**Proposer:** deleted_user_c706d113d343 (ID: 1301855753946271787)
+**Document:** No Link
+
+**Main Goal:** The bill aims to authorize the uncompensated exploitation of prison labor by both public and private entities, while explicitly stripping incarcerated individuals of all standard worker protections.
+
+---
+
+## infrastructure bill to only contain the ports considering the recent exchange rate nuke.
+**Date:** 2025-02-17
+**Proposer:** smntrl (ID: 413791966900387841)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to isolate and prioritize funding for port infrastructure in response to the destabilizing effects of a currency collapse.
+
+---
+
+## Ammend the Infrastructure bill to multiply all spending figures by 5 to adjust for the economic realities of Caprica.
+**Date:** 2025-02-17
+**Proposer:** 6rat. (ID: 678087754709467167)
+**Document:** No Link
+
+**Main Goal:** The bill proposes a fivefold increase in infrastructure spending allocations to align legislative budgets with the current inflationary pressures and economic requirements of Caprica.
+
+---
+
+## Protest Vote Act described above
+**Date:** 2025-02-17
+**Proposer:** deleted_user_fa6928614070 (ID: 1227946146421407744)
+**Document:** No Link
+
+**Main Goal:** The Protest Vote Act seeks to establish a formal mechanism for citizens to register an official dissent or protest vote against available candidates in an electoral process.
+
+---
+
+## **New Infrastructure Construction and Operations Act of 1986.**
+**Date:** 2025-02-17
+**Proposer:** smntrl (ID: 413791966900387841)
+**Document:** https://docs.google.com/document/d/1Rhi7ivgrYCgPQwMNG2q9nsss6p8HVFoj9LAfYzJWHK4
+
+**Main Goal:** This bill seeks to modernize Caprica's infrastructure—including roads, rail, ports, airports, and hospitals—through a massive 345 billion CC investment program relying heavily on public-private partnerships.
+
+---
+
+## "Fairer Employment Standards and National Minimum Wage Act"
+**Date:** 2025-02-17
+**Proposer:** 6rat. (ID: 678087754709467167)
+**Document:** No Link
+
+**Main Goal:** This bill aims to establish standardized employment protections and a national minimum wage to ensure a baseline of economic security for all Caprican workers.
+
+---
+
+## Appoint <@649668937151283259> Scarlett to the CEC
+**Date:** 2025-02-17
+**Proposer:** slrcy (ID: 416566614633480192)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to appoint an individual, Scarlett, to the Caprica Election Commission (CEC).
+
+---
+
+## amend the "*[Abortion Rights Act](https://ptb.discord.com/channels/1189603606568108103/1189604125911044279/1340376752446505133)*": Withdraw Article 5 "Funding and Costs" entirely and its bullet points. Amend Article 3.1.a & 3.1.b replacing 24 weeks with 12 weeks in both cases.
+**Date:** 2025-02-17
+**Proposer:** adrian.adriasola (ID: 1197711619514441828)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to drastically restrict abortion access by shortening the gestational limit from 24 weeks to 12 weeks and eliminating state funding for abortion services.
+
+---
+
+## pass the Protections against cruel punishment act as described below by Ammy Bo-Blammy
+**Date:** 2025-02-17
+**Proposer:** deleted_user_fa6928614070 (ID: 1227946146421407744)
+**Document:** No Link
+
+**Main Goal:** The bill aims to establish legal prohibitions against cruel and unusual punishment within the Caprican justice system.
+
+---
+
+## "Official Positions and Standings on the Bush War" Act
+**Date:** 2025-02-16
+**Proposer:** 6rat. (ID: 678087754709467167)
+**Document:** No Link
+
+**Main Goal:** The bill aims to establish a formal legislative framework for defining and recording the official state position regarding the ongoing conflict known as the Bush War.
+
+---
+
+## protections for Sex workera act as detailed above, proposed by Ammy Bo-Blammy
+**Date:** 2025-02-16
+**Proposer:** lynism. (ID: 610453628657860654)
+**Document:** No Link
+
+**Main Goal:** The bill aims to establish legal protections and regulatory frameworks for sex workers in Caprica.
+
+---
+
+## pass the protections for sex workers act.
+**Date:** 2025-02-16
+**Proposer:** deleted_user_fa6928614070 (ID: 1227946146421407744)
+**Document:** No Link
+
+**Main Goal:** The proposed bill aims to establish legal frameworks and safety protections for individuals working within the sex industry to ensure their rights and physical security.
+
+---
+
+## Grant the minister of regions a seat on the Council of Regions. | Baroness Tricky Buchanan
+**Date:** 2025-02-16
+**Proposer:** deleted_user_c706d113d343 (ID: 1301855753946271787)
+**Document:** No Link
+
+**Main Goal:** The bill aims to grant the Minister of Regions a formal seat and voting power within the Council of Regions.
+
+---
+
+## An act concerning terrorism against the people of Caprica (Caprican Anti-Terrorism Act) - This act shall establish an Anti-Terrorism Committee of Caprica (AKA the ATCC) composed of representatives of the leadership of all Federal Police Departments and Intelligence Agencies to fight terrorism, to stop terrorist attacks and create a militarized police force (AKA the MPFC, Militarized Police Force of Caprica) to deal with said terrorist. It shall be led by the proposed committee
+**Date:** 2025-02-16
+**Proposer:** camilleshark (ID: 431401316544282636)
+**Document:** No Link
+
+**Main Goal:** The act seeks to establish a centralized Anti-Terrorism Committee and a militarized police force to consolidate security operations and combat domestic terrorism.
+
+---
+
+## punish illegal abortion cases with a minimum 3 year setence
+**Date:** 2025-02-16
+**Proposer:** libcon43 (ID: 1214662866892886037)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to mandate a minimum three-year prison sentence for individuals found guilty of undergoing or performing an illegal abortion.
+
+---
+
+## Repeal the "Abortion Rights Act" | Baroness Tricky Buchanan
+**Date:** 2025-02-16
+**Proposer:** deleted_user_c706d113d343 (ID: 1301855753946271787)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to repeal the Abortion Rights Act, thereby removing legal protections for reproductive healthcare access within Caprica.
+
+---
+
+## Establish a minimum income requirement of 30,000 CC per person for migrants and their households who wish to live in Caprica.
+**Date:** 2025-02-16
+**Proposer:** smntrl (ID: 413791966900387841)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to restrict immigration by imposing a mandatory minimum annual income threshold of 30,000 CC for all migrant households entering Caprica.
+
+---
+
+## Common Sense Abortion Restriction Act: at the beginning of each year, randomly draw a number from 0 to 40. This will be the week of pregnancy beyond which abortion is restricted throughout the year.
+**Date:** 2025-02-15
+**Proposer:** alanmu0106 (ID: 748574559711526973)
+**Document:** No Link
+
+**Main Goal:** The bill establishes a state-mandated lottery system to determine the gestational age limit for abortion services on an annual basis.
+
+---
+
+## "Abortion Rights Act" 6'Rat, Costa Blanca
+**Date:** 2025-02-15
+**Proposer:** 6rat. (ID: 678087754709467167)
+**Document:** No Link
+
+**Main Goal:** The Abortion Rights Act seeks to codify reproductive healthcare access and protect the legal right to abortion procedures within the jurisdiction of Costa Blanca.
+
+---
+
+## Fair Employment Standards and National Minimum Wage Act
+**Date:** 2025-02-15
+**Proposer:** s0mr (ID: 262134118853246978)
+**Document:** https://docs.google.com/document/d/1phNowioVUB5ggmGknUWR6Gq6sm0BYc9XLoCryq-bN8c
+
+**Main Goal:** The bill aims to establish a universal national minimum wage of 12 CC per hour, supported by a new regulatory agency tasked with monitoring living standards and enforcing mandatory employment contracts.
+
+---
+
+## Modify abortion rights act to replace 24 weeks with 20 weeks
+**Date:** 2025-02-15
+**Proposer:** nintpigeon (ID: 1153709236220600340)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to restrict legal abortion access by reducing the gestational limit from 24 weeks to 20 weeks.
+
+---
+
+## Ban all illegal migrants from re-entry for 50 years, unless they have a net worth above 5 million CC or an advanced degree or qualifications in finance, academia, STEM, engineering or any other high-value field.
+**Date:** 2025-02-14
+**Proposer:** smntrl (ID: 413791966900387841)
+**Document:** No Link
+
+**Main Goal:** The bill proposes a 50-year re-entry ban for illegal migrants, creating an explicit exemption for wealthy individuals and those possessing high-value professional credentials.
+
+---
+
+## Strike section 6.2 of the Reproductive Freedom Act, which mandates all private healthcare providers cover abortion access in one of their plans, as an unnecessary interference in freedom of business & of conscience.
+**Date:** 2025-02-14
+**Proposer:** smntrl (ID: 413791966900387841)
+**Document:** No Link
+
+**Main Goal:** The bill proposes the removal of a mandate requiring private healthcare providers to include abortion coverage in their insurance plans.
+
+---
+
+## Reproductive Freedom Act
+**Date:** 2025-02-14
+**Proposer:** uzkalnis (ID: 403953635740090379)
+**Document:** https://docs.google.com/document/d/11hMvfpJO58Z77XyI-frGXGC0KurEIrSKAZgHvwh4xIs
+
+**Main Goal:** The bill aims to establish a standardized, regulated, and partially publicly-funded framework for legal abortion services throughout Caprica, balancing accessibility with specific health, safety, and socioeconomic criteria.
+
+---
+
+## Zoning Laws Liquidation Act
+**Date:** 2025-02-14
+**Proposer:** deleted_user_c706d113d343 (ID: 1301855753946271787)
+**Document:** https://docs.google.com/document/d/1Zwj01qi8pFXdLazfc2PAqZV1lAn9LcolKGllssg05QI
+
+**Main Goal:** The bill seeks to immediately abolish all existing zoning regulations in Caprica to facilitate unfettered urban growth and remove perceived barriers to economic development.
+
+---
+
+## Caprican Human Rights Act
+**Date:** 2025-02-14
+**Proposer:** lynism. (ID: 610453628657860654)
+**Document:** https://docs.google.com/document/d/1eMuvOMv3v2tEgsHNwo2MrwONXv_zSxxyDoeRgPBi6d0
+
+**Main Goal:** The bill seeks to codify international human rights standards and humanitarian law into the Caprican legal framework, mandating the ratification of key UN conventions and treaties.
+
+---
+
+## Foreign Aid Standards Act
+**Date:** 2025-02-14
+**Proposer:** lynism. (ID: 610453628657860654)
+**Document:** https://docs.google.com/document/d/166C_Cs_j6Hw_xH_IsWcjXXAEAVqTW21S0jy7WtX6Eog
+
+**Main Goal:** The Foreign Aid Standards Act aims to establish the State Development Committee to regulate Caprican foreign aid, ensuring that aid is withheld from nations that violate human rights or misuse resources, while strategically maintaining our international relations.
+
+---
+
+## **Negative Income Tax Act of 1985.**
+**Date:** 2025-02-13
+**Proposer:** smntrl (ID: 413791966900387841)
+**Document:** https://docs.google.com/document/d/1UGvidWUsfoaKcc3lhiHFy1QZpBK4DP0sy6TYrMdrUlU
+
+**Main Goal:** The Negative Income Tax Act of 1985 aims to replace traditional social welfare programs with a direct, income-based cash transfer system designed to provide a financial floor for low-income citizens.
+
+---
+
+## Enact the Fair Employment Standards and National Minimum Wage Act || https://docs.google.com/document/d/1phNowioVUB5ggmGknUWR6Gq6sm0BYc9XLoCryq-bN8c/edit?usp=sharing
+**Date:** 2025-02-13
+**Proposer:** valentine10101 (ID: 639742101374107658)
+**Document:** https://docs.google.com/document/d/1phNowioVUB5ggmGknUWR6Gq6sm0BYc9XLoCryq-bN8c
+
+**Main Goal:** The bill establishes a national minimum wage of 12 CC per hour and creates the Consumer Affairs Agency to monitor living standards, ensure contract compliance, and enforce labor protections.
+
+---
+
+## Officially condemm Operation ACIR as a terrorist act orchestrated by the Caprican state and erect a statue in Central Montiablo and Mercado, Mezata commemorating the innocent victims that died in the process
+**Date:** 2025-02-13
+**Proposer:** lynism. (ID: 610453628657860654)
+**Document:** No Link
+
+**Main Goal:** The bill aims to formally acknowledge and condemn the state-sanctioned violence of Operation ACIR as an act of terrorism while establishing public memorials for its victims.
+
+---
+
+## Make Lili Bethune and any foreign members of the 12th Assault Brigade Citizens of Caprica
+**Date:** 2025-02-13
+**Proposer:** lynism. (ID: 610453628657860654)
+**Document:** No Link
+
+**Main Goal:** The bill aims to grant immediate Caprican citizenship to Lili Bethune and foreign personnel serving within the 12th Assault Brigade.
+
+---
+
+## Anti-Rochelism-Allarism Act
+**Date:** 2025-02-13
+**Proposer:** deleted_user_c706d113d343 (ID: 1301855753946271787)
+**Document:** https://docs.google.com/document/d/1gczsecZ5FqEK-54uY7Ltj_81nNeiWBeJ3_JF2P8N9q4
+
+**Main Goal:** The bill aims to institutionalize the suppression of Allarist and Rochelist political ideologies by banning associated organizations, purging sympathizers from government, and mandating state-enforced historical education.
+
+---
+
+## Sign Article VIII of the Constitution into law https://docs.google.com/document/d/1aXskHS1jNtcJUcUcophm18l8P7eT8vNI56wJgtF-Kgk/edit?usp=sharing
+**Date:** 2025-02-13
+**Proposer:** deleted_user_c706d113d343 (ID: 1301855753946271787)
+**Document:** https://docs.google.com/document/d/1aXskHS1jNtcJUcUcophm18l8P7eT8vNI56wJgtF-Kgk
+
+**Main Goal:** The bill seeks to constitutionally codify the right of Caprican citizens to own firearms, organize independent militias, and legally reserve the right to armed insurrection against potential tyranny.
+
+---
+
+## The Bush Bill: Section 1: Restore the Bush family's monthly 5 Capricoin stipend for a burger | Section 2: Grant a formal apology to the Bush family for the seizure of their assets and their exile | Section 3: Erect a statue to George W 'Dubya' Bush outside the Parliament building | Section 4: Remove all negative references to the Bush family and Bush presidency that have been added to our national ciriculum under the Allarist regime | Section 5: Declare July 6 to be "Bush Day", dedicated to the legacy of President George W 'Dubya' Bush | - Tricky LePen
+**Date:** 2025-02-12
+**Proposer:** deleted_user_c706d113d343 (ID: 1301855753946271787)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to rehabilitate the political legacy of the Bush family, provide them with financial reparations, and memorialize their tenure through state-sponsored honors and curriculum revision.
+
+---
+
+## above law to include the following: Open carry is prohibited except for licensed security and law enforcement. Concealed carry rights remain unchanged.
+**Date:** 2025-02-12
+**Proposer:** uzkalnis (ID: 403953635740090379)
+**Document:** No Link
+
+**Main Goal:** The bill aims to restrict open carry of firearms to authorized law enforcement and licensed security personnel while maintaining existing concealed carry regulations.
+
+---
+
+## No Caprican citizen, legal resident, or business shall be required to obtain a permit or license to exercise their right to keep and bear arms. Local and regional governments shall be prohibited from imposing such a requirement. This shall apply to both open and concealed carry as well as both handguns and long guns. This does not apply to convicts, background checks, red flag laws, fully automatic weapons, the mentally ill and minors, all of whom governments retain the right to regulate and pass accordingly.
+**Date:** 2025-02-12
+**Proposer:** smntrl (ID: 413791966900387841)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to abolish permit and licensing requirements for the ownership and carry of firearms for Caprican citizens and businesses, while preserving regulatory authority over specific restricted groups.
+
+---
+
+## Caprica Rent Market Liberalization Act
+**Date:** 2025-02-12
+**Proposer:** s0mr (ID: 262134118853246978)
+**Document:** https://docs.google.com/document/d/18qTj4UMHIPskwPVPhYqzkDIPkwWwXhLCd7Ae8_wC-uM
+
+**Main Goal:** The bill seeks to eliminate all government intervention in the rental market, including rent controls, zoning laws, and tenant protections, to foster a fully deregulated, competitive housing sector.
+
+---
+
+## **Efficient Public Subsidy Act of 1985.**
+**Date:** 2025-02-11
+**Proposer:** smntrl (ID: 413791966900387841)
+**Document:** https://docs.google.com/document/d/1JFH1ApZvTK0akZtxqVZY9a1Rc4pBoRNm-vGFWGgxJgU
+
+**Main Goal:** The bill aims to institutionalize fiscal discipline by requiring businesses to prove market viability before receiving state support and mandating that subsidies primarily function as interest-bearing loans.
+
+---
+
+## **Housing and Construction Reform Act of 1985.**
+**Date:** 2025-02-11
+**Proposer:** smntrl (ID: 413791966900387841)
+**Document:** https://docs.google.com/document/d/1BfdMet1J-668cur8aiQdCjjvbChggQ-3mAcmzw_lrX0
+
+**Main Goal:** This bill seeks to privatize public housing through a 'Right to Buy' scheme for citizens while simultaneously deregulating land use and stripping labor protections to incentivize rapid private development.
+
+---
+
+## Abolish any and all forms of conscription into the Armed forces as specified in Defence Minister Lili Bethune's plan
+**Date:** 2025-02-11
+**Proposer:** lynism. (ID: 610453628657860654)
+**Document:** No Link
+
+**Main Goal:** The bill aims to permanently end all forms of compulsory military service, transitioning the Caprican Armed Forces to an exclusively all-volunteer professional model.
+
+---
+
+## **Small Business and Entrepreneur Bill of Rights Act of 1985.**
+**Date:** 2025-02-11
+**Proposer:** smntrl (ID: 413791966900387841)
+**Document:** https://docs.google.com/document/d/15GXG10ZP377d1KUeydqAmBNimqoKqWVZCC77f6_qAWo
+
+**Main Goal:** This bill seeks to stimulate economic growth by reducing the tax burden, compliance costs, and regulatory complexity for small businesses and independent entrepreneurs.
+
+---
+
+## SEZ act to also include one in Vrystad, Chasmia. -Baroness Tricky LePen
+**Date:** 2025-02-10
+**Proposer:** deleted_user_c706d113d343 (ID: 1301855753946271787)
+**Document:** No Link
+
+**Main Goal:** The proposed bill seeks to expand the Special Economic Zone (SEZ) framework by establishing a new zone in Vrystad, Chasmia.
+
+---
+
+## SEZ act to also include one in Mercado, Mezata
+**Date:** 2025-02-10
+**Proposer:** lynism. (ID: 610453628657860654)
+**Document:** No Link
+
+**Main Goal:** The bill aims to establish Special Economic Zones (SEZs) in the districts of Mercado and Mezata to stimulate regional investment and industrial growth.
+
+---
+
+## SPECIAL ECONOMIC ZONES ACT
+**Date:** 2025-02-10
+**Proposer:** uzkalnis (ID: 403953635740090379)
+**Document:** https://docs.google.com/document/d/1OG4hzRHr_pUiA5cDeA3D_Xts1F7JXHqUZzXYocpxFZQ
+
+**Main Goal:** The bill aims to stimulate economic growth and industrial modernization by establishing five Special Economic Zones (SEZs) that offer significant tax incentives, regulatory relief, and infrastructure co-funding.
+
+---
+
+## Give the late Cara J Tracey a state funeral in Montilabo
+**Date:** 2025-02-10
+**Proposer:** deleted_user_c706d113d343 (ID: 1301855753946271787)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to authorize a state-funded funeral for the deceased Cara J. Tracey within the municipality of Montilabo.
+
+---
+
+## Amendment to resolve Aalborg's issues with it sounding too "Slavic" and not "French" enough by renaming it to the French-derived and obviously French-sounding "Chernoble".
+**Date:** 2025-02-10
+**Proposer:** slrcy (ID: 416566614633480192)
+**Document:** No Link
+
+**Main Goal:** This bill proposes renaming the city of Aalborg to 'Chernoble' to alter its cultural branding and phonetic association from Slavic to French.
+
+---
+
+## Rename Kiskehewin to Carnapol again
+**Date:** 2025-02-10
+**Proposer:** namesliam (ID: 958717430186786889)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to restore the historical name 'Carnapol' to the region currently designated as Kiskehewin.
+
+---
+
+## Outlaw Freemasonry and legalize Cocaine | - Sommer and Matt Norris
+**Date:** 2025-02-10
+**Proposer:** deleted_user_c706d113d343 (ID: 1301855753946271787)
+**Document:** No Link
+
+**Main Goal:** The bill proposes to criminalize membership in the Freemasons while simultaneously legalizing the production and distribution of cocaine.
+
+---
+
+## Pornography Illegalization Act: Section 1Outlaw any and all forms of pornography, and penalize distribution of it with a 20,000 Capricoin fine for a first offense, a 40,000 one for the second, and a 100,000 one for the third and all future offenses | Section 2: Pornography shall be defined as any video showcasing graphic sexual acts. | -Tricky
+**Date:** 2025-02-10
+**Proposer:** deleted_user_c706d113d343 (ID: 1301855753946271787)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to implement a total legal prohibition on the production and distribution of graphic sexual content, enforced through a tiered system of heavy monetary penalties.
+
+---
+
+## **Caprican Worker Act of 1985**
+**Date:** 2025-02-10
+**Proposer:** smntrl (ID: 413791966900387841)
+**Document:** https://docs.google.com/document/d/14pt_uztDRBLLNpkCr7XaPtIAexkZ_wxJ6pjX1R3t6_s
+
+**Main Goal:** The Caprican Worker Act of 1985 aims to establish a highly flexible, deregulated labor market by prioritizing private contractual freedom and individual choice over collective bargaining and state-mandated protections.
+
+---
+
+## Declare the Seal the national animal of the Republic of Caprica
+**Date:** 2025-02-10
+**Proposer:** deleted_user_c706d113d343 (ID: 1301855753946271787)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to designate the seal as the national animal of the Republic of Caprica.
+
+---
+
+## If approved, it would amend the *[Universities Act](https://ptb.discord.com/channels/1189603606568108103/1189604125911044279/1338230618059837441)* to include funding for electronics research (especially in computers, miniaturization of integrated circuits, and also software research), as well as include computer science and electronic engineering as careers eligible for subsidies, which would be included in all public universities. If approved, this amendment would give the Minister of Education, Science and Technology the freedom to manage the funds approved by the original bill in order to include new careers and research subsidies in the future.
+**Date:** 2025-02-10
+**Proposer:** adrian.adriasola (ID: 1197711619514441828)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to amend the Universities Act to mandate funding for electronics research and establish subsidized career paths in computer science and engineering across all public universities.
+
+---
+
+## Columbian Integration Referendum Bill
+**Date:** 2025-02-09
+**Proposer:** slrcy (ID: 416566614633480192)
+**Document:** https://docs.google.com/document/d/14QIViMcghW3HDVxV3tz89NKyLnkD5WYIV-MphdlaYv8
+
+**Main Goal:** The bill seeks to hold a national referendum to constitutionally mandate Caprica's integration into the Columbian Union, designating it an irreversible strategic priority and allowing for the primacy of Union law over domestic law.
+
+---
+
+## *Universities Act*, introduced by Rattington
+**Date:** 2025-02-09
+**Proposer:** 6rat. (ID: 678087754709467167)
+**Document:** No Link
+
+**Main Goal:** The Universities Act aims to establish a formal legislative framework for the governance, funding, and operational standards of higher education institutions in Caprica.
+
+---
+
+## **The business freedom act**
+**Date:** 2025-02-09
+**Proposer:** s0mr (ID: 262134118853246978)
+**Document:** https://docs.google.com/document/d/1bj-x9hvMHWvB_OlomCbgwM0gau-5XFxv69yJiiO6gBs
+
+**Main Goal:** The Business Freedom Act aims to stimulate economic growth and entrepreneurship by drastically reducing bureaucratic barriers, streamlining registration processes, and liberalizing trade and operational regulations.
+
+---
+
+## **Amend «The economic transition for Caprican prosperity act» if approved**:  -> *replace* in title II.1, 24 months with 60 months   -> *replace* title III.4, 2% with 5%   -> *add* at the end of title III.4: «In cases of national emergency such as catastrophe, war or pandemic, the debt can exceed the threshold established in this law, other types of crisis must be defined by parliament.»
+**Date:** 2025-02-09
+**Proposer:** adrian.adriasola (ID: 1197711619514441828)
+**Document:** No Link
+
+**Main Goal:** The bill aims to extend the economic transition period for fiscal consolidation and adjust the structural debt ceiling, while creating a legal framework for emergency exceptions.
+
+---
+
+## Hang convicted officials of the former regime convicted of crimes against humanity but meant to choke them to death, not break their neck. Burn their bodies and bury them at sea. For corrupt officials, seize their family fortunes, sentence them to 50 years hard labor and put it into a fund to eventually compensate those whose assets were expropriated by the regime.
+**Date:** 2025-02-09
+**Proposer:** smntrl (ID: 413791966900387841)
+**Document:** No Link
+
+**Main Goal:** The bill proposes the execution and desecration of former regime officials convicted of crimes against humanity, alongside the seizure of family assets from corrupt officials to fund compensation for victims.
+
+---
+
+## The Parliament of Caprica declares its support for Caprican membership of the Colombian Union and calls on Prime Minister <@1197711619514441828> and his government to pursue membership of the Colombian Union.
+**Date:** 2025-02-08
+**Proposer:** confederationofnoodles (ID: 542409146520043521)
+**Document:** No Link
+
+**Main Goal:** The bill mandates that the Caprican government formally initiate and pursue the process of joining the Colombian Union.
+
+---
+
+## Stop Oakley from committing genocide while continuing to not put bills in a Google Doc.
+**Date:** 2025-02-08
+**Proposer:** elimarcat (ID: 843909833761488966)
+**Document:** No Link
+
+**Main Goal:** The bill aims to prevent genocidal actions by the entity known as Oakley while addressing administrative failures regarding document accessibility.
+
+---
+
+## While reforms to the healthcare, education & major infrastructure ownership structures are to happen at a later date, allow for private companies to offer schooling, healthcare & transportation services to compete with the government ones.
+**Date:** 2025-02-08
+**Proposer:** smntrl (ID: 413791966900387841)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to introduce market competition into essential public service sectors by allowing private providers to operate alongside state-run institutions.
+
+---
+
+## **Privatization Act of 1985**
+**Date:** 2025-02-08
+**Proposer:** smntrl (ID: 413791966900387841)
+**Document:** https://docs.google.com/document/d/1euO6ERcbXCJLPYNN58u-x8OTjzac83z9sNJ0-l0qmKM
+
+**Main Goal:** The bill establishes a voucher-based privatization program to transfer state-owned enterprises to the citizenry, aiming to encourage market competition and distribute economic wealth.
+
+---
+
+## **Caprican Financial Market Act of 1985**
+**Date:** 2025-02-08
+**Proposer:** smntrl (ID: 413791966900387841)
+**Document:** https://docs.google.com/document/d/1A6jWTNqWZWlvC6To9iELQ3GfLkRRKKNcImfdP7ZAtoI
+
+**Main Goal:** The bill aims to establish an independent regulatory framework and deposit insurance system to foster financial market stability, investor protection, and capital formation through risk-based oversight.
+
+---
+
+## **Banking Liberalization Act of 1985**
+**Date:** 2025-02-08
+**Proposer:** smntrl (ID: 413791966900387841)
+**Document:** https://docs.google.com/document/d/1LpvT4K3RNkh-VnJoiVJCOdNCzMKuvzUQuwYZify4irk
+
+**Main Goal:** The bill aims to deregulate the Caprican financial sector by opening markets to foreign investment, dismantling the state-owned banking system, and removing restrictions on service offerings.
+
+---
+
+## Amendment to the Advisory Committees Act of 1985
+**Date:** 2025-02-08
+**Proposer:** uzkalnis (ID: 403953635740090379)
+**Document:** No Link
+
+**Main Goal:** The bill provides no text, making it impossible to determine its specific objectives or legislative intent.
+
+---
+
+## Estrogen Naming Act: Section 1: It's estrogen, not oestrogen | tricky
+**Date:** 2025-02-08
+**Proposer:** deleted_user_c706d113d343 (ID: 1301855753946271787)
+**Document:** No Link
+
+**Main Goal:** The bill aims to standardize the English spelling of the hormone 'estrogen' by prohibiting the use of the alternative 'oestrogen' variant in official documentation.
+
+---
+
+## Bodybuilder and Trans Rights Act:  Legalizes the sale of Estrogen and Testosterone hormone products over the counter to all adults of Caprica who show legal ID as proof of age. This is a reintroduction of https://discord.com/channels/1189603606568108103/1189604125911044279/1190746336375603315 originally proposed by <@1090129597057740851>
+**Date:** 2025-02-08
+**Proposer:** alanmu0106 (ID: 748574559711526973)
+**Document:** No Link
+
+**Main Goal:** This bill aims to deregulate the sale of hormone therapy products by making both estrogen and testosterone available over-the-counter to all Caprican adults with valid identification.
+
+---
+
+## Estrogen Nationalization Act: Section 1: It's estrogen, not oestergon | Section 2: The Caprican government and government authorized corporations shall be the sole legal providers of estrogen for medical purposes. | Section 3: Illegally dealing estrogen shall warrent a fine up to, but not exceding, 1500 CC. | Section 4: Estrogen may only be sold to Caprican citizens. | Section 5: All profits from the sale of said estrogen shall proceed to the federal government. | Section 6: Give a research grant to Ambarino University to look into Olivia Athenikson's proposal for "estrogenized soda" | Section 7: All current sellers of estrogen shall have a 6 month grace period to register with the federal government or cease their selling of estrogen. | - a very sleep deprived Tricky
+**Date:** 2025-02-08
+**Proposer:** deleted_user_c706d113d343 (ID: 1301855753946271787)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to establish a government monopoly over the production and distribution of estrogen in Caprica while funding specific academic research into chemical additives for beverages.
+
+---
+
+## [The economic transition for Caprican prosperity act] (https://docs.google.com/document/d/1rFL3iSOWf-7ILmdG7YCMA0Z6gauQELPjXlOkrj_EmRQ/edit?usp=sharing)
+**Date:** 2025-02-08
+**Proposer:** s0mr (ID: 262134118853246978)
+**Document:** https://docs.google.com/document/d/1rFL3iSOWf-7ILmdG7YCMA0Z6gauQELPjXlOkrj_EmRQ
+
+**Main Goal:** The act seeks to transition Caprica from a centrally planned economy to a market-based system through comprehensive privatization, price deregulation, and fiscal austerity.
+
+---
+
+## Education Reform Act of 1984
+**Date:** 2025-02-08
+**Proposer:** namesliam (ID: 958717430186786889)
+**Document:** https://docs.google.com/document/d/1hu7mKCUjIIipMQhgNYDIuwTTcsYYYjztPkFrMn-SfvE
+
+**Main Goal:** The bill aims to modernize Caprica's public education system through increased funding, improved teacher salaries, and a shift in curriculum focus toward national pride and traditional values.
+
+---
+
+## Advisory Committees Act of 1985 by Lili Bethune
+**Date:** 2025-02-08
+**Proposer:** lynism. (ID: 610453628657860654)
+**Document:** https://docs.google.com/document/d/1emD2ZRRZd5OcmvLXYKp6M4uKRdGK4b6OLVnlGpkkcBA
+
+**Main Goal:** The bill seeks to institutionalize a system of non-partisan expert advisory committees to provide evidence-based counsel to the government during periods of crisis.
+
+---
+
+## Truth and Reconciiation Act of 1985 by Lili Bethune
+**Date:** 2025-02-08
+**Proposer:** lynism. (ID: 610453628657860654)
+**Document:** https://docs.google.com/document/d/1jOwQVEg0OT2qf1tVXXXT_KwHCztKt1xvqx2YXZd2paE
+
+**Main Goal:** The Truth and Reconciliation Act aims to formalize the pursuit of justice for Allarist-era human rights abuses while establishing a framework for recognizing the veterans of the resistance movements that fought against the regime.
+
+---
+
+## Amendment to the Caprican Holidays Act: Declare December 26 to be "Caprican Freedom From Rochelism Day (and to those who wish to keep things short, "Freedom Day"), celebrating the downfall of the Allarist regime and the begining of a democratic Capirca. - Tricky
+**Date:** 2025-02-08
+**Proposer:** deleted_user_c706d113d343 (ID: 1301855753946271787)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to establish December 26 as a national public holiday, 'Freedom Day,' to commemorate the fall of the Allarist regime and the transition to a democratic system in Caprica.
+
+---
+
+## Amendment to the Caprican Holidays Act: Delcare July 14 to be "Caprican Freedom From Rochelism Day (and to those who wish to keep things short, "Freedom Day"), celebrating the downfall of the Allarist regime and the begining of a democratic Capirca. - Tricky
+**Date:** 2025-02-08
+**Proposer:** deleted_user_c706d113d343 (ID: 1301855753946271787)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to institutionalize a new national holiday on July 14 to commemorate the collapse of the Allarist regime and the transition to a democratic Caprican state.
+
+---
+
+## Caprican Holidays Act: Section 1: Declare Declare the 14th of Feburary to be a federal holiday dedicated to the pursuit of love and marriage. | Section 2: Declare the first Sunday on or after the Venral Equinox to be a federal holiday dedicated to the celebration of the coming spring, the resurection of Christ, and life. | Section 3: Declare The 31st of October to be a federal holiday celebrating the end of the summer months and the fall season. | Section 4: Declare the 4th Thursday of November to be a federal holiday celebrating all we are thankfull for in our lives. | Section 5: Declare the 24 and 25 of December to be Federal holidays celebrating the birth of Jesus Christ and the winter season. | Section 6: Declare the 31st of December and the 1st of January to be federal holidays celebrating the New Year. | - Tricky
+**Date:** 2025-02-08
+**Proposer:** deleted_user_c706d113d343 (ID: 1301855753946271787)
+**Document:** No Link
+
+**Main Goal:** The Caprican Holidays Act aims to codify a standardized calendar of federal holidays, balancing religious commemorations with seasonal celebrations.
+
+---
+
+## Declare the 14th of Feburary to be a federal holiday dedicated to the pursuit of love and marriage. - Tricky
+**Date:** 2025-02-08
+**Proposer:** deleted_user_c706d113d343 (ID: 1301855753946271787)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to establish February 14th as a national holiday centered on promoting marriage and the celebration of romantic love.
+
+---
+
+## Organization of the Foreign ministry act of 1985 by Lili Bethune
+**Date:** 2025-02-08
+**Proposer:** lynism. (ID: 610453628657860654)
+**Document:** https://docs.google.com/document/d/1ZaJ64udHnHbOhuHrRWeBs8-dZuT0iRNC2y-pAezHb70
+
+**Main Goal:** This bill seeks to formally establish a Foreign Ministry with broad administrative powers to conduct diplomacy, manage border policies, and promote Caprican cultural influence abroad.
+
+---
+
+## Adopt the following flag as the official flag of the region of Chasmia
+**Date:** 2025-02-08
+**Proposer:** deleted_user_c706d113d343 (ID: 1301855753946271787)
+**Document:** No Link
+
+**Main Goal:** The bill proposes the formal adoption of a specific design as the official regional flag for Chasmia.
+
+---
+
+## The Bush Bill: Section 1: Restore the Bush family's monthly 5 Capricoin stipend for a burger | Section 2: Grant a formal apology to the Bush family for the seizure of their assets and their exile | Section 3: Erect a statue to George W 'Dubya' Bush outside the Parliament building | Section 4: Remove all negative references to the Bush family and Bush presidency that have been added to our national ciriculum under the Allarist regime | Section 5: Declare July 6 to be "Bush Day", dedicated to the legacy of President George W 'Dubya' Bush | - Tricky
+**Date:** 2025-02-08
+**Proposer:** deleted_user_c706d113d343 (ID: 1301855753946271787)
+**Document:** No Link
+
+**Main Goal:** The bill seeks to restore the social and historical standing of the Bush family through state-funded stipends, public monuments, and the sanitization of national educational curricula.
+
+---
+
+## The mp proposing the passed bills should put their bills in correct category of https://discord.com/channels/1189603606568108103/1275461485778436116 .
+**Date:** 2025-02-08
+**Proposer:** alanmu0106 (ID: 748574559711526973)
+**Document:** No Link
+
+**Main Goal:** This proposal seeks to formalize the administrative process for legislative filings by mandating that members of parliament categorize their bills into specific, pre-defined digital channels.
+
+---
+
+## restore the 'patriot amendments' to the constitution to make caprica great again!
+**Date:** 2025-02-08
+**Proposer:** billy_clitoris (ID: 1266679401383198781)
+**Document:** No Link
+
+**Main Goal:** The bill proposes reintroducing the 'Patriot Amendments' to the Caprican Constitution under a nationalist populist platform.
+
+---
+
+## Dissolve the NDP for being dead and buried. By Minister for Coal <@789557256294760468> (this coal is my area of expertise.)
+**Date:** 2025-02-07
+**Proposer:** asapientllama (ID: 789557256294760468)
+**Document:** No Link
+
+**Main Goal:** The bill proposes the formal dissolution of the New Democratic Party (NDP) on the grounds of its political irrelevance and inactivity.
+
+---
+
+## Separate the Vice President  from the elected presidential ticket. Instead, Parliament should elect a presiding officer who will automatically serve as VP. This system allows the VP to simultaneously hold the role of a Member of Parliament.
+**Date:** 2025-02-07
+**Proposer:** deleted_user_d28dff13f674 (ID: 1084574150674350142)
+**Document:** No Link
+
+**Main Goal:** The bill aims to reform executive selection by decoupling the Vice Presidency from the presidential ticket, instead mandating that the office be filled by a parliamentary-elected presiding officer who maintains their legislative seat.
+
+---
+
+## Nomination of Aaron Reyes <@439658326020849664> to the position of President pro tempore of the Parliament of Caprica. - Anne Bush Tanaka
+**Date:** 2025-02-07
+**Proposer:** danielg1220 (ID: 801562521613238362)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to formally nominate Aaron Reyes to the position of President pro tempore of the Parliament of Caprica.
+
+---
+
+## Maritime Sovereignity Act of 1985
+**Date:** 2025-02-07
+**Proposer:** danielg1220 (ID: 801562521613238362)
+**Document:** https://docs.google.com/document/d/1NdwDUGGei4RKbG0RXa5i69mhmpcWjXPKc95cEy4cn_8
+
+**Main Goal:** The bill seeks to modernize Caprica's maritime legal framework by ratifying the UN Convention on the Law of the Sea and establishing an institutional commission to define sovereign territorial waters.
+
+---
+
+## END OF LIFE CHOICE ACT
+**Date:** 2025-02-07
+**Proposer:** uzkalnis (ID: 403953635740090379)
+**Document:** https://docs.google.com/document/d/18cv24ynGXO6LQRs-nGSKgv7-Zcr_sfroiZEYg1qIpQ0
+
+**Main Goal:** The bill seeks to establish a regulated, legal framework for voluntary assisted suicide for terminally ill citizens, incorporating strict medical and legal safeguards to ensure informed consent and prevent coercion.
+
+---
+
+## following bill: https://docs.google.com/document/d/1dFkQH6ml_1aiy-XrDm0-XK8Xg_6F4vsTr2u94ECrrzg/edit?usp=sharing
+**Date:** 2025-02-07
+**Proposer:** namesliam (ID: 958717430186786889)
+**Document:** https://docs.google.com/document/d/1dFkQH6ml_1aiy-XrDm0-XK8Xg_6F4vsTr2u94ECrrzg
+
+**Main Goal:** The bill aims to modernize Caprica's immigration framework by streamlining naturalization processes, strengthening border enforcement, and establishing a restorative 'Right to Return' for formerly exiled citizens.
+
+---
+
+## Censure ‘Patriots for Caprica’ for their anti-democratic and authoritarian views. - Sir Noodles MP
+**Date:** 2025-02-07
+**Proposer:** confederationofnoodles (ID: 542409146520043521)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to formally condemn the political organization 'Patriots for Caprica' for their promotion of anti-democratic and authoritarian ideologies.
+
+---
+
+## A Future To Believe In: The 1st Caprican Budget
+**Date:** 2025-02-07
+**Proposer:** smntrl (ID: 413791966900387841)
+**Document:** No Link
+
+**Main Goal:** The bill aims to establish the foundational fiscal framework and economic priorities for the nation of Caprica. It serves as the primary instrument for balancing state expenditure with public investment goals.
+
+---
+
+## *Environmental Restoration and National Park Re-establishment Act*-@6rat.
+**Date:** 2025-02-07
+**Proposer:** 6rat. (ID: 678087754709467167)
+**Document:** No Link
+
+**Main Goal:** The bill aims to restore environmental habitats and re-establish national park designations across Caprican territories.
+
+---
+
+## *Marriage Equality Act*-@6rat.
+**Date:** 2025-02-07
+**Proposer:** 6rat. (ID: 678087754709467167)
+**Document:** No Link
+
+**Main Goal:** The Marriage Equality Act seeks to legalize same-sex marriage and provide equal legal recognition and marital rights to all couples regardless of gender.
+
+---
+
+## Lift sanctions to Lordmeeren on non-military goods only - Tricky
+**Date:** 2025-02-07
+**Proposer:** deleted_user_c706d113d343 (ID: 1301855753946271787)
+**Document:** No Link
+
+**Main Goal:** The bill proposes the partial lifting of international sanctions against Lordmeeren, specifically permitting trade in non-military goods.
+
+---
+
+## Expell Matt Norris from parliament due to him trying to terminate the constitution.
+**Date:** 2025-02-07
+**Proposer:** creeper1984 (ID: 396057578800414722)
+**Document:** No Link
+
+**Main Goal:** The bill seeks the immediate expulsion of Matt Norris from parliament on the grounds of his attempts to undermine and terminate the Caprican constitution.
+
+---
+
+## Terminate the Constitution.
+**Date:** 2025-02-07
+**Proposer:** smntrl (ID: 413791966900387841)
+**Document:** No Link
+
+**Main Goal:** The bill seeks the complete abolition of Caprica's foundational legal and constitutional framework.
+
+---
+
+## Adopt the following flag as the official flag of the province of Kazana. Designed by <@396057578800414722> Submitted by <@1301855753946271787>
+**Date:** 2025-02-06
+**Proposer:** deleted_user_c706d113d343 (ID: 1301855753946271787)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to formally adopt a specific design as the official provincial flag of Kazana.
+
+---
+
+## Make the first option flag I posted the flag of Kazana.
+**Date:** 2025-02-06
+**Proposer:** creeper1984 (ID: 396057578800414722)
+**Document:** No Link
+
+**Main Goal:** The bill proposes to officially designate a specific visual design as the national flag of the province of Kazana.
+
+---
+
+## Make the following flag the flag of Kazana.
+**Date:** 2025-02-06
+**Proposer:** creeper1984 (ID: 396057578800414722)
+**Document:** No Link
+
+**Main Goal:** This bill proposes the official adoption of a specific design as the national flag for Kazana.
+
+---
+
+## Allow arrangements for a state funeral with full honors to take place for the late Sir Daniel Bush to take place in the Parliament of Caprica. - Anne Bush Tanaka
+**Date:** 2025-02-06
+**Proposer:** danielg1220 (ID: 801562521613238362)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to authorize a state funeral with full honors for the late Sir Daniel Bush, to be hosted within the Parliament of Caprica.
+
+---
+
+## Raudea Agreement 2038 
+**Date:** 2026-02-26
+**Proposer:** nikderprager (ID: 773197858970271744)
+**Document:** https://docs.google.com/document/d/1soQ_HD-jr4BiTnjXNvvAVc6JBJiqiEX4zkXbsRptEaA
+
+**Main Goal:** The Raudea Agreement seeks to establish a free trade area, enhance democratic cooperation, and align climate and scientific goals between Caprica, the United Islands of Alania, and the Columbian Union.
+
+---
+
+## Nominate <@1197711619514441828> as the first democratically-elected Prime Minister of Caprica after three decades of Allarite tyranny.
+**Date:** 2025-02-06
+**Proposer:** slrcy (ID: 416566614633480192)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to formally nominate a specific individual to the position of Prime Minister to mark the transition from an autocratic Allarite regime to a democratic system of government.
+
+---
+
+## Raudea Agreement 2038 
+**Date:** 2026-02-26
+**Proposer:** nikderprager (ID: 773197858970271744)
+**Document:** https://docs.google.com/document/d/1soQ_HD-jr4BiTnjXNvvAVc6JBJiqiEX4zkXbsRptEaA
+
+**Main Goal:** The Raudea Agreement 2038 seeks to establish a free trade area and institutional framework for democratic cooperation and climate action between the Republic of Caprica, the United Islands of Alania, and the Columbian Union.
+
+---
+
