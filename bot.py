@@ -1,238 +1,117 @@
 import os
 import discord
-from discord.ext import commands, tasks
-import asyncio
-import subprocess
-from collections import defaultdict
+from discord.ext import commands
 import time
 from dotenv import load_dotenv
 
 from brain import generate_response
-from database import get_connection
 
 load_dotenv()
 TOKEN = os.environ.get("DISCORD_TOKEN")
+OWNER_ID_STR = os.environ.get("OWNER_ID")
+OWNER_ID = int(OWNER_ID_STR) if OWNER_ID_STR else None
 
 # Setup intent
 intents = discord.Intents.default()
 intents.message_content = True
-bot = commands.Bot(command_prefix="!", intents=intents)
 
-# Anti-Spam & Rate Limiting
-USER_COOLDOWN = 30 # seconds
-user_last_ping = defaultdict(float)
-request_queue = asyncio.Queue()
+class IlseBot(commands.Bot):
+    def __init__(self):
+        super().__init__(command_prefix="!", intents=intents)
+        
+    async def setup_hook(self):
+        await self.tree.sync()
+        print("Slash commands synced.")
 
-# Server and Channel Configurations
+bot = IlseBot()
+
 TEST_SERVER_ID = 1537631696743174224
-CAPRICA_SERVER_ID = 1189603606568108103
 
-CAPRICA_SPEAK_CHANNELS = [1266040682213281955]
-CAPRICA_READ_CHANNELS = [
-    1266040682213281955, # Also read from where she speaks
-    1279459460074700875, 1213483620669333564, 1210983120866775050,
-    1308836707575267358, 1247442643177181245, 1199160589524676658,
-    1537208669631160370, 1364234224630108390, 1189604125911044279,
-    1336731816849178675, 1337884164933947523, 1498948178463035464,
-    1191519838837944400, 1222250149267640350
-]
-
-async def process_queue():
-    """Background task to process one LLM request at a time."""
-    await bot.wait_until_ready()
-    while not bot.is_closed():
-        message, chat_history, is_test_server = await request_queue.get()
-        try:
-            # Generate response from dual-model router
-            response = await generate_response(message.content, chat_history, is_test_server)
-            
-            # Keep responses under discord's 2000 char limit
-            if len(response) > 2000:
-                response = response[:1997] + "..."
-                
-            await message.channel.send(response)
-        except Exception as e:
-            print(f"Error processing message from queue: {e}")
-            await message.channel.send("I encountered an error processing that request.")
-        finally:
-            request_queue.task_done()
+def is_owner_or_authorized(user):
+    if OWNER_ID:
+        return user.id == OWNER_ID
+    return True # If no OWNER_ID is set, just allow the command and they can add it later
 
 @bot.event
 async def on_ready():
-    print(f"Logged in as {bot.user.name}")
-    bot.loop.create_task(process_queue())
-    daily_bill_scrape.start()
-    bot_heartbeat.start()
-    
-    # Sync slash commands
-    try:
-        synced = await bot.tree.sync()
-        print(f"Synced {len(synced)} command(s)")
-    except Exception as e:
-        print(f"Failed to sync commands: {e}")
+    print(f"Logged in as {bot.user.name} (ID: {bot.user.id})")
+    print(f"Restricted to Test Server ID: {TEST_SERVER_ID}")
+    if OWNER_ID:
+        print(f"Authorized User ID: {OWNER_ID}")
+    else:
+        print("WARNING: OWNER_ID is not set in .env. Anyone in the test server can use the bot.")
+    print("Bot is ready and running in terminal.")
 
 @bot.event
 async def on_message(message):
     if message.author == bot.user:
         return
 
+    # Check authorized user
+    if not is_owner_or_authorized(message.author):
+        return
+
+    # Restrict to test server only
     guild_id = message.guild.id if message.guild else None
-    channel_id = message.channel.id
-    parent_id = getattr(message.channel, 'parent_id', None)
+    if guild_id != TEST_SERVER_ID:
+        return
 
-    can_read = False
-    can_speak = False
+    # Only respond to mentions
+    if bot.user in message.mentions:
+        print(f"[{time.strftime('%X')}] Received mention from {message.author.name}. Generating response...")
+        wait_msg = await message.reply("*(Ilse is reviewing her documents...)*")
+        
+        async with message.channel.typing():
+            chat_history = ""
+            # Fetch last 5 messages for context
+            async for msg in message.channel.history(limit=5, before=message):
+                # reverse order to read top down
+                chat_history = f"{msg.author.name}: {msg.content}\n" + chat_history
+            
+            response = await generate_response(message.content, chat_history, is_test_server=True)
+            
+            # Chunk response if > 2000 chars
+            if len(response) > 2000:
+                await wait_msg.edit(content=response[:1900])
+                for chunk in [response[i:i+1900] for i in range(1900, len(response), 1900)]:
+                    await message.channel.send(chunk)
+            else:
+                await wait_msg.edit(content=response)
+        
+        print(f"[{time.strftime('%X')}] Response to {message.author.name} completed.")
 
-    if guild_id == TEST_SERVER_ID:
-        can_read = True
-        can_speak = True
-    elif guild_id == CAPRICA_SERVER_ID:
-        if channel_id in CAPRICA_READ_CHANNELS or parent_id in CAPRICA_READ_CHANNELS:
-            can_read = True
-        if channel_id in CAPRICA_SPEAK_CHANNELS or parent_id in CAPRICA_SPEAK_CHANNELS:
-            can_speak = True
+@bot.tree.command(name="analyze", description="Run a deep analysis on a topic using the wiki or databases.")
+async def analyze_command(interaction: discord.Interaction, query: str):
+    if not is_owner_or_authorized(interaction.user):
+        await interaction.response.send_message("You are not authorized to use this bot.", ephemeral=True)
+        return
+        
+    guild_id = interaction.guild.id if interaction.guild else None
+    if guild_id != TEST_SERVER_ID:
+        await interaction.response.send_message("I am currently restricted to the test server.", ephemeral=True)
+        return
+
+    # Acknowledge the interaction immediately to prevent the 3-second timeout
+    await interaction.response.defer(thinking=True)
+    print(f"[{time.strftime('%X')}] Received /analyze command from {interaction.user.name}. Query: {query}")
+    
+    chat_history = f"System: The user invoked an explicit analysis slash command with query: {query}"
+    
+    response = await generate_response(query, chat_history, is_test_server=True)
+    
+    if len(response) > 2000:
+        for i, chunk in enumerate([response[j:j+1900] for j in range(0, len(response), 1900)]):
+            if i == 0:
+                await interaction.followup.send(chunk)
+            else:
+                await interaction.channel.send(chunk)
     else:
-        # Ignore other random servers she might be invited to
-        return
-
-    if not can_read and not can_speak:
-        return
-
-    if can_read:
-        # Log context to buffer
-        conn = get_connection()
-        c = conn.cursor()
-        c.execute("INSERT INTO discord_context (channel_id, author, content) VALUES (?, ?, ?)",
-                  (str(message.channel.id), message.author.name, message.content))
+        await interaction.followup.send(response)
         
-        # Keep context buffer small (last 500 messages globally)
-        c.execute("DELETE FROM discord_context WHERE id NOT IN (SELECT id FROM discord_context ORDER BY id DESC LIMIT 500)")
-        conn.commit()
-        conn.close()
-
-    # Check if she should speak
-    mentioned = bot.user in message.mentions
-    if not mentioned:
-        return
-        
-    if not can_speak:
-        print(f"Ignored ping from {message.author.name}: Not permitted to speak in channel {channel_id}.")
-        return
-
-    # Check Cooldown
-    now = time.time()
-    if now - user_last_ping[message.author.id] < USER_COOLDOWN:
-        await message.channel.send(f"Please wait {USER_COOLDOWN} seconds between requests, {message.author.name}.")
-        return
-        
-    user_last_ping[message.author.id] = now
-    
-    # Fetch recent chat history for context
-    conn = get_connection()
-    c = conn.cursor()
-    c.execute("SELECT author, content FROM discord_context WHERE channel_id = ? ORDER BY id DESC LIMIT 10", (str(message.channel.id),))
-    recent_msgs = c.fetchall()
-    conn.close()
-    
-    chat_history = ""
-    for r in reversed(recent_msgs):
-        chat_history += f"{r[0]}: {r[1]}\n"
-
-    # Queue the request instead of processing it immediately
-    is_test_server = (guild_id == TEST_SERVER_ID)
-    await request_queue.put((message, chat_history, is_test_server))
-
-@tasks.loop(hours=24)
-async def daily_bill_scrape():
-    """Runs the study_bills.sh script once every 24 hours."""
-    print("Starting automated daily bill scraping...")
-    try:
-        # Run the shell script asynchronously to not block the bot
-        process = await asyncio.create_subprocess_shell(
-            './study_bills.sh',
-            stdout=asyncio.subprocess.PIPE,
-            stderr=asyncio.subprocess.PIPE
-        )
-        stdout, stderr = await process.communicate()
-        if process.returncode == 0:
-            print("Daily bill scrape completed successfully.")
-            # Record the update timestamp
-            try:
-                conn = get_connection()
-                c = conn.cursor()
-                c.execute('UPDATE system_status SET last_update = ? WHERE id = 1', (time.time(),))
-                conn.commit()
-                conn.close()
-                
-                # Push the updated JSON files to git to trigger GitHub Pages
-                print("Committing and pushing updated JSON to GitHub...")
-                
-                github_token = os.environ.get("GITHUB_TOKEN")
-                
-                if github_token:
-                    push_cmd = f'git push https://uumeet-zade:{github_token}@github.com/uumeet-zade/Ilse-Kordan-Bot.git'
-                else:
-                    push_cmd = 'git push'
-                    
-                git_proc = await asyncio.create_subprocess_shell(
-                    f'git add bills.json status.json && git commit -m "Automated daily bills update" && {push_cmd}',
-                    stdout=asyncio.subprocess.PIPE,
-                    stderr=asyncio.subprocess.PIPE
-                )
-                git_stdout, git_stderr = await git_proc.communicate()
-                if git_proc.returncode == 0:
-                    print("Successfully pushed to GitHub.")
-                else:
-                    print(f"Git push failed: {git_stderr.decode()}")
-                    
-            except Exception as e:
-                print(f"Failed to record update time or push: {e}")
-        else:
-            print(f"Daily bill scrape failed: {stderr.decode()}")
-    except Exception as e:
-        print(f"Exception during daily bill scrape: {e}")
-
-@tasks.loop(seconds=60)
-async def bot_heartbeat():
-    """Updates the heartbeat timestamp so the website knows the bot is online."""
-    try:
-        conn = get_connection()
-        c = conn.cursor()
-        c.execute('UPDATE system_status SET last_heartbeat = ? WHERE id = 1', (time.time(),))
-        conn.commit()
-        conn.close()
-    except Exception:
-        pass
-
-# Slash Commands
-@bot.tree.command(name="ilse-update-roster", description="Update the Current State Ledger (Brain A)")
-async def update_roster(interaction: discord.Interaction, name: str, status: str, faction: str, role: str, notes: str):
-    # In a real bot, we'd add permission checks here (e.g., has_role("Admin"))
-    try:
-        conn = get_connection()
-        c = conn.cursor()
-        c.execute('''INSERT OR REPLACE INTO current_roster (character_name, status, faction, role, notes) 
-                     VALUES (?, ?, ?, ?, ?)''', (name, status, faction, role, notes))
-        conn.commit()
-        conn.close()
-        await interaction.response.send_message(f"Ledger updated: {name} is now {status} as {role} of {faction}.")
-    except Exception as e:
-        await interaction.response.send_message(f"Error updating ledger: {e}", ephemeral=True)
-
-@bot.tree.command(name="ilse-remove-roster", description="Remove a character from the Current State Ledger")
-async def remove_roster(interaction: discord.Interaction, name: str):
-    try:
-        conn = get_connection()
-        c = conn.cursor()
-        c.execute('DELETE FROM current_roster WHERE character_name = ?', (name,))
-        conn.commit()
-        conn.close()
-        await interaction.response.send_message(f"Removed {name} from the ledger.")
-    except Exception as e:
-        await interaction.response.send_message(f"Error removing from ledger: {e}", ephemeral=True)
+    print(f"[{time.strftime('%X')}] /analyze response to {interaction.user.name} completed.")
 
 if __name__ == "__main__":
     if not TOKEN:
-        print("ERROR: DISCORD_TOKEN not found in .env file.")
+        print("ERROR: DISCORD_TOKEN is not set in .env")
     else:
         bot.run(TOKEN)
