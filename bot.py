@@ -146,6 +146,22 @@ async def on_message(message):
                     return
                 else:
                     response = response.replace("<BLOCK_USER>", "")
+                    
+            # Check for AI-driven Strike (Slurs/Inappropriate)
+            if "<STRIKE_USER>" in response:
+                if not is_owner_or_authorized(message.author):
+                    user_spam_strikes[message.author.id] = user_spam_strikes.get(message.author.id, 0) + 1
+                    if user_spam_strikes[message.author.id] >= 3:
+                        ban_user(message.author.id)
+                        await wait_msg.delete()
+                        await message.channel.send(f"You have been permanently banned for repeated infractions, {message.author.mention}.")
+                        return
+                    else:
+                        await wait_msg.delete()
+                        await message.channel.send(f"I will not tolerate slurs or inappropriate conduct, {message.author.mention}. (Strike {user_spam_strikes[message.author.id]}/3)")
+                        return
+                else:
+                    response = response.replace("<STRIKE_USER>", "")
             
             # Chunk response if > 2000 chars
             if len(response) > 2000:
@@ -200,6 +216,19 @@ async def analyze_command(interaction: discord.Interaction, query: str):
             return
         else:
             response = response.replace("<BLOCK_USER>", "")
+            
+    if "<STRIKE_USER>" in response:
+        if not is_owner_or_authorized(interaction.user):
+            user_spam_strikes[interaction.user.id] = user_spam_strikes.get(interaction.user.id, 0) + 1
+            if user_spam_strikes[interaction.user.id] >= 3:
+                ban_user(interaction.user.id)
+                await interaction.followup.send(f"You have been permanently banned for repeated infractions, {interaction.user.mention}.")
+                return
+            else:
+                await interaction.followup.send(f"I will not tolerate slurs or inappropriate conduct, {interaction.user.mention}. (Strike {user_spam_strikes[interaction.user.id]}/3)")
+                return
+        else:
+            response = response.replace("<STRIKE_USER>", "")
     
     if len(response) > 2000:
         for i, chunk in enumerate([response[j:j+1900] for j in range(0, len(response), 1900)]):
