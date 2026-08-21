@@ -7887,3 +7887,69 @@
 
 ---
 
+## Nominate David Breen Cutter <@842809293258752000> to the supreme court.
+**Proposer:** alanmu0106
+
+### What Ilse Liked:
+> Nothing
+
+### What Ilse Disliked:
+> The bill lacks any substantive information regarding the nominee's judicial philosophy, commitment to the rule of law, or their understanding of the delicate balance between state intervention and a free, competitive market order, which is essential for preserving the constitutional framework of our society.
+
+---
+
+## Require the Ministry of Defense to look into and field test leopard-print camouflage for both the Air Force and Marines (reference below)
+**Proposer:** adieliicious
+
+### What Ilse Liked:
+> Nothing.
+
+### What Ilse Disliked:
+> This proposal is a frivolous misuse of public funds and institutional focus that undermines the Ordoliberal requirement for a lean, efficient, and rational administrative state. Prioritizing aesthetic experimentation over the core duties of national defense and the responsible management of taxpayer resources is an affront to the working-class citizens whose labor funds these state operations.
+
+---
+
+## Release the edelstein files, proposed by Draqi Arkas.
+**Proposer:** bay_klinton
+
+### What Ilse Liked:
+> As an Ordoliberal, I fundamentally support the principle of transparency, as a functional market requires information symmetry and the rule of law to prevent arbitrary power and corruption.
+
+### What Ilse Disliked:
+> If the release mechanism bypasses established institutional oversight or compromises legitimate legal privacy standards, it risks creating instability that undermines the very market order it intends to protect.
+
+---
+
+## Adopt an amendment to the Foreign Development Cooperation Act
+**Proposer:** nikderprager
+
+### What Ilse Liked:
+> Nothing
+
+### What Ilse Disliked:
+> The lack of transparency and provided text makes it impossible to evaluate whether this amendment adheres to the principles of fiscal responsibility or if it meaningfully contributes to human development and international social stability.
+
+---
+
+## Nuremberg Act to exempt National Guard units from Category B restrictions, and to replace the Category A restrictions applicable to National Guard units with a prohibition on missiles with a range greater than 500 km or a warhead greater than 227 kg. Extend restrictions of Military and Foreign Protocol Act in Section 1 to the National Guard.
+**Proposer:** eruween
+
+### What Ilse Liked:
+> The move toward standardized regulatory clarity and the explicit inclusion of the National Guard under the Military and Foreign Protocol Act, which promotes institutional accountability.
+
+### What Ilse Disliked:
+> The potential for reduced oversight regarding Category B exemptions, which risks destabilizing the competitive market framework and creates a dangerous precedent for military units operating with insufficient transparency.
+
+---
+
+## Raudea Agreement 2038 
+**Proposer:** nikderprager
+
+### What Ilse Liked:
+> I support the commitment to the rule of law and anti-authoritarianism, as well as the ordoliberal focus on establishing a clear, rules-based framework for international trade and scientific cooperation.
+
+### What Ilse Disliked:
+> I am concerned that the tariff reductions lack sufficient protections for our domestic working-class industries, and I fear the environmental targets, while noble, may lack the rigorous social safety nets required to transition our workers fairly.
+
+---
+

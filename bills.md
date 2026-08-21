@@ -6478,3 +6478,57 @@
 
 ---
 
+## Nominate David Breen Cutter <@842809293258752000> to the supreme court.
+**Date:** 2026-08-21
+**Proposer:** alanmu0106 (ID: 748574559711526973)
+**Document:** No Link
+
+**Main Goal:** The bill seeks the appointment of David Breen Cutter to the Supreme Court of Caprica.
+
+---
+
+## Require the Ministry of Defense to look into and field test leopard-print camouflage for both the Air Force and Marines (reference below)
+**Date:** 2026-08-20
+**Proposer:** adieliicious (ID: 877921042314711130)
+**Document:** No Link
+
+**Main Goal:** This bill mandates the Ministry of Defense to investigate and field-test leopard-print camouflage patterns for use by the Air Force and Marine Corps.
+
+---
+
+## Release the edelstein files, proposed by Draqi Arkas.
+**Date:** 2026-08-20
+**Proposer:** bay_klinton (ID: 1062795149626851361)
+**Document:** No Link
+
+**Main Goal:** The bill aims to mandate the public disclosure and release of the 'Edelstein files' to ensure transparency regarding state or corporate documentation.
+
+---
+
+## Adopt an amendment to the Foreign Development Cooperation Act
+**Date:** 2026-08-20
+**Proposer:** nikderprager (ID: 773197858970271744)
+**Document:** No Link
+
+**Main Goal:** The bill proposes an amendment to the Foreign Development Cooperation Act, though the specific text and strategic objectives remain undefined.
+
+---
+
+## Nuremberg Act to exempt National Guard units from Category B restrictions, and to replace the Category A restrictions applicable to National Guard units with a prohibition on missiles with a range greater than 500 km or a warhead greater than 227 kg. Extend restrictions of Military and Foreign Protocol Act in Section 1 to the National Guard.
+**Date:** 2026-08-20
+**Proposer:** eruween (ID: 842809293258752000)
+**Document:** No Link
+
+**Main Goal:** The bill aims to redefine the regulatory status of National Guard units by exempting them from Category B restrictions while imposing specific technical limitations on missile range and payload.
+
+---
+
+## Raudea Agreement 2038 
+**Date:** 2026-02-26
+**Proposer:** nikderprager (ID: 773197858970271744)
+**Document:** https://docs.google.com/document/d/1soQ_HD-jr4BiTnjXNvvAVc6JBJiqiEX4zkXbsRptEaA
+
+**Main Goal:** The Raudea Agreement seeks to establish a free trade area, enhance democratic cooperation, and align climate policies between Caprica, Alania, and the Columbian Union.
+
+---
+

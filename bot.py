@@ -123,7 +123,7 @@ async def on_message(message):
         
         async with message.channel.typing():
             chat_history = ""
-            async for msg in message.channel.history(limit=5, before=message):
+            async for msg in message.channel.history(limit=15, before=message):
                 chat_history = f"{msg.author.name} (ID: {msg.author.id}): {msg.content}\n" + chat_history
             
             is_test = (message.guild.id == TEST_SERVER_ID) if message.guild else False
@@ -136,7 +136,11 @@ async def on_message(message):
                 api_exhausted_until = time.time() + 60
                 await wait_msg.edit(content="*(Ilse enters a state of rest. I have run out of API tokens and will ignore all requests for the next minute while my quota refreshes.)*")
                 return
-            
+
+            if "<IGNORE>" in response:
+                await wait_msg.delete()
+                return
+                
             # Check for AI-driven Ban
             if "<BLOCK_USER>" in response:
                 if not is_owner_or_authorized(message.author):
