@@ -2,7 +2,7 @@ import sqlite3
 import json
 
 def export():
-    conn = sqlite3.connect('memory.db')
+    conn = sqlite3.connect('memory.db', timeout=15)
     conn.row_factory = sqlite3.Row
     bills = conn.execute('SELECT * FROM bills ORDER BY date DESC').fetchall()
     

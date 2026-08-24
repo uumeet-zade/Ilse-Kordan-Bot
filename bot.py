@@ -1,11 +1,12 @@
 import os
 import json
 import discord
-from discord.ext import commands
+from discord.ext import commands, tasks
 import time
 from dotenv import load_dotenv
 
 from brain import generate_response
+import auto_scraper
 
 load_dotenv()
 TOKEN = os.environ.get("DISCORD_TOKEN")
@@ -34,6 +35,7 @@ ALLOWED_CAPRICA_CHANNELS = [1266040682213281955]
 BLACKLIST_FILE = "blacklist.json"
 user_last_ping = {} # {user_id: timestamp}
 user_spam_strikes = {} # {user_id: count}
+user_behavior_strikes = {} # {user_id: count}
 COOLDOWN_SECONDS = 3
 api_exhausted_until = 0
 
@@ -41,26 +43,48 @@ def load_blacklist():
     if os.path.exists(BLACKLIST_FILE):
         try:
             with open(BLACKLIST_FILE, "r") as f:
-                return set(json.load(f))
+                data = json.load(f)
+                if isinstance(data, list):
+                    return {int(uid): None for uid in data}
+                else:
+                    return {int(k): v for k, v in data.items()}
         except:
-            return set()
-    return set()
+            return {}
+    return {}
 
 def save_blacklist(bl):
     with open(BLACKLIST_FILE, "w") as f:
-        json.dump(list(bl), f)
+        json.dump(bl, f)
 
 banned_users = load_blacklist()
 
-def ban_user(user_id):
-    banned_users.add(user_id)
+def ban_user(user_id, duration_hours=None):
+    expiry = time.time() + duration_hours * 3600 if duration_hours else None
+    banned_users[user_id] = expiry
     save_blacklist(banned_users)
-    print(f"[{time.strftime('%X')}] [BANNED] User ID {user_id} has been permanently blacklisted.")
+    if duration_hours:
+        print(f"[{time.strftime('%X')}] [BANNED] User ID {user_id} has been temporarily blacklisted for {duration_hours} hours.")
+    else:
+        print(f"[{time.strftime('%X')}] [BANNED] User ID {user_id} has been permanently blacklisted.")
+
+def is_banned(user_id):
+    if user_id in banned_users:
+        expiry = banned_users[user_id]
+        if expiry is not None and time.time() > expiry:
+            del banned_users[user_id]
+            save_blacklist(banned_users)
+            return False
+        return True
+    return False
+
+AUTHORIZED_USERS = {610453628657860654} # Lyn
 
 def is_owner_or_authorized(user):
     if OWNER_ID:
-        return user.id == OWNER_ID
-    return True 
+        if user.id == OWNER_ID or user.id in AUTHORIZED_USERS:
+            return True
+        return False
+    return True
 
 def is_allowed_channel(message):
     guild_id = message.guild.id if message.guild else None
@@ -69,6 +93,11 @@ def is_allowed_channel(message):
     if guild_id == CAPRICA_SERVER_ID and message.channel.id in ALLOWED_CAPRICA_CHANNELS:
         return True
     return False
+@tasks.loop(hours=24)
+async def daily_bill_update():
+    await auto_scraper.check_and_update_bills(bot)
+    await auto_scraper.check_regional_bills(bot)
+    await auto_scraper.scrape_lore_channels(bot)
 
 @bot.event
 async def on_ready():
@@ -78,6 +107,9 @@ async def on_ready():
         print(f"Authorized Owner ID: {OWNER_ID}")
     print(f"Loaded {len(banned_users)} banned users.")
     print("Bot is ready and running in terminal.")
+    
+    if not daily_bill_update.is_running():
+        daily_bill_update.start()
 
 @bot.event
 async def on_message(message):
@@ -91,7 +123,7 @@ async def on_message(message):
         return
 
     # 1. Check Blacklist
-    if message.author.id in banned_users:
+    if is_banned(message.author.id):
         return
 
     # 2. Check Allowed Channel
@@ -115,8 +147,6 @@ async def on_message(message):
                     return
                     
             user_last_ping[message.author.id] = now
-            # Reset strikes on successful non-spam ping
-            user_spam_strikes[message.author.id] = 0
 
         print(f"[{time.strftime('%X')}] Received mention from {message.author.name}. Generating response...")
         wait_msg = await message.reply("*(Ilse is reviewing her documents...)*")
@@ -154,15 +184,15 @@ async def on_message(message):
             # Check for AI-driven Strike (Slurs/Inappropriate)
             if "<STRIKE_USER>" in response:
                 if not is_owner_or_authorized(message.author):
-                    user_spam_strikes[message.author.id] = user_spam_strikes.get(message.author.id, 0) + 1
-                    if user_spam_strikes[message.author.id] >= 3:
+                    user_behavior_strikes[message.author.id] = user_behavior_strikes.get(message.author.id, 0) + 1
+                    if user_behavior_strikes[message.author.id] >= 3:
                         ban_user(message.author.id)
                         await wait_msg.delete()
                         await message.channel.send(f"You have been permanently banned for repeated infractions, {message.author.mention}.")
                         return
                     else:
                         await wait_msg.delete()
-                        await message.channel.send(f"I will not tolerate slurs or inappropriate conduct, {message.author.mention}. (Strike {user_spam_strikes[message.author.id]}/3)")
+                        await message.channel.send(f"I will not tolerate slurs, inappropriate conduct, or flirting, {message.author.mention}. (Strike {user_behavior_strikes[message.author.id]}/3)")
                         return
                 else:
                     response = response.replace("<STRIKE_USER>", "")
@@ -177,6 +207,39 @@ async def on_message(message):
         
         print(f"[{time.strftime('%X')}] Response to {message.author.name} completed.")
 
+@bot.tree.command(name="ignore", description="[OWNER ONLY] Add a user to the ignore list.")
+async def ignore_command(interaction: discord.Interaction, user_id: str, hours: int = None):
+    if not is_owner_or_authorized(interaction.user):
+        await interaction.response.send_message("Only the Owner is authorized to run this command.", ephemeral=True)
+        return
+        
+    try:
+        uid = int(user_id)
+        ban_user(uid, duration_hours=hours)
+        if hours:
+            await interaction.response.send_message(f"User ID {uid} has been ignored for {hours} hours.", ephemeral=True)
+        else:
+            await interaction.response.send_message(f"User ID {uid} has been permanently ignored.", ephemeral=True)
+    except ValueError:
+        await interaction.response.send_message("Invalid User ID.", ephemeral=True)
+
+@bot.tree.command(name="unignore", description="[OWNER ONLY] Remove a user from the ignore list.")
+async def unignore_command(interaction: discord.Interaction, user_id: str):
+    if not is_owner_or_authorized(interaction.user):
+        await interaction.response.send_message("Only the Owner is authorized to run this command.", ephemeral=True)
+        return
+        
+    try:
+        uid = int(user_id)
+        if uid in banned_users:
+            del banned_users[uid]
+            save_blacklist(banned_users)
+            await interaction.response.send_message(f"User ID {uid} has been removed from the ignore list.", ephemeral=True)
+        else:
+            await interaction.response.send_message(f"User ID {uid} is not on the ignore list.", ephemeral=True)
+    except ValueError:
+        await interaction.response.send_message("Invalid User ID.", ephemeral=True)
+
 @bot.tree.command(name="analyze", description="Run a deep analysis on a topic using the wiki or databases.")
 async def analyze_command(interaction: discord.Interaction, query: str):
     global api_exhausted_until
@@ -184,7 +247,7 @@ async def analyze_command(interaction: discord.Interaction, query: str):
     if time.time() < api_exhausted_until:
         await interaction.response.send_message("I am currently in a rest state due to API token exhaustion. Please try again in a minute.", ephemeral=True)
         return
-    if interaction.user.id in banned_users:
+    if is_banned(interaction.user.id):
         await interaction.response.send_message("You are not authorized to use this bot.", ephemeral=True)
         return
         
@@ -223,13 +286,13 @@ async def analyze_command(interaction: discord.Interaction, query: str):
             
     if "<STRIKE_USER>" in response:
         if not is_owner_or_authorized(interaction.user):
-            user_spam_strikes[interaction.user.id] = user_spam_strikes.get(interaction.user.id, 0) + 1
-            if user_spam_strikes[interaction.user.id] >= 3:
+            user_behavior_strikes[interaction.user.id] = user_behavior_strikes.get(interaction.user.id, 0) + 1
+            if user_behavior_strikes[interaction.user.id] >= 3:
                 ban_user(interaction.user.id)
                 await interaction.followup.send(f"You have been permanently banned for repeated infractions, {interaction.user.mention}.")
                 return
             else:
-                await interaction.followup.send(f"I will not tolerate slurs or inappropriate conduct, {interaction.user.mention}. (Strike {user_spam_strikes[interaction.user.id]}/3)")
+                await interaction.followup.send(f"I will not tolerate slurs, inappropriate conduct, or flirting, {interaction.user.mention}. (Strike {user_behavior_strikes[interaction.user.id]}/3)")
                 return
         else:
             response = response.replace("<STRIKE_USER>", "")

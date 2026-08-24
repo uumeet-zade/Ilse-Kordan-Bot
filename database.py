@@ -5,7 +5,8 @@ import json
 DB_PATH = 'memory.db'
 
 def get_connection():
-    return sqlite3.connect(DB_PATH)
+    conn = sqlite3.connect(DB_PATH, timeout=15)
+    return conn
 
 def init_db():
     conn = get_connection()
@@ -64,6 +65,31 @@ def init_db():
             main_goal TEXT,
             ilse_opinion TEXT,
             UNIQUE(title)
+        )
+    ''')
+    
+    # Regional Bills Archive
+    c.execute('''
+        CREATE TABLE IF NOT EXISTS regional_bills (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            title TEXT,
+            region TEXT,
+            date TEXT,
+            proposer TEXT,
+            doc_link TEXT,
+            UNIQUE(doc_link)
+        )
+    ''')
+    
+    # Discord Lore Archive
+    c.execute('''
+        CREATE TABLE IF NOT EXISTS discord_lore (
+            message_id TEXT PRIMARY KEY,
+            channel_name TEXT,
+            thread_name TEXT,
+            author TEXT,
+            content TEXT,
+            timestamp DATETIME
         )
     ''')
     
