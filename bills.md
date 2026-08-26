@@ -1,5 +1,14 @@
 # Caprica Proposed Bills (Sorted by Date)
 
+## Nominate Woke Peter Thiel <@775290140134342676> to the CEC.
+**Date:** 2026-08-25
+**Proposer:** draksicell
+**Document:** No Link
+
+**Main Goal:** Pending analysis.
+
+---
+
 ## Nominate David Breen Cutter <@842809293258752000> to the supreme court.
 **Date:** 2026-08-21
 **Proposer:** alanmu0106
