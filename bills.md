@@ -1,5 +1,23 @@
 # Caprica Proposed Bills (Sorted by Date)
 
+## Nomination of <@842809293258752000> as Prime Minister.
+**Date:** 2026-08-26
+**Proposer:** draksicell
+**Document:** No Link
+
+**Main Goal:** Pending analysis.
+
+---
+
+## A motion to bring back smoking in pubs. By Hairy Balls
+**Date:** 2026-08-26
+**Proposer:** billy_clitoris
+**Document:** No Link
+
+**Main Goal:** Pending analysis.
+
+---
+
 ## Nominate Woke Peter Thiel <@775290140134342676> to the CEC.
 **Date:** 2026-08-25
 **Proposer:** draksicell
