@@ -17,7 +17,8 @@ genai.configure(api_key=os.environ.get("GEMINI_API_KEY"))
 
 # Define Tools for Gemini
 def search_wiki(query: str) -> str:
-    """Searches the live Caprica Miraheze wiki for lore, people, governments, and bills. You can pass keywords instead of exact titles."""
+    """Searches the live Caprica Miraheze wiki for lore, people, governments, and bills.
+    CRITICAL INSTRUCTION FOR SEARCHING: Extract ONLY the core, full name from the user's prompt. DO NOT include acronyms in parentheses. For example, if the user asks about "New Jersey Roundhead (NJR)", search EXACTLY for "New Jersey Roundhead". Do not search for "NJR" or "new jersey roundhead NJR". Keep your query as simple and broad as possible."""
     print(f"[TOOL] AI is searching live wiki for: {query}")
     
     titles = search_live_wiki(query)
