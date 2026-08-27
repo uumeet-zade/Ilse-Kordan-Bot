@@ -59,6 +59,17 @@ def fetch_page_content(title):
             return None, None
     return None, None
 
+def search_live_wiki(query):
+    import urllib.parse
+    encoded_query = urllib.parse.quote(query)
+    url = f"{API_URL}?action=query&list=search&srsearch={encoded_query}&format=json"
+    
+    response = curl_get_json(url)
+    if not response or "query" not in response or "search" not in response["query"]:
+        return []
+        
+    return [item["title"] for item in response["query"]["search"][:3]]
+
 def ingest_wiki():
     init_db()
     conn = get_connection()

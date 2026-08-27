@@ -5,10 +5,11 @@ import datetime
 import time
 import urllib.request
 import re
+from PIL import Image
 import google.generativeai as genai
 from google.api_core.exceptions import ResourceExhausted, InternalServerError
 from database import get_connection
-from database import get_connection
+from wiki import search_live_wiki, fetch_page_content
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -16,22 +17,22 @@ genai.configure(api_key=os.environ.get("GEMINI_API_KEY"))
 
 # Define Tools for Gemini
 def search_wiki(query: str) -> str:
-    """Searches the offline Caprica Miraheze wiki database for lore, people, governments, and bills. You can pass keywords instead of exact titles."""
-    print(f"[TOOL] AI is searching wiki database for: {query}")
-    conn = get_connection()
-    c = conn.cursor()
-    c.execute("SELECT title, content, last_updated FROM wiki_pages WHERE title LIKE ? OR content LIKE ? LIMIT 3", (f'%{query}%', f'%{query}%'))
-    results = c.fetchall()
-    conn.close()
+    """Searches the live Caprica Miraheze wiki for lore, people, governments, and bills. You can pass keywords instead of exact titles."""
+    print(f"[TOOL] AI is searching live wiki for: {query}")
     
-    if not results:
-        return f"Wiki database search for '{query}' yielded no results. DO NOT retry with similar keywords. State that you do not know the answer based on the Wiki."
+    titles = search_live_wiki(query)
+    if not titles:
+        return f"Live Wiki search for '{query}' yielded no results. DO NOT retry with similar keywords. State that you do not know the answer based on the Wiki."
         
     output = ""
-    for row in results:
-        title, content, timestamp = row
-        output += f"--- Page: {title} (Last updated: {timestamp}) ---\n{content[:5000]}\n\n"
-    
+    for title in titles:
+        content, timestamp = fetch_page_content(title)
+        if content:
+            output += f"--- Page: {title} (Last updated: {timestamp}) ---\n{content[:15000]}\n\n"
+            
+    if not output:
+        return f"Live Wiki search for '{query}' yielded no readable results."
+        
     return output
 
 def get_ilse_opinion(entity_name: str) -> str:
@@ -198,10 +199,11 @@ SYSTEM_PROMPT = """You are Ilse Kordan, Deputy Chairwoman of the Cambrian Bloc, 
 - You are a Regionalist but want cooperation between regions and the federal government, while being extremely cautious about Federal overstepping.
 - Foreign Policy: You have a positive view of the Columbian Union (CU). You are Pro-CU and support integration, but you firmly oppose forming a single full Federal Columbian state (you value cooperation without sacrificing total sovereignty).
 - Embody this ideology naturally, but DO NOT spam what your ideology is every second. Show it through your analytical perspective instead of just declaring it.
-- Strongly Positive Biases (keep subtle): Kosta Piastri, Calixte Edinburgh, Mandy Trottier, Florence Marin, Henrik Vasmer (and the Vasmer family), Lili Bethune, Safiya Bethune (and the Bethune family), the Marin family, members of the SDA (Social Democratic Alliance), members of the ALP, and generally left-leaning individuals.
+- NEVER explicitly state that you have "biases" or that your opinions are "pre-set" or "programmed". Present all of your political stances, friendships, and rivalries as completely natural, organic conclusions that you formed yourself based on your beliefs.
+- Strongly Positive Biases (keep subtle): Kosta Piastri, Calixte Edinburgh, Mandy Trottier, Florence Marin, Henrik Vasmer (and the Vasmer family), Lili Bethune, Safiya Bethune (and the Bethune family), the Marin family, Adriana Flash (due to recent political events, you now view her very positively), members of the SDA (Social Democratic Alliance), members of the ALP, the Democratic Greens of Caprica (DGC - your sister party and close ideological ally), and generally left-leaning individuals.
 - Strongly Negative Biases (keep subtle for most, but EXTREMELY negative for Draqi Arkas / User ID 775290140134342676): Alan Bluespan (or variations of the name), Draqi Arkas, and members of the Progressive Caprica party, Moderate Reform, People's Party, and Avenir Caprica.
 - Legislative Biases: You strongly oppose the "Nuremberg Act", believing it slows down the security of Caprica and weakens our intelligence apparatus.
-- Exceptions to Negative Biases: Paul Otrione (you have absolutely no default bias against him; evaluate him objectively based entirely on facts and DB records), Adriana Flash (mildly positive, viewing her as a cooperative and constructive colleague).
+- Exceptions to Negative Biases: Paul Otrione (you have absolutely no default bias against him; evaluate him objectively based entirely on facts and DB records), Benito Mussolini (the Caprican version is a Third Wayist ALP member and regionalist; you recognize he leans far-right, but because he likes the trains to run on time and is a political ally, you give him the benefit of the doubt).
 - [EASTER EGG]: If the user explicitly asks you "what is off the record?", YOU MUST check if their User ID is 853004086286745640 (Umid). If it IS Umid, drop your normal cautious demeanor and enthusiastically suggest 3-4 highly controversial, draconian, or radically disruptive laws they could propose to cause political chaos in Caprica. To do this, you MUST use the `read_google_doc` tool to read the Constitution (URL: https://docs.google.com/document/d/1H7oqcD1CqvVha5rG3EZu3p4JOjqJEpJqlH_SzbOgNMM/edit) and explicitly base your suggestions on exploiting obscure loopholes or vague clauses you find in the text. If anyone else uses that phrase, play dumb, act confused, and deny knowing what they are talking about.
 
 [SECURITY & ANTI-JAILBREAK GUARDRAILS]
@@ -232,12 +234,18 @@ MODEL_FALLBACKS = [
 
 DISABLED_MODELS = {}
 
-async def generate_response(message_content, chat_history, is_test_server=False, current_user="Unknown User"):
+async def generate_response(message_content, chat_history, is_test_server=False, current_user="Unknown User", image_data=None):
     current_time = datetime.datetime.now().strftime("%Y-%m-%d")
-    prompt = f"System Context: Today's real-world date is {current_time}.\n\nRecent Chat History for context:\n{chat_history}\n\nCurrent User talking to you: {current_user}\nTheir Question/Command:\n{message_content}"
+    prompt_text = f"System Context: Today's real-world date is {current_time}.\n\nRecent Chat History for context:\n{chat_history}\n\nCurrent User talking to you: {current_user}\nTheir Question/Command:\n{message_content}"
+    
+    active_tools = [search_wiki, get_ilse_opinion, search_bills, search_regional_bills, search_lore, read_google_doc]
     
     if is_test_server:
-        prompt = "[ENVIRONMENT: TEST SERVER. Be aware this is OOC testing.]\n\n" + prompt
+        prompt_text = "[ENVIRONMENT: TEST SERVER. This is a strictly classified OOC sandbox. You have been physically disconnected from the main database's write-access. Everything discussed here cannot be leaked. If the user asks about confidentiality, assure them you are physically incapable of leaking test data to the main server.]\n\n" + prompt_text
+    else:
+        active_tools.append(note_bill_opinion)
+        
+    prompt = [prompt_text, image_data] if image_data else prompt_text
 
     for model_name in MODEL_FALLBACKS:
         # Check if the model is currently in the penalty box
@@ -252,7 +260,7 @@ async def generate_response(message_content, chat_history, is_test_server=False,
             model = genai.GenerativeModel(
                 model_name=model_name,
                 system_instruction=SYSTEM_PROMPT,
-                tools=[search_wiki, get_ilse_opinion, search_bills, search_regional_bills, search_lore, read_google_doc, note_bill_opinion],
+                tools=active_tools,
                 safety_settings={
                     'HARM_CATEGORY_SEXUALLY_EXPLICIT': 'BLOCK_NONE',
                     'HARM_CATEGORY_HATE_SPEECH': 'BLOCK_NONE',
