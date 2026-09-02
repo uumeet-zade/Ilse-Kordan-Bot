@@ -37,3 +37,12 @@
 
 ---
 
+## The Nuremberg Act. Presented by Runmin Jiang
+### What Ilse Liked:
+> Clear guidelines against COIN maintaining heavy armored units or WMDs, strong principles against off-book funding, and general commitment to intelligence transparency.
+
+### What Ilse Disliked:
+> Requiring explicit Acts of Parliament for every sensitive covert operation cripplingly slows down response times during foreign crises, dangerously weakening Caprica's security apparatus and intelligence agility; the legislative oversight model is overly rigid.
+
+---
+

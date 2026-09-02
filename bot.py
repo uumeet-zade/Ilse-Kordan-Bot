@@ -1,8 +1,11 @@
 import os
+import re
+import base64
 import json
 import io
 from PIL import Image
 import discord
+import asyncio
 from discord.ext import commands, tasks
 import time
 from dotenv import load_dotenv
@@ -24,6 +27,7 @@ class IlseBot(commands.Bot):
         super().__init__(command_prefix="!", intents=intents)
         
     async def setup_hook(self):
+        self.generation_lock = asyncio.Lock()
         await self.tree.sync()
         print("Slash commands synced.")
 
@@ -36,7 +40,9 @@ ALLOWED_CAPRICA_CHANNELS = [1266040682213281955]
 # --- Anti-Spam & Blacklist System ---
 BLACKLIST_FILE = "blacklist.json"
 user_last_ping = {} # {user_id: timestamp}
-user_spam_strikes = {} # {user_id: count}
+user_spam_strikes = {}
+latest_thoughts = {} # {user_id: thought}
+global_latest_thought = {"user": None, "thought": None}
 user_behavior_strikes = {} # {user_id: count}
 COOLDOWN_SECONDS = 3
 api_exhausted_until = 0
@@ -153,82 +159,121 @@ async def on_message(message):
         print(f"[{time.strftime('%X')}] Received mention from {message.author.name}. Generating response...")
         await message.add_reaction("⏳")
         
-        async with message.channel.typing():
-            chat_history = ""
-            async for msg in message.channel.history(limit=15, before=message):
-                chat_history = f"{msg.author.name} (ID: {msg.author.id}): {msg.content}\\n" + chat_history
-            
-            # Fetch referenced message if replying to someone
-            if message.reference and message.reference.message_id:
-                try:
-                    ref_msg = message.reference.cached_message or await message.channel.fetch_message(message.reference.message_id)
-                    chat_history = f"[CONTEXT - PINGER REPLIED TO THIS MESSAGE]\\n{ref_msg.author.name} (ID: {ref_msg.author.id}): {ref_msg.content}\\n[END CONTEXT]\\n\\n" + chat_history
-                except Exception as e:
-                    print(f"Failed to fetch referenced message: {e}")
-                    
-            # Check for image attachments
-            image_data = None
-            if message.attachments:
-                for attachment in message.attachments:
-                    if attachment.content_type and attachment.content_type.startswith('image/'):
-                        try:
-                            img_bytes = await attachment.read()
-                            image_data = Image.open(io.BytesIO(img_bytes))
-                            break
-                        except Exception as e:
-                            print(f"Failed to read image: {e}")
-            
-            is_test = (message.guild.id == TEST_SERVER_ID) if message.guild else False
-            current_user_context = f"{message.author.name} (ID: {message.author.id})"
-            
-            response = await generate_response(message.content, chat_history, is_test_server=is_test, current_user=current_user_context, image_data=image_data)
-            
-            try:
-                await message.remove_reaction("⏳", bot.user)
-            except:
-                pass
-            
-            # Check API Exhaustion
-            if response == "<API_EXHAUSTED>":
-                api_exhausted_until = time.time() + 60
-                await message.reply("*(Ilse enters a state of rest. I have run out of API tokens and will ignore all requests for the next minute while my quota refreshes.)*")
-                return
-
-            if "<IGNORE>" in response:
-                return
+        async with bot.generation_lock:
+            async with message.channel.typing():
+                chat_history = ""
+                async for msg in message.channel.history(limit=15, before=message):
+                    chat_history = f"{msg.author.name} (ID: {msg.author.id}): {msg.content}\\n" + chat_history
                 
-            # Check for AI-driven Ban
-            if "<BLOCK_USER>" in response:
-                if not is_owner_or_authorized(message.author):
-                    ban_user(message.author.id)
-                    await message.channel.send(f"I will not tolerate this conduct, {message.author.mention}.")
+                # Fetch referenced message if replying to someone
+                if message.reference and message.reference.message_id:
+                    try:
+                        ref_msg = message.reference.cached_message or await message.channel.fetch_message(message.reference.message_id)
+                        chat_history = f"[CONTEXT - PINGER REPLIED TO THIS MESSAGE]\\n{ref_msg.author.name} (ID: {ref_msg.author.id}): {ref_msg.content}\\n[END CONTEXT]\\n\\n" + chat_history
+                    except Exception as e:
+                        print(f"Failed to fetch referenced message: {e}")
+                        
+                # Check for image attachments
+                image_data = None
+                if message.attachments:
+                    for attachment in message.attachments:
+                        if attachment.content_type and attachment.content_type.startswith('image/'):
+                            try:
+                                img_bytes = await attachment.read()
+                                base64_image = base64.b64encode(img_bytes).decode('utf-8')
+                                image_data = f"data:{attachment.content_type};base64,{base64_image}"
+                                break
+                            except Exception as e:
+                                print(f"Failed to read image: {e}")
+                
+                is_test = (message.guild.id == TEST_SERVER_ID) if message.guild else False
+                current_user_context = f"{message.author.name} (ID: {message.author.id})"
+                
+                response = await generate_response(message.content, chat_history, is_test_server=is_test, current_user=current_user_context, image_data=image_data)
+                
+                # Extract and log internal thoughts (allow for misspelled closing tags like </THOLOGY>)
+                thoughts = re.findall(r'<THOUGHT>(.*?)</[a-zA-Z]+>', response, re.DOTALL | re.IGNORECASE)
+                combined_thought = ""
+                for thought in thoughts:
+                    combined_thought += thought.strip() + "\n"
+                    with open("thoughts.log", "a") as f:
+                        f.write(f"[{time.strftime('%X')}] Response to {message.author.name}:\n{thought.strip()}\n\n")
+                
+                
+                if combined_thought:
+                    latest_thoughts[message.author.id] = combined_thought.strip()
+                    global_latest_thought["user"] = message.author.name
+                    global_latest_thought["thought"] = combined_thought.strip()
+                
+                # Strip thoughts from the actual response sent to Discord
+                response = re.sub(r'<THOUGHT>.*?</[a-zA-Z]+>', '', response, flags=re.DOTALL | re.IGNORECASE).strip()
+                
+                try:
+                    await message.remove_reaction("⏳", bot.user)
+                except:
+                    pass
+                
+                # Check API Exhaustion
+                if response == "<API_EXHAUSTED>":
+                    api_exhausted_until = time.time() + 60
+                    await message.reply("*(Ilse enters a state of rest. I have run out of API tokens and will ignore all requests for the next minute while my quota refreshes.)*")
                     return
-                else:
-                    response = response.replace("<BLOCK_USER>", "")
+    
+                if "<IGNORE>" in response:
+                    return
                     
-            # Check for AI-driven Strike (Slurs/Inappropriate)
-            if "<STRIKE_USER>" in response:
-                if not is_owner_or_authorized(message.author):
-                    user_behavior_strikes[message.author.id] = user_behavior_strikes.get(message.author.id, 0) + 1
-                    if user_behavior_strikes[message.author.id] >= 3:
+                # Check for AI-driven Ban
+                if "<BLOCK_USER>" in response:
+                    if not is_owner_or_authorized(message.author):
                         ban_user(message.author.id)
-                        await message.channel.send(f"You have been permanently banned for repeated infractions, {message.author.mention}.")
+                        await message.channel.send(f"I will not tolerate this conduct, {message.author.mention}.")
                         return
                     else:
-                        await message.channel.send(f"I will not tolerate slurs, inappropriate conduct, or flirting, {message.author.mention}. (Strike {user_behavior_strikes[message.author.id]}/3)")
-                        return
+                        response = response.replace("<BLOCK_USER>", "")
+                        
+                # Check for AI-driven Strike (Slurs/Inappropriate)
+                if "<STRIKE_USER>" in response:
+                    if not is_owner_or_authorized(message.author):
+                        user_behavior_strikes[message.author.id] = user_behavior_strikes.get(message.author.id, 0) + 1
+                        if user_behavior_strikes[message.author.id] >= 3:
+                            ban_user(message.author.id)
+                            await message.channel.send(f"You have been permanently banned for repeated infractions, {message.author.mention}.")
+                            return
+                        else:
+                            await message.channel.send(f"I will not tolerate slurs, inappropriate conduct, or flirting, {message.author.mention}. (Strike {user_behavior_strikes[message.author.id]}/3)")
+                            return
+                    else:
+                        response = response.replace("<STRIKE_USER>", "")
+                
+                # Chunk response if > 2000 chars
+                if len(response) > 2000:
+                    await message.reply(response[:1900])
+                    for chunk in [response[i:i+1900] for i in range(1900, len(response), 1900)]:
+                        await message.channel.send(chunk)
                 else:
-                    response = response.replace("<STRIKE_USER>", "")
+                    await message.reply(response)
             
-            # Chunk response if > 2000 chars
-            if len(response) > 2000:
-                await message.reply(response[:1900])
-                for chunk in [response[i:i+1900] for i in range(1900, len(response), 1900)]:
-                    await message.channel.send(chunk)
-            else:
-                await message.reply(response)
-        
         print(f"[{time.strftime('%X')}] Response to {message.author.name} completed.")
+
+@bot.tree.command(name="thoughts", description="[OWNER ONLY] Read Ilse's internal thoughts from her last response to a user.")
+async def thoughts_command(interaction: discord.Interaction, user: discord.User = None):
+    if not is_owner_or_authorized(interaction.user):
+        await interaction.response.send_message("Only the Owner is authorized to run this command.", ephemeral=True)
+        return
+        
+    if user:
+        target_name = user.name
+        thought = latest_thoughts.get(user.id)
+    else:
+        target_name = global_latest_thought.get("user")
+        thought = global_latest_thought.get("thought")
+        
+    if not thought:
+        await interaction.response.send_message(f"No recent thoughts recorded.", ephemeral=True)
+        return
+        
+    embed = discord.Embed(title=f"Ilse's Thoughts regarding {target_name}", description=thought[:4090], color=discord.Color.dark_grey())
+    await interaction.response.send_message(embed=embed, ephemeral=True)
 
 @bot.tree.command(name="ignore", description="[OWNER ONLY] Add a user to the ignore list.")
 async def ignore_command(interaction: discord.Interaction, user_id: str, hours: int = None):

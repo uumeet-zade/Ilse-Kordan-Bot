@@ -39,7 +39,6 @@ def fetch_all_pages():
     return pages
 
 def fetch_page_content(title):
-    # URL encode the title for curl
     import urllib.parse
     encoded_title = urllib.parse.quote(title)
     url = f"{API_URL}?action=query&prop=revisions&rvprop=content|timestamp&titles={encoded_title}&format=json"
