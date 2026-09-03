@@ -1,6 +1,7 @@
 # Secrets
 .env
 secret.key
+google_credentials.json
 
 # Databases
 *.db
@@ -22,6 +23,17 @@ env/
 .vscode/
 .idea/
 .DS_Store
+
+# Hide Ilse bot files
+*.py
+*.sh
+blacklist.json
+status.json
+disabled_models.json
+ilse_opinions.md
+bills.md
+bills_opinions.md
+scratch_brain.txt
 
 # Don't ignore static assets and our data file!
 !bills.json

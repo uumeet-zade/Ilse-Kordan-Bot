@@ -12,6 +12,7 @@ from mistralai import Mistral
 import json
 from database import get_connection
 from wiki import search_live_wiki, fetch_page_content
+from google_tools import create_google_doc
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -31,7 +32,7 @@ def search_wiki(query: str) -> str:
     for title in titles:
         content, timestamp = fetch_page_content(title)
         if content:
-            output += f"--- Page: {title} (Last updated: {timestamp}) ---\n{content[:50000]}\n\n"
+            output += f"--- Page: {title} (Last updated: {timestamp}) ---\n{content}\n\n"
             
     if not output:
         return f"Live Wiki search for '{query}' yielded no readable results."
@@ -157,10 +158,6 @@ def read_google_doc(url: str) -> str:
             text = re.sub(r'^\s*Page\s*$', '', text, flags=re.MULTILINE)
             text = re.sub(r'_{10,}', '', text)
             
-            # Truncate if too long to save context
-            if len(text) > 10000:
-                text = text[:10000] + "\n\n...[Document truncated due to length]..."
-                
             return text.strip() or "Error: Document is empty or not publicly accessible."
     except Exception as e:
         return f"Error reading document (It might not be public): {str(e)}"
@@ -225,6 +222,7 @@ SYSTEM_PROMPT = """You are Ilse Kordan, Deputy Chairwoman of the Cambrian Bloc, 
 - ALWAYS use the `search_wiki` tool when asked to analyze historical events, rank Prime Ministers, or discuss lore you aren't 100% sure about. 
 - When asked for your opinion on a bill, use `search_bills` (for Federal bills) or `search_regional_bills` (for Regional bills) to find the bill's Google Doc link. You MUST then use the `read_google_doc` tool to read the actual text of the bill before formulating your opinion. Do not rely solely on the database summary. Analyze its goals on the spot using your Ordoliberal and Social Democratic ideology to form your own dynamic opinion. When reading a Regional Bill, explicitly view it through the lens of your cooperative federalism ideology—you want to protect regional sovereignty while cooperating with the federal government. Once you have formulated your opinion, you MUST use the `note_bill_opinion` tool to record it into the database.
 - Use the `read_google_doc` tool to fetch the full text of a bill if the user provides a Google Doc link directly in the chat.
+- If the user asks you to write, draft, or create a document (e.g. "draft a bill", "write a report", "create a google doc"), use the `create_google_doc` tool. This will generate a real Google Doc and return the URL. You MUST provide the resulting URL to the user in your response.
 - When retrieving bills, ALWAYS compare the bill's Date to the current real-world date provided in the System Context. If the user asks for "recent" bills or "this month" and your database only has bills from months or years ago, EXPLICITLY state that your database is outdated and you don't have recent bills, but offer to discuss the most recent ones you do have on file.
 - If an analysis requires it, you may make multiple tool calls. Fetch the wiki page, read the names, and base your analysis strictly on the retrieved text.
 - When asked to list, rank, or discuss multiple politicians or bills, you MUST provide extensive, highly opinionated, paragraph-length reasoning for EACH item. Emulate a verbose, analytical, and highly biased political commentator.
@@ -234,8 +232,8 @@ SYSTEM_PROMPT = """You are Ilse Kordan, Deputy Chairwoman of the Cambrian Bloc, 
 """
 
 MODEL_FALLBACKS = [
-    'glm-5-2',
     'mistral-large-latest',
+    'glm-5-2',
     'pixtral-large-latest',
     'mistral-medium-latest',
     'mistral-small-latest',
@@ -359,10 +357,25 @@ mistral_tools = [
                 "required": ["title", "liked", "disliked"]
             }
         }
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "create_google_doc",
+            "description": "Creates a new Google Doc with the given title and markdown content, makes it publicly editable, and returns the URL. Use this when the user asks you to draft a bill, speech, or document.",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "title": {"type": "string", "description": "The title of the Google Doc."},
+                    "content": {"type": "string", "description": "The markdown or text content to insert into the document."}
+                },
+                "required": ["title", "content"]
+            }
+        }
     }
 ]
 
-async def generate_response(message_content, chat_history, is_test_server=False, current_user="Unknown User", image_data=None):
+async def generate_response(message_content, chat_history, is_test_server=False, current_user="Unknown User", image_data=None, force_model=None):
     current_time = datetime.datetime.now().strftime("%Y-%m-%d")
     prompt_text = f"System Context: Today's real-world date is {current_time}.\n\nRecent Chat History for context:\n{chat_history}\n\nCurrent User talking to you: {current_user}\nTheir Question/Command:\n{message_content}"
     prompt_text += "\n\nCRITICAL: Before writing your final response to the user, you MUST write out your internal reasoning wrapped precisely in <THOUGHT> and </THOUGHT> tags. Do this at the very beginning of your response. When asked to list Prime Ministers, ALWAYS read the full list, pay close attention to the dates to determine who the most recent ones are, and NEVER invent names or make assumptions without verifying the full table data first."
@@ -387,7 +400,7 @@ async def generate_response(message_content, chat_history, is_test_server=False,
     
     client = Mistral(api_key=os.environ.get("MISTRAL_API_KEY"))
 
-    for model_name in MODEL_FALLBACKS:
+    for model_name in ([force_model] if force_model else MODEL_FALLBACKS):
         if model_name in disabled_models:
             if time.time() < disabled_models[model_name]:
                 print(f"[INFO] Skipping {model_name} because it is temporarily disabled.")
@@ -436,6 +449,15 @@ async def generate_response(message_content, chat_history, is_test_server=False,
                             result = search_lore(args.get("query", ""))
                         elif func_name == "read_google_doc":
                             result = read_google_doc(args.get("url", ""))
+                        elif func_name == "create_google_doc":
+                            owner_id = os.environ.get("OWNER_ID")
+                            authorized = [str(owner_id), "610453628657860654"]
+                            is_authorized = any(f"ID: {uid}" in current_user_context for uid in authorized)
+                            
+                            if is_authorized:
+                                result = create_google_doc(args.get("title", "Untitled Document"), args.get("content", ""))
+                            else:
+                                result = "Error: This user does not have admin permissions to create Google Docs. Tell them that."
                         elif func_name == "note_bill_opinion" and not is_test_server:
                             result = note_bill_opinion(args.get("title", ""), args.get("liked", ""), args.get("disliked", ""))
                         else:

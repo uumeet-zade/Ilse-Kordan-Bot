@@ -40,6 +40,7 @@ ALLOWED_CAPRICA_CHANNELS = [1266040682213281955]
 # --- Anti-Spam & Blacklist System ---
 BLACKLIST_FILE = "blacklist.json"
 user_last_ping = {} # {user_id: timestamp}
+user_think_cooldowns = {} # {user_id: timestamp}
 user_spam_strikes = {}
 latest_thoughts = {} # {user_id: thought}
 global_latest_thought = {"user": None, "thought": None}
@@ -336,7 +337,7 @@ async def analyze_command(interaction: discord.Interaction, query: str):
     is_test = (guild_id == TEST_SERVER_ID)
     current_user_context = f"{interaction.user.name} (ID: {interaction.user.id})"
     
-    response = await generate_response(query, chat_history, is_test_server=is_test, current_user=current_user_context)
+    response = await generate_response(query, chat_history, is_test_server=is_test, current_user=current_user_context, force_model="glm-5-2")
     
     # Check API Exhaustion
     if response == "<API_EXHAUSTED>":
@@ -375,6 +376,74 @@ async def analyze_command(interaction: discord.Interaction, query: str):
         await interaction.followup.send(response)
         
     print(f"[{time.strftime('%X')}] /analyze response to {interaction.user.name} completed.")
+
+@bot.tree.command(name="think", description="Run a deep analysis query using the flagship GLM-5-2 model.")
+async def think_command(interaction: discord.Interaction, query: str):
+    if not is_owner_or_authorized(interaction.user):
+        now = time.time()
+        last_used = user_think_cooldowns.get(interaction.user.id, 0)
+        if now - last_used < 180:
+            remaining = int(180 - (now - last_used))
+            await interaction.response.send_message(f"Please wait {remaining} seconds before using this command again.", ephemeral=True)
+            return
+        user_think_cooldowns[interaction.user.id] = now
+
+    await interaction.response.defer()
+    
+    print(f"[{time.strftime('%X')}] Received /think from {interaction.user.display_name}. Forcing glm-5-2.")
+    
+    chat_history = ""
+    async for msg in interaction.channel.history(limit=15):
+        chat_history = f"{msg.author.display_name} (Username: {msg.author.name}, ID: {msg.author.id}): {msg.content}\n" + chat_history
+        
+    is_test = (interaction.guild.id == TEST_SERVER_ID) if interaction.guild else False
+    current_user_context = f"{interaction.user.display_name} (Username: {interaction.user.name}, ID: {interaction.user.id})"
+    
+    response = await generate_response(query, chat_history, is_test_server=is_test, current_user=current_user_context, image_data=None, force_model="glm-5-2")
+    
+    thoughts = re.findall(r'<THOUGHT>(.*?)</[a-zA-Z]+>', response, re.DOTALL | re.IGNORECASE)
+    combined_thought = ""
+    for thought in thoughts:
+        combined_thought += thought.strip() + "\n"
+        with open("thoughts.log", "a") as f:
+            f.write(f"[{time.strftime('%X')}] Response to {interaction.user.display_name}:\n{thought.strip()}\n\n")
+            
+    if combined_thought:
+        latest_thoughts[interaction.user.id] = combined_thought.strip()
+        global_latest_thought["user"] = interaction.user.display_name
+        global_latest_thought["thought"] = combined_thought.strip()
+        
+    response = re.sub(r'<THOUGHT>.*?</[a-zA-Z]+>', '', response, flags=re.DOTALL | re.IGNORECASE).strip()
+    
+    # Check security tags
+    if "<BLOCK_USER>" in response:
+        ban_user(interaction.user.id)
+        await interaction.followup.send(f"You have been permanently blocked for security reasons, {interaction.user.mention}.")
+        return
+        
+    if "<STRIKE_USER>" in response:
+        if not is_owner_or_authorized(interaction.user):
+            user_behavior_strikes[interaction.user.id] = user_behavior_strikes.get(interaction.user.id, 0) + 1
+            if user_behavior_strikes[interaction.user.id] >= 3:
+                ban_user(interaction.user.id)
+                await interaction.followup.send(f"You have been permanently banned for repeated infractions, {interaction.user.mention}.")
+                return
+            else:
+                await interaction.followup.send(f"I will not tolerate slurs, inappropriate conduct, or flirting, {interaction.user.mention}. (Strike {user_behavior_strikes[interaction.user.id]}/3)")
+                return
+        else:
+            response = response.replace("<STRIKE_USER>", "")
+    
+    if len(response) > 2000:
+        for i, chunk in enumerate([response[j:j+1900] for j in range(0, len(response), 1900)]):
+            if i == 0:
+                await interaction.followup.send(chunk)
+            else:
+                await interaction.channel.send(chunk)
+    else:
+        await interaction.followup.send(response)
+        
+    print(f"[{time.strftime('%X')}] /think response to {interaction.user.name} completed.")
 
 if __name__ == "__main__":
     if not TOKEN:
