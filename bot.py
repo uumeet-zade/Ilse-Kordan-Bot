@@ -156,20 +156,20 @@ async def on_message(message):
                     
             user_last_ping[message.author.id] = now
 
-        print(f"[{time.strftime('%X')}] Received mention from {message.author.name}. Generating response...")
+        print(f"[{time.strftime('%X')}] Received mention from {message.author.display_name}. Generating response...")
         await message.add_reaction("⏳")
         
         async with bot.generation_lock:
             async with message.channel.typing():
                 chat_history = ""
                 async for msg in message.channel.history(limit=15, before=message):
-                    chat_history = f"{msg.author.name} (ID: {msg.author.id}): {msg.content}\\n" + chat_history
+                    chat_history = f"{msg.author.display_name} (Username: {msg.author.name}, ID: {msg.author.id}): {msg.content}\n" + chat_history
                 
                 # Fetch referenced message if replying to someone
                 if message.reference and message.reference.message_id:
                     try:
                         ref_msg = message.reference.cached_message or await message.channel.fetch_message(message.reference.message_id)
-                        chat_history = f"[CONTEXT - PINGER REPLIED TO THIS MESSAGE]\\n{ref_msg.author.name} (ID: {ref_msg.author.id}): {ref_msg.content}\\n[END CONTEXT]\\n\\n" + chat_history
+                        chat_history = f"[CONTEXT - PINGER REPLIED TO THIS MESSAGE]\n{ref_msg.author.display_name} (Username: {ref_msg.author.name}, ID: {ref_msg.author.id}): {ref_msg.content}\n[END CONTEXT]\n\n" + chat_history
                     except Exception as e:
                         print(f"Failed to fetch referenced message: {e}")
                         
@@ -187,7 +187,7 @@ async def on_message(message):
                                 print(f"Failed to read image: {e}")
                 
                 is_test = (message.guild.id == TEST_SERVER_ID) if message.guild else False
-                current_user_context = f"{message.author.name} (ID: {message.author.id})"
+                current_user_context = f"{message.author.display_name} (Username: {message.author.name}, ID: {message.author.id})"
                 
                 response = await generate_response(message.content, chat_history, is_test_server=is_test, current_user=current_user_context, image_data=image_data)
                 
@@ -197,12 +197,12 @@ async def on_message(message):
                 for thought in thoughts:
                     combined_thought += thought.strip() + "\n"
                     with open("thoughts.log", "a") as f:
-                        f.write(f"[{time.strftime('%X')}] Response to {message.author.name}:\n{thought.strip()}\n\n")
+                        f.write(f"[{time.strftime('%X')}] Response to {message.author.display_name}:\n{thought.strip()}\n\n")
                 
                 
                 if combined_thought:
                     latest_thoughts[message.author.id] = combined_thought.strip()
-                    global_latest_thought["user"] = message.author.name
+                    global_latest_thought["user"] = message.author.display_name
                     global_latest_thought["thought"] = combined_thought.strip()
                 
                 # Strip thoughts from the actual response sent to Discord
