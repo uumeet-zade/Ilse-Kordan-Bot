@@ -130,7 +130,7 @@ async def check_and_update_bills(bot: discord.Client):
             # Extract Proposer
             proposer_name = "Unknown"
             if message.interaction:
-                proposer_name = message.interaction.user.name
+                proposer_name = f"{message.interaction.user.name} (ID: {message.interaction.user.id})"
             elif "By" in desc:
                 proposer_name = desc.split("By")[-1].split("\n")[0].strip()
                 
