@@ -1,11 +1,29 @@
 [
     {
+        "id": 694,
+        "title": "Require the Ministry of Culture to construct no less than 4 objects every year",
+        "date": "2026-09-04",
+        "proposer": "adieliicious",
+        "doc_link": null,
+        "main_goal": "Require the Ministry of Culture to construct no less than 4 objects every year",
+        "ilse_opinion": null
+    },
+    {
+        "id": 695,
+        "title": "Building Forward Act, 2066",
+        "date": "2026-09-03",
+        "proposer": "aalborg",
+        "doc_link": "https://docs.google.com/document/d/1xnWHeqITVFJ-IDSil-RuYRpcfkW4IAlLJEjMQF4DmMo",
+        "main_goal": "Building Forward Act, 2066",
+        "ilse_opinion": null
+    },
+    {
         "id": 692,
         "title": "A motion to bring back smoking in pubs. By Hairy Balls",
         "date": "2026-08-26",
         "proposer": "billy_clitoris",
         "doc_link": null,
-        "main_goal": "Pending analysis.",
+        "main_goal": "A motion to bring back smoking in pubs. By Hairy Balls",
         "ilse_opinion": null
     },
     {
@@ -14,7 +32,7 @@
         "date": "2026-08-26",
         "proposer": "draksicell",
         "doc_link": null,
-        "main_goal": "Pending analysis.",
+        "main_goal": "Nomination of <@842809293258752000> as Prime Minister.",
         "ilse_opinion": null
     },
     {
@@ -23,7 +41,7 @@
         "date": "2026-08-25",
         "proposer": "draksicell",
         "doc_link": null,
-        "main_goal": "Pending analysis.",
+        "main_goal": "Nominate Woke Peter Thiel <@775290140134342676> to the CEC.",
         "ilse_opinion": null
     },
     {
@@ -114,7 +132,7 @@
         "proposer": "magicalmeowgician (ID: 482703830484647937)",
         "doc_link": "https://docs.google.com/document/d/1rDqRBNMt4bV8Bm7IuNqi37aQIGXRD72Ip9lhD3kboo0",
         "main_goal": "The bill establishes a refundable tax credit for families with children, aimed at alleviating childcare costs through a tiered system that phases out for higher-income households.",
-        "ilse_opinion": null
+        "ilse_opinion": "**What Ilse Liked:** This is a stellar, textbook social-democratic welfare policy. Making the tax credit fully refundable is the absolute gold standard for poverty alleviation, ensuring that the lowest-income households\u2014who often have little to no income tax liability\u2014receive the direct cash support they desperately need. It is highly targeted, indexed to inflation every two years, and represents an active investment in working families.\n\n**What Ilse Disliked:** The administrative burden of maintaining a dedicated, centralized 'Qualifying Child Registry' could create unnecessary bureaucratic friction for working-class families trying to access the credit. Furthermore, the rigid phase-out starting at \u20b370,000 and ending at \u20b3125,000 could create a minor welfare-cliff effect for middle-income households where receiving a promotion might lead to a sudden loss of childcare support."
     },
     {
         "id": 6,
@@ -132,7 +150,7 @@
         "proposer": "magicalmeowgician (ID: 482703830484647937)",
         "doc_link": "https://docs.google.com/document/d/1uYE1yZ_A3q0CI78uqHm8KruFpn5YoBzbxExfmYrDrCM",
         "main_goal": "The bill establishes a structured fiscal framework to limit government deficits based on economic growth while simultaneously mandating protected spending floors for essential public services like healthcare and education.",
-        "ilse_opinion": null
+        "ilse_opinion": "**What Ilse Liked:** It brilliantly synthesizes ordoliberal fiscal discipline with social-democratic guarantees. By institutionalizing legally protected spending floors for Healthcare, Education, and Social Services/Housing/Transit, it ensures that essential public services cannot be gutted during political shifts or fiscal contractions. Furthermore, the creation of a Sovereign Stabilization Buffer Fund to capture windfalls and non-recurring revenues is an incredibly smart, forward-looking mechanism to protect the state from resource volatility or hasty privatizations.\n\n**What Ilse Disliked:** Automatic sequestration rules (Section 6) are quite rigid and could starve non-exempt departments of necessary operational funding during prolonged but non-catastrophic recessions. Additionally, tying spending floors to a 5-year rolling GDP average means that during a prolonged depression, funding floors could lag behind the immediate, acute social needs of the population, even if the Priority Squeeze Protocol in Section 4 attempts to balance this."
     },
     {
         "id": 8,
@@ -1113,7 +1131,7 @@
         "proposer": "alanmu0106 (ID: 748574559711526973)",
         "doc_link": "No Link",
         "main_goal": "The Nuremberg Act is currently presented as an empty legislative shell without provided text, rendering its objective impossible to determine.",
-        "ilse_opinion": null
+        "ilse_opinion": "**What Ilse Liked:** Clear guidelines against COIN maintaining heavy armored units or WMDs, strong principles against off-book funding, and general commitment to intelligence transparency.\n\n**What Ilse Disliked:** Requiring explicit Acts of Parliament for every sensitive covert operation cripplingly slows down response times during foreign crises, dangerously weakening Caprica's security apparatus and intelligence agility; the legislative oversight model is overly rigid."
     },
     {
         "id": 117,
