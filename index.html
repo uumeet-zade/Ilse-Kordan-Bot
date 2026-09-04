@@ -93,7 +93,8 @@
             const filtered = allBills.filter(b => 
                 (b.title && b.title.toLowerCase().includes(term)) ||
                 (b.proposer && b.proposer.toLowerCase().includes(term)) ||
-                (b.main_goal && b.main_goal.toLowerCase().includes(term))
+                (b.main_goal && b.main_goal.toLowerCase().includes(term)) ||
+                (b.category && b.category.toLowerCase().includes(term))
             );
             updateDisplay(filtered);
         });
