@@ -109,10 +109,10 @@
                 
                 document.getElementById('billContent').innerHTML = `
                     <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1rem;">
-                        <h1 style="margin-bottom: 0;">\${bill.title}</h1>
-                        \${bill.category ? \`<span style="background-color: var(--accent); color: #000; padding: 0.3rem 0.8rem; border-radius: 4px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase;">\${bill.category}</span>\` : ''}
+                        <h1 style="margin-bottom: 0;">${bill.title}</h1>
+                        ${bill.category ? `<span style="background-color: var(--accent); color: #000; padding: 0.3rem 0.8rem; border-radius: 4px; font-size: 0.85rem; font-weight: 700; text-transform: uppercase;">${bill.category}</span>` : ''}
                     </div>
-                    <span class="date">\${bill.date || 'Unknown Date'}</span>
+                    <span class="date">${bill.date || 'Unknown Date'}</span>
                     
                     <div class="meta">
                         <span class="proposer">By: ${bill.proposer || 'Unknown'}</span>
@@ -124,35 +124,35 @@
                         <p>${bill.main_goal || 'Not specified'}</p>
                     </div>
                     
-                    ${bill.votes_yay !== null && bill.votes_yay !== undefined ? \`
+                    ${bill.votes_yay !== null && bill.votes_yay !== undefined ? `
                     <div class="section votes">
                         <h3>Vote Results</h3>
                         <div style="display: flex; gap: 2rem; margin-top: 1rem; flex-wrap: wrap;">
                             <div style="background-color: rgba(74, 222, 128, 0.1); border-left: 4px solid #4ade80; padding: 1rem 1.5rem; flex-grow: 1;">
                                 <div style="font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px; color: #4ade80; margin-bottom: 0.5rem;">Yay</div>
-                                <div style="font-size: 2rem; font-weight: 800; color: #fff;">\${bill.votes_yay}</div>
+                                <div style="font-size: 2rem; font-weight: 800; color: #fff;">${bill.votes_yay}</div>
                             </div>
                             <div style="background-color: rgba(248, 113, 113, 0.1); border-left: 4px solid #f87171; padding: 1rem 1.5rem; flex-grow: 1;">
                                 <div style="font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px; color: #f87171; margin-bottom: 0.5rem;">Nay</div>
-                                <div style="font-size: 2rem; font-weight: 800; color: #fff;">\${bill.votes_nay}</div>
+                                <div style="font-size: 2rem; font-weight: 800; color: #fff;">${bill.votes_nay}</div>
                             </div>
                             <div style="background-color: rgba(251, 191, 36, 0.1); border-left: 4px solid #fbbf24; padding: 1rem 1.5rem; flex-grow: 1;">
                                 <div style="font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px; color: #fbbf24; margin-bottom: 0.5rem;">Abstain</div>
-                                <div style="font-size: 2rem; font-weight: 800; color: #fff;">\${bill.votes_abstain}</div>
+                                <div style="font-size: 2rem; font-weight: 800; color: #fff;">${bill.votes_abstain}</div>
                             </div>
                             <div style="background-color: rgba(156, 163, 175, 0.1); border-left: 4px solid #9ca3af; padding: 1rem 1.5rem; flex-grow: 1;">
                                 <div style="font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px; color: #9ca3af; margin-bottom: 0.5rem;">Absent</div>
-                                <div style="font-size: 2rem; font-weight: 800; color: #fff;">\${bill.votes_absent}</div>
+                                <div style="font-size: 2rem; font-weight: 800; color: #fff;">${bill.votes_absent}</div>
                             </div>
                         </div>
                     </div>
-                    \` : \`
+                    ` : `
                     <div class="section votes">
                         <h3>Vote Results</h3>
                         <p style="color: var(--text-muted); font-style: italic;">No voting data available yet, or poll is still ongoing.</p>
                     </div>
-                    \`}
-                \`;
+                    `}
+                `;
             } catch (error) {
                 document.getElementById('billContent').innerHTML = `<div class="error">Failed to load bill data.</div>`;
                 console.error('Error fetching bills:', error);
