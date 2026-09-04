@@ -146,12 +146,18 @@
                             </div>
                         </div>
                     </div>
-                    ` : `
+                    ` : (new Date() - new Date(bill.date || '2000-01-01') < 14 * 24 * 60 * 60 * 1000 ? `
                     <div class="section votes">
                         <h3>Vote Results</h3>
-                        <p style="color: var(--text-muted); font-style: italic;">No voting data available yet, or poll is still ongoing.</p>
+                        <div style="background-color: rgba(96, 165, 250, 0.1); border-left: 4px solid #60a5fa; padding: 1.5rem; display: flex; align-items: center; gap: 1rem; margin-top: 1rem;">
+                            <span style="font-size: 2rem;">⏳</span>
+                            <div>
+                                <div style="font-size: 1.2rem; font-weight: 700; color: #60a5fa;">Vote still ongoing</div>
+                                <div style="color: var(--text-muted); font-size: 0.95rem; margin-top: 0.2rem;">Final results will appear here once the poll closes.</div>
+                            </div>
+                        </div>
                     </div>
-                    `}
+                    ` : '')}
                 `;
             } catch (error) {
                 document.getElementById('billContent').innerHTML = `<div class="error">Failed to load bill data.</div>`;
