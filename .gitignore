@@ -39,5 +39,9 @@ scratch_brain.txt
 
 # Don't ignore static assets and our data file!
 !bills.json
+!status.json
 !static/
 !templates/
+
+# Mistral Vibe analysis file
+mistral.md

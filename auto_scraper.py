@@ -259,7 +259,7 @@ async def check_and_update_bills(bot: discord.Client):
         # 2. Update MD
         reorder_bills.regenerate()
         try:
-            subprocess.run(["git", "add", "bills.json"], check=True)
+            subprocess.run(["git", "add", "bills.json", "status.json"], check=True)
             subprocess.run(["git", "commit", "-m", "Auto-update bills via Ilse Bot"], check=True)
             subprocess.run(["git", "push"], check=True)
             print("Auto-Scraper: Successfully pushed changes to GitHub.")
@@ -309,7 +309,7 @@ async def analyze_pending_bills(bot: discord.Client):
     reorder_bills.regenerate()
     
     try:
-        subprocess.run(["git", "add", "bills.json"], check=True)
+        subprocess.run(["git", "add", "bills.json", "status.json"], check=True)
         subprocess.run(["git", "commit", "-m", "Analyzed all pending bills via Ilse Bot"], check=True)
         subprocess.run(["git", "push"], check=True)
         print("Successfully pushed changes to GitHub.")
