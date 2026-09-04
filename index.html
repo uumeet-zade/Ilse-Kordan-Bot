@@ -59,7 +59,11 @@
                         <span style="color: #fbbf24;">🟨 ${bill.votes_abstain}</span>
                         <span style="color: #9ca3af;">👻 ${bill.votes_absent}</span>
                     </div>
-                    ` : ''}
+                    ` : (new Date() - new Date(bill.date || '2000-01-01') < 14 * 24 * 60 * 60 * 1000 ? `
+                    <div style="margin-bottom: 1rem; font-size: 0.9rem; font-weight: 600; color: #60a5fa; display: flex; align-items: center; gap: 0.5rem;">
+                        <span>⏳</span> Vote still ongoing
+                    </div>
+                    ` : '')}
                     
                     <div class="section main-goal">
                         <h3>Main Goal</h3>

@@ -158,19 +158,20 @@ async def check_and_update_bills(bot: discord.Client):
             votes_abstain = None
             votes_absent = None
             
-            yay_match = re.search(r'✅.*?\|\s*[\d.]+%?\s*\(([\d]+)\)', desc)
-            abstain_match = re.search(r'🟨.*?\|\s*[\d.]+%?\s*\(([\d]+)\)', desc)
-            nay_match = re.search(r'<:x_square:.*?>.*?\|\s*[\d.]+%?\s*\(([\d]+)\)', desc)
-            if not nay_match:
-                nay_match = re.search(r'❌.*?\|\s*[\d.]+%?\s*\(([\d]+)\)', desc)
-            
-            if yay_match: votes_yay = int(yay_match.group(1))
-            if nay_match: votes_nay = int(nay_match.group(1))
-            if abstain_match: votes_abstain = int(abstain_match.group(1))
-            
-            if votes_yay is not None and votes_nay is not None and votes_abstain is not None:
-                if total_mps > 0:
-                    votes_absent = max(0, total_mps - (votes_yay + votes_nay + votes_abstain))
+            if "**Final Result**" in desc:
+                yay_match = re.search(r'✅.*?\|\s*[\d.]+%?\s*\(([\d]+)\)', desc)
+                abstain_match = re.search(r'🟨.*?\|\s*[\d.]+%?\s*\(([\d]+)\)', desc)
+                nay_match = re.search(r'<:x_square:.*?>.*?\|\s*[\d.]+%?\s*\(([\d]+)\)', desc)
+                if not nay_match:
+                    nay_match = re.search(r'❌.*?\|\s*[\d.]+%?\s*\(([\d]+)\)', desc)
+                
+                if yay_match: votes_yay = int(yay_match.group(1))
+                if nay_match: votes_nay = int(nay_match.group(1))
+                if abstain_match: votes_abstain = int(abstain_match.group(1))
+                
+                if votes_yay is not None and votes_nay is not None and votes_abstain is not None:
+                    if total_mps > 0:
+                        votes_absent = max(0, total_mps - (votes_yay + votes_nay + votes_abstain))
 
             # Check if bill already exists in DB
             conn = sqlite3.connect('memory.db', timeout=15)
