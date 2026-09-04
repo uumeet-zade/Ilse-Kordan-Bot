@@ -43,13 +43,16 @@
             container.innerHTML = bills.map((bill, index) => `
                 <a href="bill.html?id=${bill.id}" class="bill-card flat-panel clickable" style="text-decoration: none; color: inherit;">
                     <div class="bill-header">
-                        <h2 class="truncate">${bill.title}</h2>
+                        <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
+                            <h2 class="truncate" style="flex-grow: 1; padding-right: 1rem;">${bill.title}</h2>
+                            ${bill.category ? `<span style="background-color: var(--accent); color: #000; padding: 0.2rem 0.6rem; border-radius: 4px; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; white-space: nowrap;">${bill.category}</span>` : ''}
+                        </div>
                         <span class="date">${bill.date || 'Unknown Date'}</span>
                     </div>
                     <div class="meta">
-                        <span class="proposer truncate-short">By: \${bill.proposer || 'Unknown'}</span>
+                        <span class="proposer truncate-short">By: ${bill.proposer || 'Unknown'}</span>
                     </div>
-                    \${bill.votes_yay !== null && bill.votes_yay !== undefined ? \`
+                    ${bill.votes_yay !== null && bill.votes_yay !== undefined ? `
                     <div style="margin-bottom: 1rem; font-size: 0.9rem; font-weight: 600; display: flex; gap: 0.8rem;">
                         <span style="color: #4ade80;">✅ \${bill.votes_yay}</span>
                         <span style="color: #f87171;">❌ \${bill.votes_nay}</span>

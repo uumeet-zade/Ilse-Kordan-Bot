@@ -10,7 +10,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": "Misc."
     },
     {
         "id": 695,
@@ -18,12 +19,13 @@
         "date": "2026-09-03",
         "proposer": "aalborg",
         "doc_link": "https://docs.google.com/document/d/1xnWHeqITVFJ-IDSil-RuYRpcfkW4IAlLJEjMQF4DmMo",
-        "main_goal": "The Building Forward Act proposes a comprehensive expansion of Caprica's passenger rail infrastructure and the restoration of the historic ferry network to enhance national connectivity.",
-        "ilse_opinion": "**What Ilse Liked:** I support the focus on public infrastructure as a foundational duty of the state; efficient rail and ferry systems lower transaction costs, facilitate labor mobility, and stimulate competitive economic clusters, which aligns with my commitment to a strong, stable ordoliberal framework.\n\n**What Ilse Disliked:** The bill lacks a clear fiscal sustainability plan and ignores the necessary regulatory mechanisms to ensure these state-funded assets remain competitive and market-responsive rather than becoming inefficient, taxpayer-funded monopolies.",
+        "main_goal": "The Building Forward Act, 2066 aims to significantly expand and upgrade Caprica's passenger rail and ferry infrastructure to improve regional connectivity and transportation efficiency.",
+        "ilse_opinion": "**What Ilse Liked:** The bill invests in long-term infrastructure projects that can stimulate economic growth, create jobs, and improve mobility for working-class citizens, aligning with Ordoliberal principles of state-facilitated market efficiency and social equity.\n\n**What Ilse Disliked:** The bill lacks explicit provisions for ensuring affordable access to these new transportation options for low-income citizens, and there is no mention of environmental impact assessments or sustainability measures for the large-scale projects.",
         "votes_yay": 17,
         "votes_nay": 1,
         "votes_abstain": 0,
-        "votes_absent": 15
+        "votes_absent": 15,
+        "category": "Infrastructure"
     },
     {
         "id": 692,
@@ -36,7 +38,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": "Misc."
     },
     {
         "id": 693,
@@ -49,7 +52,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": "Misc."
     },
     {
         "id": 691,
@@ -62,7 +66,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": "Misc."
     },
     {
         "id": 685,
@@ -75,7 +80,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 686,
@@ -88,7 +94,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 687,
@@ -101,7 +108,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 688,
@@ -114,7 +122,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 689,
@@ -127,7 +136,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 1,
@@ -140,7 +150,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 2,
@@ -153,7 +164,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 3,
@@ -166,7 +178,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 4,
@@ -179,7 +192,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 5,
@@ -192,7 +206,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 6,
@@ -205,7 +220,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 7,
@@ -218,7 +234,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 8,
@@ -231,7 +248,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 9,
@@ -244,7 +262,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 10,
@@ -257,7 +276,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 11,
@@ -270,7 +290,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 12,
@@ -283,7 +304,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 13,
@@ -296,7 +318,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 14,
@@ -309,7 +332,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 15,
@@ -322,7 +346,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 16,
@@ -335,7 +360,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 17,
@@ -348,7 +374,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 18,
@@ -361,7 +388,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 19,
@@ -374,7 +402,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 20,
@@ -387,7 +416,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 21,
@@ -400,7 +430,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 22,
@@ -413,7 +444,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 23,
@@ -426,7 +458,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 24,
@@ -439,7 +472,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 25,
@@ -452,7 +486,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 26,
@@ -465,7 +500,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 27,
@@ -478,7 +514,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 28,
@@ -491,7 +528,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 29,
@@ -504,7 +542,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 30,
@@ -517,7 +556,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 31,
@@ -530,7 +570,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 32,
@@ -543,7 +584,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 33,
@@ -556,7 +598,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 34,
@@ -569,7 +612,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 35,
@@ -582,7 +626,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 36,
@@ -595,7 +640,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 37,
@@ -608,7 +654,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 38,
@@ -621,7 +668,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 39,
@@ -634,7 +682,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 40,
@@ -647,7 +696,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 41,
@@ -660,7 +710,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 42,
@@ -673,7 +724,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 43,
@@ -686,7 +738,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 44,
@@ -699,7 +752,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 45,
@@ -712,7 +766,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 46,
@@ -725,7 +780,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 47,
@@ -738,7 +794,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 48,
@@ -751,7 +808,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 49,
@@ -764,7 +822,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 50,
@@ -777,7 +836,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 51,
@@ -790,7 +850,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 52,
@@ -803,7 +864,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 53,
@@ -816,7 +878,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 54,
@@ -829,7 +892,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 55,
@@ -842,7 +906,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 56,
@@ -855,7 +920,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 57,
@@ -868,7 +934,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 58,
@@ -881,7 +948,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 59,
@@ -894,7 +962,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 60,
@@ -907,7 +976,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 61,
@@ -920,7 +990,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 62,
@@ -933,7 +1004,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 63,
@@ -946,7 +1018,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 64,
@@ -959,7 +1032,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 65,
@@ -972,7 +1046,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 66,
@@ -985,7 +1060,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 67,
@@ -998,7 +1074,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 68,
@@ -1011,7 +1088,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 69,
@@ -1024,7 +1102,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 70,
@@ -1037,7 +1116,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 71,
@@ -1050,7 +1130,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 72,
@@ -1063,7 +1144,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 73,
@@ -1076,7 +1158,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 74,
@@ -1089,7 +1172,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 75,
@@ -1102,7 +1186,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 76,
@@ -1115,7 +1200,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 77,
@@ -1128,7 +1214,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 78,
@@ -1141,7 +1228,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 79,
@@ -1154,7 +1242,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 80,
@@ -1167,7 +1256,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 81,
@@ -1180,7 +1270,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 82,
@@ -1193,7 +1284,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 83,
@@ -1206,7 +1298,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 84,
@@ -1219,7 +1312,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 85,
@@ -1232,7 +1326,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 86,
@@ -1245,7 +1340,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 87,
@@ -1258,7 +1354,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 88,
@@ -1271,7 +1368,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 89,
@@ -1284,7 +1382,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 90,
@@ -1297,7 +1396,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 91,
@@ -1310,7 +1410,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 92,
@@ -1323,7 +1424,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 93,
@@ -1336,7 +1438,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 94,
@@ -1349,7 +1452,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 95,
@@ -1362,7 +1466,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 96,
@@ -1375,7 +1480,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 97,
@@ -1388,7 +1494,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 98,
@@ -1401,7 +1508,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 99,
@@ -1414,7 +1522,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 100,
@@ -1427,7 +1536,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 101,
@@ -1440,7 +1550,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 102,
@@ -1453,7 +1564,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 103,
@@ -1466,7 +1578,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 104,
@@ -1479,7 +1592,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 105,
@@ -1492,7 +1606,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 106,
@@ -1505,7 +1620,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 107,
@@ -1518,7 +1634,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 108,
@@ -1531,7 +1648,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 109,
@@ -1544,7 +1662,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 110,
@@ -1557,7 +1676,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 111,
@@ -1570,7 +1690,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 112,
@@ -1583,7 +1704,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 113,
@@ -1596,7 +1718,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 114,
@@ -1609,7 +1732,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 115,
@@ -1622,7 +1746,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 116,
@@ -1635,7 +1760,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 117,
@@ -1648,7 +1774,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 118,
@@ -1661,7 +1788,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 119,
@@ -1674,7 +1802,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 120,
@@ -1687,7 +1816,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 121,
@@ -1700,7 +1830,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 122,
@@ -1713,7 +1844,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 123,
@@ -1726,7 +1858,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 124,
@@ -1739,7 +1872,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 125,
@@ -1752,7 +1886,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 126,
@@ -1765,7 +1900,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 127,
@@ -1778,7 +1914,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 128,
@@ -1791,7 +1928,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 129,
@@ -1804,7 +1942,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 130,
@@ -1817,7 +1956,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 131,
@@ -1830,7 +1970,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 132,
@@ -1843,7 +1984,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 133,
@@ -1856,7 +1998,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 134,
@@ -1869,7 +2012,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 135,
@@ -1882,7 +2026,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 136,
@@ -1895,7 +2040,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 137,
@@ -1908,7 +2054,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 138,
@@ -1921,7 +2068,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 139,
@@ -1934,7 +2082,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 140,
@@ -1947,7 +2096,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 141,
@@ -1960,7 +2110,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 142,
@@ -1973,7 +2124,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 143,
@@ -1986,7 +2138,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 144,
@@ -1999,7 +2152,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 145,
@@ -2012,7 +2166,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 146,
@@ -2025,7 +2180,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 147,
@@ -2038,7 +2194,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 148,
@@ -2051,7 +2208,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 149,
@@ -2064,7 +2222,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 150,
@@ -2077,7 +2236,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 151,
@@ -2090,7 +2250,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 152,
@@ -2103,7 +2264,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 153,
@@ -2116,7 +2278,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 154,
@@ -2129,7 +2292,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 155,
@@ -2142,7 +2306,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 156,
@@ -2155,7 +2320,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 157,
@@ -2168,7 +2334,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 158,
@@ -2181,7 +2348,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 159,
@@ -2194,7 +2362,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 160,
@@ -2207,7 +2376,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 161,
@@ -2220,7 +2390,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 162,
@@ -2233,7 +2404,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 163,
@@ -2246,7 +2418,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 164,
@@ -2259,7 +2432,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 165,
@@ -2272,7 +2446,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 166,
@@ -2285,7 +2460,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 167,
@@ -2298,7 +2474,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 168,
@@ -2311,7 +2488,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 169,
@@ -2324,7 +2502,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 170,
@@ -2337,7 +2516,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 171,
@@ -2350,7 +2530,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 172,
@@ -2363,7 +2544,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 173,
@@ -2376,7 +2558,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 174,
@@ -2389,7 +2572,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 175,
@@ -2402,7 +2586,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 176,
@@ -2415,7 +2600,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 177,
@@ -2428,7 +2614,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 178,
@@ -2441,7 +2628,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 179,
@@ -2454,7 +2642,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 180,
@@ -2467,7 +2656,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 181,
@@ -2480,7 +2670,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 182,
@@ -2493,7 +2684,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 183,
@@ -2506,7 +2698,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 184,
@@ -2519,7 +2712,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 185,
@@ -2532,7 +2726,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 186,
@@ -2545,7 +2740,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 187,
@@ -2558,7 +2754,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 188,
@@ -2571,7 +2768,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 189,
@@ -2584,7 +2782,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 190,
@@ -2597,7 +2796,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 191,
@@ -2610,7 +2810,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 192,
@@ -2623,7 +2824,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 193,
@@ -2636,7 +2838,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 194,
@@ -2649,7 +2852,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 195,
@@ -2662,7 +2866,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 196,
@@ -2675,7 +2880,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 197,
@@ -2688,7 +2894,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 198,
@@ -2701,7 +2908,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 199,
@@ -2714,7 +2922,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 200,
@@ -2727,7 +2936,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 201,
@@ -2740,7 +2950,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 202,
@@ -2753,7 +2964,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 203,
@@ -2766,7 +2978,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 204,
@@ -2779,7 +2992,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 205,
@@ -2792,7 +3006,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 206,
@@ -2805,7 +3020,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 207,
@@ -2818,7 +3034,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 208,
@@ -2831,7 +3048,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 209,
@@ -2844,7 +3062,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 210,
@@ -2857,7 +3076,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 211,
@@ -2870,7 +3090,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 212,
@@ -2883,7 +3104,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 213,
@@ -2896,7 +3118,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 214,
@@ -2909,7 +3132,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 215,
@@ -2922,7 +3146,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 216,
@@ -2935,7 +3160,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 217,
@@ -2948,7 +3174,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 218,
@@ -2961,7 +3188,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 219,
@@ -2974,7 +3202,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 220,
@@ -2987,7 +3216,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 221,
@@ -3000,7 +3230,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 222,
@@ -3013,7 +3244,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 223,
@@ -3026,7 +3258,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 224,
@@ -3039,7 +3272,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 225,
@@ -3052,7 +3286,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 226,
@@ -3065,7 +3300,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 227,
@@ -3078,7 +3314,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 228,
@@ -3091,7 +3328,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 229,
@@ -3104,7 +3342,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 230,
@@ -3117,7 +3356,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 231,
@@ -3130,7 +3370,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 232,
@@ -3143,7 +3384,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 233,
@@ -3156,7 +3398,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 234,
@@ -3169,7 +3412,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 235,
@@ -3182,7 +3426,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 236,
@@ -3195,7 +3440,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 237,
@@ -3208,7 +3454,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 238,
@@ -3221,7 +3468,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 239,
@@ -3234,7 +3482,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 690,
@@ -3247,7 +3496,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 240,
@@ -3260,7 +3510,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 241,
@@ -3273,7 +3524,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 242,
@@ -3286,7 +3538,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 243,
@@ -3299,7 +3552,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 244,
@@ -3312,7 +3566,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 245,
@@ -3325,7 +3580,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 247,
@@ -3338,7 +3594,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 246,
@@ -3351,7 +3608,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 248,
@@ -3364,7 +3622,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 249,
@@ -3377,7 +3636,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 250,
@@ -3390,7 +3650,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 251,
@@ -3403,7 +3664,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 252,
@@ -3416,7 +3678,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 253,
@@ -3429,7 +3692,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 254,
@@ -3442,7 +3706,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 255,
@@ -3455,7 +3720,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 256,
@@ -3468,7 +3734,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 257,
@@ -3481,7 +3748,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 258,
@@ -3494,7 +3762,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 259,
@@ -3507,7 +3776,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 260,
@@ -3520,7 +3790,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 261,
@@ -3533,7 +3804,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 262,
@@ -3546,7 +3818,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 263,
@@ -3559,7 +3832,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 264,
@@ -3572,7 +3846,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 265,
@@ -3585,7 +3860,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 266,
@@ -3598,7 +3874,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 267,
@@ -3611,7 +3888,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 268,
@@ -3624,7 +3902,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 269,
@@ -3637,7 +3916,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 270,
@@ -3650,7 +3930,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 271,
@@ -3663,7 +3944,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 272,
@@ -3676,7 +3958,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 273,
@@ -3689,7 +3972,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 274,
@@ -3702,7 +3986,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 275,
@@ -3715,7 +4000,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 276,
@@ -3728,7 +4014,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 277,
@@ -3741,7 +4028,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 278,
@@ -3754,7 +4042,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 279,
@@ -3767,7 +4056,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 280,
@@ -3780,7 +4070,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 281,
@@ -3793,7 +4084,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 282,
@@ -3806,7 +4098,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 283,
@@ -3819,7 +4112,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 284,
@@ -3832,7 +4126,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 285,
@@ -3845,7 +4140,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 286,
@@ -3858,7 +4154,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 287,
@@ -3871,7 +4168,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 288,
@@ -3884,7 +4182,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 289,
@@ -3897,7 +4196,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 290,
@@ -3910,7 +4210,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 291,
@@ -3923,7 +4224,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 292,
@@ -3936,7 +4238,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 293,
@@ -3949,7 +4252,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 294,
@@ -3962,7 +4266,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 295,
@@ -3975,7 +4280,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 296,
@@ -3988,7 +4294,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 297,
@@ -4001,7 +4308,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 298,
@@ -4014,7 +4322,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 299,
@@ -4027,7 +4336,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 300,
@@ -4040,7 +4350,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 301,
@@ -4053,7 +4364,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 302,
@@ -4066,7 +4378,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 303,
@@ -4079,7 +4392,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 304,
@@ -4092,7 +4406,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 305,
@@ -4105,7 +4420,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 306,
@@ -4118,7 +4434,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 307,
@@ -4131,7 +4448,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 308,
@@ -4144,7 +4462,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 309,
@@ -4157,7 +4476,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 310,
@@ -4170,7 +4490,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 311,
@@ -4183,7 +4504,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 312,
@@ -4196,7 +4518,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 313,
@@ -4209,7 +4532,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 314,
@@ -4222,7 +4546,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 315,
@@ -4235,7 +4560,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 316,
@@ -4248,7 +4574,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 317,
@@ -4261,7 +4588,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 318,
@@ -4274,7 +4602,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 319,
@@ -4287,7 +4616,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 320,
@@ -4300,7 +4630,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 321,
@@ -4313,7 +4644,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 322,
@@ -4326,7 +4658,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 323,
@@ -4339,7 +4672,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 324,
@@ -4352,7 +4686,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 325,
@@ -4365,7 +4700,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 326,
@@ -4378,7 +4714,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 327,
@@ -4391,7 +4728,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 328,
@@ -4404,7 +4742,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 329,
@@ -4417,7 +4756,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 330,
@@ -4430,7 +4770,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 332,
@@ -4443,7 +4784,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 334,
@@ -4456,7 +4798,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 335,
@@ -4469,7 +4812,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 336,
@@ -4482,7 +4826,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 337,
@@ -4495,7 +4840,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 338,
@@ -4508,7 +4854,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 339,
@@ -4521,7 +4868,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 340,
@@ -4534,7 +4882,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 341,
@@ -4547,7 +4896,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 342,
@@ -4560,7 +4910,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 331,
@@ -4573,7 +4924,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 343,
@@ -4586,7 +4938,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 333,
@@ -4599,7 +4952,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 344,
@@ -4612,7 +4966,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 345,
@@ -4625,7 +4980,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 346,
@@ -4638,7 +4994,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 347,
@@ -4651,7 +5008,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 348,
@@ -4664,7 +5022,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 349,
@@ -4677,7 +5036,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 350,
@@ -4690,7 +5050,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 351,
@@ -4703,7 +5064,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 352,
@@ -4716,7 +5078,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 353,
@@ -4729,7 +5092,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 354,
@@ -4742,7 +5106,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 355,
@@ -4755,7 +5120,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 356,
@@ -4768,7 +5134,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 357,
@@ -4781,7 +5148,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 358,
@@ -4794,7 +5162,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 359,
@@ -4807,7 +5176,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 360,
@@ -4820,7 +5190,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 361,
@@ -4833,7 +5204,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 362,
@@ -4846,7 +5218,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 363,
@@ -4859,7 +5232,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 364,
@@ -4872,7 +5246,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 365,
@@ -4885,7 +5260,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 366,
@@ -4898,7 +5274,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 367,
@@ -4911,7 +5288,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 368,
@@ -4924,7 +5302,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 369,
@@ -4937,7 +5316,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 370,
@@ -4950,7 +5330,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 371,
@@ -4963,7 +5344,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 372,
@@ -4976,7 +5358,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 373,
@@ -4989,7 +5372,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 374,
@@ -5002,7 +5386,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 375,
@@ -5015,7 +5400,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 376,
@@ -5028,7 +5414,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 377,
@@ -5041,7 +5428,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 378,
@@ -5054,7 +5442,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 379,
@@ -5067,7 +5456,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 380,
@@ -5080,7 +5470,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 381,
@@ -5093,7 +5484,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 382,
@@ -5106,7 +5498,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 383,
@@ -5119,7 +5512,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 384,
@@ -5132,7 +5526,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 385,
@@ -5145,7 +5540,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 386,
@@ -5158,7 +5554,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 387,
@@ -5171,7 +5568,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 388,
@@ -5184,7 +5582,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 389,
@@ -5197,7 +5596,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 390,
@@ -5210,7 +5610,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 391,
@@ -5223,7 +5624,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 392,
@@ -5236,7 +5638,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 393,
@@ -5249,7 +5652,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 394,
@@ -5262,7 +5666,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 395,
@@ -5275,7 +5680,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 396,
@@ -5288,7 +5694,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 397,
@@ -5301,7 +5708,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 398,
@@ -5314,7 +5722,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 399,
@@ -5327,7 +5736,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 400,
@@ -5340,7 +5750,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 401,
@@ -5353,7 +5764,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 402,
@@ -5366,7 +5778,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 403,
@@ -5379,7 +5792,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 404,
@@ -5392,7 +5806,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 405,
@@ -5405,7 +5820,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 406,
@@ -5418,7 +5834,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 407,
@@ -5431,7 +5848,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 408,
@@ -5444,7 +5862,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 409,
@@ -5457,7 +5876,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 410,
@@ -5470,7 +5890,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 411,
@@ -5483,7 +5904,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 412,
@@ -5496,7 +5918,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 413,
@@ -5509,7 +5932,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 414,
@@ -5522,7 +5946,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 415,
@@ -5535,7 +5960,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 416,
@@ -5548,7 +5974,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 417,
@@ -5561,7 +5988,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 418,
@@ -5574,7 +6002,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 419,
@@ -5587,7 +6016,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 420,
@@ -5600,7 +6030,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 421,
@@ -5613,7 +6044,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 422,
@@ -5626,7 +6058,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 423,
@@ -5639,7 +6072,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 424,
@@ -5652,7 +6086,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 425,
@@ -5665,7 +6100,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 426,
@@ -5678,7 +6114,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 427,
@@ -5691,7 +6128,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 428,
@@ -5704,7 +6142,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 429,
@@ -5717,7 +6156,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 430,
@@ -5730,7 +6170,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 431,
@@ -5743,7 +6184,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 432,
@@ -5756,7 +6198,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 433,
@@ -5769,7 +6212,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 434,
@@ -5782,7 +6226,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 435,
@@ -5795,7 +6240,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 436,
@@ -5808,7 +6254,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 437,
@@ -5821,7 +6268,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 438,
@@ -5834,7 +6282,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 439,
@@ -5847,7 +6296,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 440,
@@ -5860,7 +6310,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 441,
@@ -5873,7 +6324,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 442,
@@ -5886,7 +6338,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 443,
@@ -5899,7 +6352,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 444,
@@ -5912,7 +6366,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 445,
@@ -5925,7 +6380,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 446,
@@ -5938,7 +6394,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 447,
@@ -5951,7 +6408,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 448,
@@ -5964,7 +6422,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 449,
@@ -5977,7 +6436,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 450,
@@ -5990,7 +6450,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 451,
@@ -6003,7 +6464,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 452,
@@ -6016,7 +6478,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 453,
@@ -6029,7 +6492,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 454,
@@ -6042,7 +6506,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 455,
@@ -6055,7 +6520,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 456,
@@ -6068,7 +6534,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 457,
@@ -6081,7 +6548,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 458,
@@ -6094,7 +6562,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 459,
@@ -6107,7 +6576,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 460,
@@ -6120,7 +6590,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 461,
@@ -6133,7 +6604,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 462,
@@ -6146,7 +6618,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 463,
@@ -6159,7 +6632,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 464,
@@ -6172,7 +6646,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 465,
@@ -6185,7 +6660,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 466,
@@ -6198,7 +6674,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 467,
@@ -6211,7 +6688,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 468,
@@ -6224,7 +6702,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 469,
@@ -6237,7 +6716,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 470,
@@ -6250,7 +6730,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 471,
@@ -6263,7 +6744,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 472,
@@ -6276,7 +6758,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 473,
@@ -6289,7 +6772,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 474,
@@ -6302,7 +6786,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 475,
@@ -6315,7 +6800,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 476,
@@ -6328,7 +6814,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 477,
@@ -6341,7 +6828,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 478,
@@ -6354,7 +6842,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 479,
@@ -6367,7 +6856,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 480,
@@ -6380,7 +6870,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 481,
@@ -6393,7 +6884,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 482,
@@ -6406,7 +6898,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 483,
@@ -6419,7 +6912,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 484,
@@ -6432,7 +6926,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 485,
@@ -6445,7 +6940,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 486,
@@ -6458,7 +6954,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 487,
@@ -6471,7 +6968,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 488,
@@ -6484,7 +6982,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 489,
@@ -6497,7 +6996,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 490,
@@ -6510,7 +7010,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 491,
@@ -6523,7 +7024,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 492,
@@ -6536,7 +7038,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 493,
@@ -6549,7 +7052,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 494,
@@ -6562,7 +7066,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 495,
@@ -6575,7 +7080,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 496,
@@ -6588,7 +7094,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 497,
@@ -6601,7 +7108,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 498,
@@ -6614,7 +7122,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 499,
@@ -6627,7 +7136,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 500,
@@ -6640,7 +7150,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 501,
@@ -6653,7 +7164,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 502,
@@ -6666,7 +7178,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 503,
@@ -6679,7 +7192,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 504,
@@ -6692,7 +7206,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 505,
@@ -6705,7 +7220,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 506,
@@ -6718,7 +7234,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 507,
@@ -6731,7 +7248,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 508,
@@ -6744,7 +7262,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 509,
@@ -6757,7 +7276,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 510,
@@ -6770,7 +7290,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 511,
@@ -6783,7 +7304,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 512,
@@ -6796,7 +7318,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 513,
@@ -6809,7 +7332,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 514,
@@ -6822,7 +7346,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 515,
@@ -6835,7 +7360,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 516,
@@ -6848,7 +7374,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 517,
@@ -6861,7 +7388,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 518,
@@ -6874,7 +7402,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 519,
@@ -6887,7 +7416,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 520,
@@ -6900,7 +7430,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 521,
@@ -6913,7 +7444,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 522,
@@ -6926,7 +7458,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 523,
@@ -6939,7 +7472,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 524,
@@ -6952,7 +7486,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 525,
@@ -6965,7 +7500,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 526,
@@ -6978,7 +7514,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 527,
@@ -6991,7 +7528,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 528,
@@ -7004,7 +7542,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 529,
@@ -7017,7 +7556,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 530,
@@ -7030,7 +7570,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 531,
@@ -7043,7 +7584,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 532,
@@ -7056,7 +7598,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 533,
@@ -7069,7 +7612,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 534,
@@ -7082,7 +7626,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 535,
@@ -7095,7 +7640,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 536,
@@ -7108,7 +7654,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 537,
@@ -7121,7 +7668,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 538,
@@ -7134,7 +7682,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 539,
@@ -7147,7 +7696,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 540,
@@ -7160,7 +7710,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 541,
@@ -7173,7 +7724,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 542,
@@ -7186,7 +7738,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 543,
@@ -7199,7 +7752,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 544,
@@ -7212,7 +7766,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 545,
@@ -7225,7 +7780,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 546,
@@ -7238,7 +7794,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 547,
@@ -7251,7 +7808,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 548,
@@ -7264,7 +7822,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 549,
@@ -7277,7 +7836,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 550,
@@ -7290,7 +7850,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 551,
@@ -7303,7 +7864,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 552,
@@ -7316,7 +7878,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 553,
@@ -7329,7 +7892,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 554,
@@ -7342,7 +7906,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 555,
@@ -7355,7 +7920,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 556,
@@ -7368,7 +7934,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 557,
@@ -7381,7 +7948,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 558,
@@ -7394,7 +7962,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 559,
@@ -7407,7 +7976,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 560,
@@ -7420,7 +7990,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 561,
@@ -7433,7 +8004,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 562,
@@ -7446,7 +8018,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 563,
@@ -7459,7 +8032,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 564,
@@ -7472,7 +8046,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 565,
@@ -7485,7 +8060,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 566,
@@ -7498,7 +8074,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 567,
@@ -7511,7 +8088,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 568,
@@ -7524,7 +8102,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 569,
@@ -7537,7 +8116,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 570,
@@ -7550,7 +8130,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 571,
@@ -7563,7 +8144,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 572,
@@ -7576,7 +8158,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 573,
@@ -7589,7 +8172,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 574,
@@ -7602,7 +8186,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 575,
@@ -7615,7 +8200,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 576,
@@ -7628,7 +8214,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 577,
@@ -7641,7 +8228,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 578,
@@ -7654,7 +8242,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 579,
@@ -7667,7 +8256,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 580,
@@ -7680,7 +8270,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 581,
@@ -7693,7 +8284,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 582,
@@ -7706,7 +8298,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 583,
@@ -7719,7 +8312,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 584,
@@ -7732,7 +8326,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 585,
@@ -7745,7 +8340,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 586,
@@ -7758,7 +8354,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 587,
@@ -7771,7 +8368,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 588,
@@ -7784,7 +8382,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 589,
@@ -7797,7 +8396,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 590,
@@ -7810,7 +8410,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 591,
@@ -7823,7 +8424,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 592,
@@ -7836,7 +8438,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 593,
@@ -7849,7 +8452,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 594,
@@ -7862,7 +8466,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 595,
@@ -7875,7 +8480,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 596,
@@ -7888,7 +8494,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 597,
@@ -7901,7 +8508,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 598,
@@ -7914,7 +8522,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 599,
@@ -7927,7 +8536,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 600,
@@ -7940,7 +8550,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 601,
@@ -7953,7 +8564,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 602,
@@ -7966,7 +8578,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 603,
@@ -7979,7 +8592,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 604,
@@ -7992,7 +8606,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 605,
@@ -8005,7 +8620,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 606,
@@ -8018,7 +8634,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 607,
@@ -8031,7 +8648,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 608,
@@ -8044,7 +8662,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 609,
@@ -8057,7 +8676,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 610,
@@ -8070,7 +8690,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 611,
@@ -8083,7 +8704,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 612,
@@ -8096,7 +8718,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 613,
@@ -8109,7 +8732,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 614,
@@ -8122,7 +8746,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 615,
@@ -8135,7 +8760,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 616,
@@ -8148,7 +8774,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 617,
@@ -8161,7 +8788,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 618,
@@ -8174,7 +8802,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 619,
@@ -8187,7 +8816,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 620,
@@ -8200,7 +8830,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 621,
@@ -8213,7 +8844,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 622,
@@ -8226,7 +8858,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 623,
@@ -8239,7 +8872,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 624,
@@ -8252,7 +8886,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 625,
@@ -8265,7 +8900,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 626,
@@ -8278,7 +8914,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 627,
@@ -8291,7 +8928,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 628,
@@ -8304,7 +8942,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 629,
@@ -8317,7 +8956,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 630,
@@ -8330,7 +8970,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 631,
@@ -8343,7 +8984,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 632,
@@ -8356,7 +8998,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 633,
@@ -8369,7 +9012,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 634,
@@ -8382,7 +9026,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 635,
@@ -8395,7 +9040,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 636,
@@ -8408,7 +9054,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 637,
@@ -8421,7 +9068,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 638,
@@ -8434,7 +9082,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 639,
@@ -8447,7 +9096,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 640,
@@ -8460,7 +9110,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 641,
@@ -8473,7 +9124,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 642,
@@ -8486,7 +9138,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 643,
@@ -8499,7 +9152,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 644,
@@ -8512,7 +9166,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 645,
@@ -8525,7 +9180,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 646,
@@ -8538,7 +9194,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 647,
@@ -8551,7 +9208,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 648,
@@ -8564,7 +9222,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 649,
@@ -8577,7 +9236,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 650,
@@ -8590,7 +9250,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 651,
@@ -8603,7 +9264,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 652,
@@ -8616,7 +9278,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 653,
@@ -8629,7 +9292,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 654,
@@ -8642,7 +9306,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 655,
@@ -8655,7 +9320,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 656,
@@ -8668,7 +9334,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 657,
@@ -8681,7 +9348,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 658,
@@ -8694,7 +9362,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 659,
@@ -8707,7 +9376,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 660,
@@ -8720,7 +9390,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 661,
@@ -8733,7 +9404,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 662,
@@ -8746,7 +9418,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 663,
@@ -8759,7 +9432,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 664,
@@ -8772,7 +9446,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 665,
@@ -8785,7 +9460,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 666,
@@ -8798,7 +9474,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 667,
@@ -8811,7 +9488,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 668,
@@ -8824,7 +9502,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 669,
@@ -8837,7 +9516,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 670,
@@ -8850,7 +9530,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 671,
@@ -8863,7 +9544,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 672,
@@ -8876,7 +9558,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 673,
@@ -8889,7 +9572,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 674,
@@ -8902,7 +9586,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 675,
@@ -8915,7 +9600,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 676,
@@ -8928,7 +9614,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 677,
@@ -8941,7 +9628,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 678,
@@ -8954,7 +9642,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 679,
@@ -8967,7 +9656,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 680,
@@ -8980,7 +9670,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 681,
@@ -8993,7 +9684,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 682,
@@ -9006,7 +9698,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 683,
@@ -9019,7 +9712,8 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     },
     {
         "id": 684,
@@ -9032,6 +9726,7 @@
         "votes_yay": null,
         "votes_nay": null,
         "votes_abstain": null,
-        "votes_absent": null
+        "votes_absent": null,
+        "category": null
     }
 ]
