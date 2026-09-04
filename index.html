@@ -54,12 +54,12 @@
                     </div>
                     ${bill.votes_yay !== null && bill.votes_yay !== undefined ? `
                     <div style="margin-bottom: 1rem; font-size: 0.9rem; font-weight: 600; display: flex; gap: 0.8rem;">
-                        <span style="color: #4ade80;">✅ \${bill.votes_yay}</span>
-                        <span style="color: #f87171;">❌ \${bill.votes_nay}</span>
-                        <span style="color: #fbbf24;">🟨 \${bill.votes_abstain}</span>
-                        <span style="color: #9ca3af;">👻 \${bill.votes_absent}</span>
+                        <span style="color: #4ade80;">✅ ${bill.votes_yay}</span>
+                        <span style="color: #f87171;">❌ ${bill.votes_nay}</span>
+                        <span style="color: #fbbf24;">🟨 ${bill.votes_abstain}</span>
+                        <span style="color: #9ca3af;">👻 ${bill.votes_absent}</span>
                     </div>
-                    \` : ''}
+                    ` : ''}
                     
                     <div class="section main-goal">
                         <h3>Main Goal</h3>
