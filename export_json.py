@@ -14,24 +14,22 @@ def export():
     print(f"Exported {len(bills_list)} bills to bills.json")
     
     status = conn.execute('SELECT * FROM system_status WHERE id = 1').fetchone()
-    if status:
-        import time
-        from datetime import datetime
-        import pytz
+    row = conn.execute('SELECT last_update FROM system_status WHERE id = 1').fetchone()
+    if row:
+        from datetime import datetime, timezone
         
-        last_update = status['last_update']
-        if last_update > 0:
-            dt = datetime.fromtimestamp(last_update, tz=pytz.UTC)
-            cet = dt.astimezone(pytz.timezone('Europe/Berlin'))
-            last_update_str = cet.strftime("%d %b %Y, %H:%M CET")
-        else:
-            last_update_str = "Never"
-            
+        last_ts = float(row[0])
+        
+        # Format the time nicely for display
+        last_dt = datetime.fromtimestamp(last_ts, tz=timezone.utc)
+        formatted_time = last_dt.strftime("%d %b %Y, %H:%M UTC")
+        
         status_data = {
-            "online": True, # Assume online if we just ran the export
-            "last_update": last_update_str
+            "online": True, 
+            "last_update": formatted_time,
+            "timestamp": last_ts
         }
-        with open('status.json', 'w', encoding='utf-8') as f:
+        with open('status.json', 'w') as f:
             json.dump(status_data, f)
         print("Exported status.json")
         

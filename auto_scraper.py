@@ -257,11 +257,11 @@ async def check_and_update_bills(bot: discord.Client):
     conn.commit()
     conn.close()
 
+    # Always export JSON so status.json updates its timestamp
+    export_json.export()
+
     if new_bills_added:
         print("Auto-Scraper: Bills updated. Updating files and pushing to GitHub...")
-        # 1. Update JSON
-        export_json.export()
-        # 2. Update MD
         reorder_bills.regenerate()
         try:
             subprocess.run(["git", "add", "bills.json", "status.json"], check=True)
@@ -271,7 +271,13 @@ async def check_and_update_bills(bot: discord.Client):
         except subprocess.CalledProcessError as e:
             print(f"Auto-Scraper: Git operation failed -> {e}")
     else:
-        print("Auto-Scraper: No new bills found.")
+        print("Auto-Scraper: No new bills found, pushing status ping...")
+        try:
+            subprocess.run(["git", "add", "status.json"], check=True)
+            subprocess.run(["git", "commit", "-m", "Bot status ping"], check=True)
+            subprocess.run(["git", "push"], check=True)
+        except subprocess.CalledProcessError:
+            pass # Ignore if no diff (e.g. ran twice in same minute)
 
 
 async def analyze_pending_bills(bot: discord.Client):

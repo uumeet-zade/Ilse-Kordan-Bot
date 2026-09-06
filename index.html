@@ -112,7 +112,10 @@
                 const text = document.getElementById('statusText');
                 const update = document.getElementById('lastUpdate');
                 
-                if (status.online) {
+                // Consider offline if no update in the last 3 hours (10800 seconds)
+                const isRecentlyUpdated = status.timestamp && ((Date.now() / 1000) - status.timestamp < 10800);
+                
+                if (status.online && isRecentlyUpdated) {
                     dot.className = 'dot online';
                     text.innerText = 'Bot Online';
                 } else {
