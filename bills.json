@@ -33,13 +33,13 @@
         "date": "2026-09-04",
         "proposer": "adieliicious (ID: 877921042314711130)",
         "doc_link": null,
-        "main_goal": "Require the Ministry of Culture to construct no less than 4 objects every year",
-        "ilse_opinion": null,
+        "main_goal": "This bill mandates the Ministry of Culture to construct a minimum of four cultural or public art objects annually to promote cultural development and public engagement.",
+        "ilse_opinion": "**What Ilse Liked:** The bill supports public investment in cultural infrastructure, which can enhance community well-being and foster social cohesion, aligning with Ordoliberal principles of balanced state intervention for societal benefit.\n\n**What Ilse Disliked:** The arbitrary quota of four objects may lack flexibility, potentially leading to inefficient spending or prioritizing quantity over quality, which could undermine fiscal responsibility and meaningful cultural impact.",
         "votes_yay": 13,
         "votes_nay": 8,
         "votes_abstain": 3,
         "votes_absent": 9,
-        "category": "Misc."
+        "category": "Social Policy"
     },
     {
         "id": 695,
@@ -61,13 +61,13 @@
         "date": "2026-08-26",
         "proposer": "draksicell (ID: 775290140134342676)",
         "doc_link": null,
-        "main_goal": "Nomination of <@842809293258752000> as Prime Minister.",
-        "ilse_opinion": null,
+        "main_goal": "To formally nominate and confirm <@842809293258752000> as the Prime Minister of Caprica.",
+        "ilse_opinion": "**What Ilse Liked:** Nothing\n\n**What Ilse Disliked:** The bill lacks transparency regarding the nominee's policy platform, economic vision, and commitment to social welfare\u2014critical for assessing their alignment with Ordoliberal principles and working-class interests.",
         "votes_yay": 17,
         "votes_nay": 12,
         "votes_abstain": 0,
         "votes_absent": 4,
-        "category": "Misc."
+        "category": "Government & Nominations"
     },
     {
         "id": 692,
@@ -75,13 +75,13 @@
         "date": "2026-08-26",
         "proposer": "billy_clitoris (ID: 1266679401383198781)",
         "doc_link": null,
-        "main_goal": "A motion to bring back smoking in pubs. By Hairy Balls",
-        "ilse_opinion": null,
+        "main_goal": "This bill seeks to reverse existing restrictions and permit smoking in pubs once again.",
+        "ilse_opinion": "**What Ilse Liked:** Nothing\n\n**What Ilse Disliked:** The bill undermines public health protections, particularly for workers in pubs who would be exposed to secondhand smoke, contradicting Ordoliberal principles of fair competition and social responsibility. It also disregards the well-being of the working class, who disproportionately staff these establishments.",
         "votes_yay": 4,
         "votes_nay": 8,
         "votes_abstain": 2,
         "votes_absent": 19,
-        "category": "Misc."
+        "category": "Public Health"
     },
     {
         "id": 691,
@@ -89,13 +89,13 @@
         "date": "2026-08-25",
         "proposer": "draksicell (ID: 775290140134342676)",
         "doc_link": null,
-        "main_goal": "Nominate Woke Peter Thiel <@775290140134342676> to the CEC.",
-        "ilse_opinion": null,
+        "main_goal": "To nominate an individual referred to as 'Woke Peter Thiel' to the Caprican Economic Council (CEC).",
+        "ilse_opinion": "**What Ilse Liked:** Nothing\n\n**What Ilse Disliked:** The nomination appears to prioritize ideological signaling ('Woke') over merit, competence, or alignment with Ordoliberal principles of market efficiency, social responsibility, and evidence-based policymaking. Additionally, the lack of transparency regarding the nominee's qualifications and policy stances is concerning.",
         "votes_yay": 10,
         "votes_nay": 13,
         "votes_abstain": 5,
         "votes_absent": 5,
-        "category": "Misc."
+        "category": "Government & Nominations"
     },
     {
         "id": 685,
