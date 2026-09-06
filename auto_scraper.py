@@ -59,7 +59,7 @@ def read_google_doc_sync(url: str) -> str:
 def extract_main_goal_llm(text: str, title: str):
     """Extract main goal, opinion, and category from bill text using Mistral."""
     if not text or not text.strip():
-        return "Pending analysis.", None, "Misc."
+        text = title
         
     try:
         messages = [
@@ -183,7 +183,7 @@ async def check_and_update_bills(bot: discord.Client):
             if existing:
                 bill_id, existing_doc_link, existing_main_goal, existing_votes = existing
                 
-                needs_llm = (existing_main_goal == "Pending analysis." and (doc_link or existing_doc_link))
+                needs_llm = (existing_main_goal == "Pending analysis.")
                 needs_votes = (existing_votes is None and votes_yay is not None)
                 
                 if needs_llm:
@@ -196,13 +196,15 @@ async def check_and_update_bills(bot: discord.Client):
                 main_goal = "Pending analysis."
                 ilse_opinion = None
                 category = "Misc."
+                doc_text = ""
                 if doc_link:
                     doc_text = read_google_doc_sync(doc_link)
-                    if doc_text:
-                        main_goal, ilse_opinion, category = extract_main_goal_llm(doc_text, title)
-                        print(f"Auto-Scraper: Extracted main goal: {main_goal[:80]}...")
-                    else:
+                    if not doc_text:
                         print(f"Auto-Scraper: Could not read Google Doc for {title}")
+                
+                main_goal_llm, ilse_opinion, category = extract_main_goal_llm(doc_text, title)
+                main_goal = main_goal_llm if main_goal_llm and main_goal_llm != "Pending analysis." else title
+                print(f"Auto-Scraper: Extracted main goal: {main_goal[:80]}...")
                 bills_to_insert.append((title, date_str, proposer_name, doc_link, main_goal, ilse_opinion, votes_yay, votes_nay, votes_abstain, votes_absent, category))
 
     if bills_to_insert:
@@ -222,13 +224,16 @@ async def check_and_update_bills(bot: discord.Client):
         conn = sqlite3.connect('memory.db', timeout=15)
         c = conn.cursor()
         for bill_id, title, doc_link, proposer, date_str, vy, vn, vab, vabsent in bills_to_update_llm:
-            doc_text = read_google_doc_sync(doc_link)
-            if doc_text:
-                main_goal, ilse_opinion, category = extract_main_goal_llm(doc_text, title)
-                print(f"Auto-Scraper: Updating bill {bill_id} ({title[:40]}...) with goal: {main_goal[:60]}...")
-                c.execute("UPDATE bills SET main_goal = ?, ilse_opinion = ?, votes_yay = ?, votes_nay = ?, votes_abstain = ?, votes_absent = ?, category = ? WHERE id = ?", (main_goal, ilse_opinion, vy, vn, vab, vabsent, category, bill_id))
-            else:
-                print(f"Auto-Scraper: Could not read doc for existing bill {bill_id}")
+            doc_text = ""
+            if doc_link:
+                doc_text = read_google_doc_sync(doc_link)
+                if not doc_text:
+                    print(f"Auto-Scraper: Could not read doc for existing bill {bill_id}")
+            
+            main_goal_llm, ilse_opinion, category = extract_main_goal_llm(doc_text, title)
+            main_goal = main_goal_llm if main_goal_llm and main_goal_llm != "Pending analysis." else title
+            print(f"Auto-Scraper: Updating bill {bill_id} ({title[:40]}...) with goal: {main_goal[:60]}...")
+            c.execute("UPDATE bills SET main_goal = ?, ilse_opinion = ?, votes_yay = ?, votes_nay = ?, votes_abstain = ?, votes_absent = ?, category = ? WHERE id = ?", (main_goal, ilse_opinion, vy, vn, vab, vabsent, category, bill_id))
         conn.commit()
         conn.close()
         new_bills_added = True
@@ -290,14 +295,15 @@ async def analyze_pending_bills(bot: discord.Client):
     c = conn.cursor()
     
     for bill_id, title, doc_link in pending_bills:
-        doc_text = read_google_doc_sync(doc_link)
-        if doc_text:
-            main_goal, ilse_opinion, category = extract_main_goal_llm(doc_text, title)
-            c.execute("UPDATE bills SET main_goal = ?, ilse_opinion = ?, category = ? WHERE id = ?", (main_goal, ilse_opinion, category, bill_id))
-            print(f"  Updated bill {bill_id} ({title[:50]}...) -> {main_goal[:70]}...")
-            updated_count += 1
-        else:
-            print(f"  Could not read doc for bill {bill_id}: {title}")
+        doc_text = ""
+        if doc_link:
+            doc_text = read_google_doc_sync(doc_link)
+            
+        main_goal_llm, ilse_opinion, category = extract_main_goal_llm(doc_text, title)
+        main_goal = main_goal_llm if main_goal_llm and main_goal_llm != "Pending analysis." else title
+        c.execute("UPDATE bills SET main_goal = ?, ilse_opinion = ?, category = ? WHERE id = ?", (main_goal, ilse_opinion, category, bill_id))
+        print(f"  Updated bill {bill_id} ({title[:50]}...) -> {main_goal[:70]}...")
+        updated_count += 1
     
     conn.commit()
     conn.close()
