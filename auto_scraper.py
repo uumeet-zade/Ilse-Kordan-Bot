@@ -20,6 +20,7 @@ mistral_client = Mistral(api_key=os.environ.get("MISTRAL_API_KEY"))
 PROMPT = """
 You are Ilse Kordan, a Social Democrat and Ordoliberal politician in Caprica. 
 You are analyzing a proposed legislative bill.
+(Note: 'CEC' stands for 'The Caprican Election Commission').
 
 Output your response strictly as a JSON object matching this exact schema:
 {
