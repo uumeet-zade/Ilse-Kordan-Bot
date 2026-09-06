@@ -1,5 +1,19 @@
 [
     {
+        "id": 696,
+        "title": "Schooling Enhancement Act 2066",
+        "date": "2026-09-06",
+        "proposer": "eruween (ID: 842809293258752000)",
+        "doc_link": "https://docs.google.com/document/d/1n6OvM1k-2VWC4hjp8sEpAXLnK91ZTvixIVbv0k6O8Qg",
+        "main_goal": "This bill aims to establish national standards for school nutrition, modernize educational infrastructure, upgrade teacher training, and expand co-curricular programs to improve the quality of primary and secondary public education across Caprica.",
+        "ilse_opinion": "**What Ilse Liked:** I strongly support the bill's focus on equitable access to nutrition, modern infrastructure, and professional development for teachers, as these measures promote social mobility and reduce regional disparities. The local procurement quota for school meals also aligns with my Ordoliberal values by fostering domestic agricultural markets and community-based economic resilience.\n\n**What Ilse Disliked:** While the bill is commendable, I am concerned about the potential bureaucratic overreach in enforcing federal standards over regional autonomy, particularly in areas like procurement audits and compliance penalties. Additionally, the reliance on federal funding may create long-term fiscal dependencies without sufficient regional cost-sharing mechanisms.",
+        "votes_yay": null,
+        "votes_nay": null,
+        "votes_abstain": null,
+        "votes_absent": null,
+        "category": "Social Policy"
+    },
+    {
         "id": 694,
         "title": "Require the Ministry of Culture to construct no less than 4 objects every year",
         "date": "2026-09-04",
@@ -7,10 +21,10 @@
         "doc_link": null,
         "main_goal": "Require the Ministry of Culture to construct no less than 4 objects every year",
         "ilse_opinion": null,
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 13,
+        "votes_nay": 8,
+        "votes_abstain": 3,
+        "votes_absent": 9,
         "category": "Misc."
     },
     {
@@ -35,10 +49,10 @@
         "doc_link": null,
         "main_goal": "A motion to bring back smoking in pubs. By Hairy Balls",
         "ilse_opinion": null,
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 4,
+        "votes_nay": 8,
+        "votes_abstain": 2,
+        "votes_absent": 19,
         "category": "Misc."
     },
     {
@@ -49,10 +63,10 @@
         "doc_link": null,
         "main_goal": "Nomination of <@842809293258752000> as Prime Minister.",
         "ilse_opinion": null,
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 17,
+        "votes_nay": 12,
+        "votes_abstain": 0,
+        "votes_absent": 4,
         "category": "Misc."
     },
     {
@@ -63,10 +77,10 @@
         "doc_link": null,
         "main_goal": "Nominate Woke Peter Thiel <@775290140134342676> to the CEC.",
         "ilse_opinion": null,
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 10,
+        "votes_nay": 13,
+        "votes_abstain": 5,
+        "votes_absent": 5,
         "category": "Misc."
     },
     {
@@ -77,10 +91,10 @@
         "doc_link": null,
         "main_goal": "The bill seeks the appointment of David Breen Cutter to the Supreme Court of Caprica.",
         "ilse_opinion": null,
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 15,
+        "votes_nay": 12,
+        "votes_abstain": 0,
+        "votes_absent": 6,
         "category": null
     },
     {
@@ -91,10 +105,10 @@
         "doc_link": null,
         "main_goal": "This bill mandates the Ministry of Defense to investigate and field-test leopard-print camouflage patterns for use by the Air Force and Marine Corps.",
         "ilse_opinion": null,
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 6,
+        "votes_nay": 4,
+        "votes_abstain": 0,
+        "votes_absent": 23,
         "category": null
     },
     {
@@ -105,10 +119,10 @@
         "doc_link": null,
         "main_goal": "The bill aims to mandate the public disclosure and release of the 'Edelstein files' to ensure transparency regarding state or corporate documentation.",
         "ilse_opinion": null,
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 17,
+        "votes_nay": 2,
+        "votes_abstain": 0,
+        "votes_absent": 14,
         "category": null
     },
     {
@@ -119,10 +133,10 @@
         "doc_link": null,
         "main_goal": "The bill proposes an amendment to the Foreign Development Cooperation Act, though the specific text and strategic objectives remain undefined.",
         "ilse_opinion": null,
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 12,
+        "votes_nay": 3,
+        "votes_abstain": 1,
+        "votes_absent": 17,
         "category": null
     },
     {
@@ -133,10 +147,10 @@
         "doc_link": null,
         "main_goal": "The bill aims to redefine the regulatory status of National Guard units by exempting them from Category B restrictions while imposing specific technical limitations on missile range and payload.",
         "ilse_opinion": null,
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 7,
+        "votes_nay": 1,
+        "votes_abstain": 4,
+        "votes_absent": 21,
         "category": null
     },
     {
@@ -147,10 +161,10 @@
         "doc_link": "https://docs.google.com/document/d/1NG7WNt2Gw9J-vGAOIio0puWghYCVViVJqYTTZKKPSSY",
         "main_goal": "The bill aims to centralize administrative and fiscal authority by mandating federal oversight of regional laws and reclaiming delegated powers over core sectors like healthcare and infrastructure.",
         "ilse_opinion": null,
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 12,
+        "votes_nay": 11,
+        "votes_abstain": 0,
+        "votes_absent": 10,
         "category": null
     },
     {
