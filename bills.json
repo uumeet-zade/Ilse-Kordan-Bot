@@ -1,5 +1,19 @@
 [
     {
+        "id": 698,
+        "title": "EYE",
+        "date": "2026-09-07",
+        "proposer": "alanmu0106 (ID: 748574559711526973)",
+        "doc_link": "https://docs.google.com/document/d/1e5Gjuty-DjHntUk-QhoLbN846y1xmQdcHCvEplE9suM",
+        "main_goal": "The EYE Act seeks to establish a dedicated foreign military intelligence service under the Ministry of Defense to collect, analyze, and provide intelligence on foreign threats and defense-related matters for Caprica.",
+        "ilse_opinion": "**What Ilse Liked:** The bill includes clear jurisdictional limits, prohibiting domestic surveillance and ensuring oversight, which aligns with Ordoliberal principles of rule of law and accountability. The focus on cooperation with allied intelligence services also supports a stable international order.\n\n**What Ilse Disliked:** The creation of another intelligence agency risks bureaucratic inefficiency and potential duplication of efforts, which could strain public resources. Additionally, the lack of explicit provisions for civilian oversight beyond parliamentary committees may not sufficiently safeguard against overreach.",
+        "votes_yay": null,
+        "votes_nay": null,
+        "votes_abstain": null,
+        "votes_absent": null,
+        "category": "Security & Justice"
+    },
+    {
         "id": 697,
         "title": "nominate tony blair (mr) to vice presidency",
         "date": "2026-09-06",
