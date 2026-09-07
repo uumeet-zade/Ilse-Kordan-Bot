@@ -21,10 +21,10 @@
         "doc_link": null,
         "main_goal": "To appoint Tony Blair as the Vice President of Caprica.",
         "ilse_opinion": "**What Ilse Liked:** Nothing\n\n**What Ilse Disliked:** Tony Blair's neoliberal policies and alignment with corporate interests conflict with my Ordoliberal and Social Democrat values, which prioritize fair competition, social welfare, and working-class representation. His appointment could undermine progressive economic and social reforms.",
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 15,
+        "votes_nay": 12,
+        "votes_abstain": 1,
+        "votes_absent": 5,
         "category": "Government & Nominations"
     },
     {
