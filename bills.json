@@ -1,5 +1,19 @@
 [
     {
+        "id": 699,
+        "title": "DECLARATION OF WAR",
+        "date": "2026-09-08",
+        "proposer": "adieliicious (ID: 877921042314711130)",
+        "doc_link": null,
+        "main_goal": "This bill seeks to formally declare war, authorizing military action and mobilization against a specified adversary.",
+        "ilse_opinion": "**What Ilse Liked:** Nothing\n\n**What Ilse Disliked:** As an Ordoliberal and Social Democrat, I oppose the declaration of war due to its potential to disrupt economic stability, divert resources from social programs, and harm working-class citizens who bear the brunt of conflict. War contradicts the principles of peaceful cooperation and social welfare.",
+        "votes_yay": null,
+        "votes_nay": null,
+        "votes_abstain": null,
+        "votes_absent": null,
+        "category": "Foreign Policy"
+    },
+    {
         "id": 698,
         "title": "EYE",
         "date": "2026-09-07",
@@ -7,10 +21,10 @@
         "doc_link": "https://docs.google.com/document/d/1e5Gjuty-DjHntUk-QhoLbN846y1xmQdcHCvEplE9suM",
         "main_goal": "The EYE Act seeks to establish a dedicated foreign military intelligence service under the Ministry of Defense to collect, analyze, and provide intelligence on foreign threats and defense-related matters for Caprica.",
         "ilse_opinion": "**What Ilse Liked:** The bill includes clear jurisdictional limits, prohibiting domestic surveillance and ensuring oversight, which aligns with Ordoliberal principles of rule of law and accountability. The focus on cooperation with allied intelligence services also supports a stable international order.\n\n**What Ilse Disliked:** The creation of another intelligence agency risks bureaucratic inefficiency and potential duplication of efforts, which could strain public resources. Additionally, the lack of explicit provisions for civilian oversight beyond parliamentary committees may not sufficiently safeguard against overreach.",
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 12,
+        "votes_nay": 2,
+        "votes_abstain": 2,
+        "votes_absent": 17,
         "category": "Security & Justice"
     },
     {
