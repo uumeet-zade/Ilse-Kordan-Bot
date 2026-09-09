@@ -21,10 +21,10 @@
         "doc_link": null,
         "main_goal": "This bill seeks to formally declare war, authorizing military action and mobilization against a specified adversary.",
         "ilse_opinion": "**What Ilse Liked:** Nothing\n\n**What Ilse Disliked:** As an Ordoliberal and Social Democrat, I oppose the declaration of war due to its potential to disrupt economic stability, divert resources from social programs, and harm working-class citizens who bear the brunt of conflict. War contradicts the principles of peaceful cooperation and social welfare.",
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 7,
+        "votes_nay": 19,
+        "votes_abstain": 2,
+        "votes_absent": 5,
         "category": "Foreign Policy"
     },
     {
