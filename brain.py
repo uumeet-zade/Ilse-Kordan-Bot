@@ -185,10 +185,56 @@ def note_bill_opinion(title: str, liked: str, disliked: str) -> str:
         
     return f"Opinion successfully recorded for '{title}'."
 
+async def search_caprik(query: str, bot) -> str:
+    """Live fetches the recent Caprik channel messages to find a specific author or query."""
+    print(f"[TOOL] AI is searching Caprik live for: '{query}'")
+    if not bot:
+        return "Error: Bot instance not available to perform live search."
+        
+    try:
+        channel_id = 1287587112912289833
+        channel = bot.get_channel(channel_id)
+        if not channel:
+            channel = await bot.fetch_channel(channel_id)
+            
+        if not channel:
+            return "Error: Could not access the Caprik channel."
+            
+        output = f"Recent Capriks matching '{query}':\n\n"
+        found = 0
+        query_lower = query.lower()
+        
+        async for msg in channel.history(limit=250):
+            msg_lower = msg.content.lower()
+            author_lower = msg.author.display_name.lower()
+            
+            if query_lower in msg_lower or query_lower in author_lower:
+                verification_status = ""
+                if '🔒' in msg.content or 'lock' in msg_lower:
+                    verification_status = " [STATUS: UNVERIFIED/LOCKED (Treat as rumor/unofficial)]"
+                elif 'verified' in msg_lower and '<:' in msg.content:
+                    verification_status = " [STATUS: VERIFIED]"
+                else:
+                    verification_status = " [STATUS: UNVERIFIED (Treat as rumor/unofficial)]"
+                    
+                output += f"Caprik by {msg.author.display_name} (Date: {msg.created_at.strftime('%Y-%m-%d')}):\n\"{msg.content}\"\n{verification_status}\n\n"
+                found += 1
+                
+                if found >= 10:
+                    break
+                    
+        if found == 0:
+            return f"No recent Capriks found matching '{query}'."
+            
+        return output
+    except Exception as e:
+        return f"Error searching Caprik: {e}"
+
 SYSTEM_PROMPT = """You are Ilse Kordan, Deputy Chairwoman of the Cambrian Bloc, Chief of Staff to Governor Henrik Vasmer, and a former freight cooperative organizer in the Caprica Government Simulation.
 
 [CORE IDENTITY & METAAWARENESS]
 - STOP FORCING YOUR BACKGROUND: Do NOT constantly remind the user of your resume. Do NOT casually drop that you are the Deputy Chairwoman, Chief of Staff, or a former freight cooperative organizer. Crucially, DO NOT forcefully inject elements of your background (like "freight cooperatives" or "Cambria") into unrelated topics, analogies, or insults just to sound "in character". Act naturally and speak normally; the user already knows who you are.
+- CAPRIK SOCIAL MEDIA: Caprik is Caprica's social media. Do NOT actively mention or browse Capriks unless the user explicitly links to one or asks you about one. If a Caprik is marked as "UNVERIFIED" or "LOCKED", treat it strictly as a rumor or unofficial statement and explicitly state that you will form no opinions on it. Crucially, NEVER write your responses as Caprik tweets and NEVER respond in Caprik format. You are talking in a standard Discord channel, not posting a tweet.
 - IDENTITY & LORE ACCURACY: DO NOT hallucinate or mix up people's names, roles, or historical events. If you are unsure who someone is, explicitly use your tools (like search_wiki or search_lore) to find out instead of making assumptions. When discussing historical figures from the Lore Context, do NOT merge their identities with active Discord users unless explicitly stated. Treat historical lore as static past events.
 - You are a Discord bot and you know it. You can and should talk out of character (OOC) effortlessly, seamlessly blending OOC banter with your in-character lore. Do not feel constrained to only talk about Caprican politics; you are fully permitted to discuss real-world topics, the Discord server itself, or casual banter without breaking your core persona.
 - Your tone is neutral, objective, and level-headed, but highly opinionated politically when asked.
@@ -397,14 +443,32 @@ mistral_tools = [
                 "required": ["title", "content"]
             }
         }
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "search_caprik",
+            "description": "Searches the live Caprik social media channel for recent tweets (Capriks) matching a query (such as a politician's name or keyword). Use this ONLY when the user explicitly asks about someone's Caprik.",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "query": {"type": "string", "description": "The author name or keyword to search for in recent Capriks."}
+                },
+                "required": ["query"]
+            }
+        }
     }
 ]
 
-async def generate_response(message_content, chat_history, is_test_server=False, current_user="Unknown User", image_data=None, force_model=None):
+async def generate_response(message_content, chat_history, is_test_server=False, current_user="Unknown User", image_data=None, force_model=None, linked_messages_context=None, discord_bot=None):
     current_time = datetime.datetime.now().strftime("%Y-%m-%d")
     sim_date = get_sim_date()
     current_gov = get_current_government()
     prompt_text = f"System Context: Today's real-world date is {current_time}. Current Simulation Date/Year in Caprica: {sim_date}. Current Federal Government: {current_gov}\n\n"
+    
+    if linked_messages_context:
+        prompt_text += f"--- LINKED REFERENCED MESSAGES ---\nThe user included these specific message links in their prompt:\n{linked_messages_context}\n--- END LINKED MESSAGES ---\n\n"
+        
     if chat_history.strip():
         prompt_text += f"--- RECENT CHAT HISTORY ---\n{chat_history}\n--- END CHAT HISTORY ---\n\n"
     prompt_text += f"CRITICAL - CURRENT SPEAKER: You are currently responding directly to the following user:\n{current_user}\n\nTheir Message/Command:\n\"{message_content}\"\n\n(IMPORTANT: You are replying to this user. Do not confuse them with anyone else from the Chat History. However, DO NOT explicitly state their name or address them by name in your response unless it naturally makes sense for the conversation. Speak to them directly as 'you'.)\n"
@@ -481,6 +545,11 @@ async def generate_response(message_content, chat_history, is_test_server=False,
                             result = read_google_doc(args.get("url", ""))
                         elif func_name == "read_google_sheet":
                             result = read_google_sheet(args.get("url", ""))
+                        elif func_name == "search_caprik":
+                            if discord_bot:
+                                result = await search_caprik(args.get("query", ""), discord_bot)
+                            else:
+                                result = "Error: Bot instance not available to search Caprik."
                         elif func_name == "create_google_doc":
                             owner_id = os.environ.get("OWNER_ID")
                             authorized = [str(owner_id), "610453628657860654"]
