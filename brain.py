@@ -483,11 +483,11 @@ mistral_tools = [
         "type": "function",
         "function": {
             "name": "search_caprik",
-            "description": "Searches the live Caprik social media channel. CRITICAL: Your query MUST be exactly one single word, preferably just the author's name (e.g. 'Herald', 'Patrick'). Do NOT add other keywords like 'poll' or 'approval', because the text might be phrased differently or hidden in an image. Search just the author name, and read through the results.",
+            "description": "Searches the live Caprik social media channel. CRITICAL: Your query MUST be strictly just the author's name (e.g. 'Herald', 'Patrick', 'Pricks Inc'). Do NOT add other keywords like 'poll' or 'approval' to the query, because the text might be phrased differently or hidden in an image. Search purely by the author's exact name.",
             "parameters": {
                 "type": "object",
                 "properties": {
-                    "query": {"type": "string", "description": "Exactly one single word, usually the author name (e.g. 'Herald')."}
+                    "query": {"type": "string", "description": "Strictly the author's name (e.g. 'Herald', 'Pricks Inc'). No other keywords."}
                 },
                 "required": ["query"]
             }
