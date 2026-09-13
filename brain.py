@@ -458,11 +458,11 @@ mistral_tools = [
         "type": "function",
         "function": {
             "name": "search_caprik",
-            "description": "Searches the live Caprik social media channel for recent tweets (Capriks) matching a query (such as a politician's name or keyword). Use this ONLY when the user explicitly asks about someone's Caprik.",
+            "description": "Searches the live Caprik social media channel. CRITICAL: Your query MUST be exactly one single word, preferably just the author's name (e.g. 'Herald', 'Patrick'). Do NOT add other keywords like 'poll' or 'approval', because the text might be phrased differently or hidden in an image. Search just the author name, and read through the results.",
             "parameters": {
                 "type": "object",
                 "properties": {
-                    "query": {"type": "string", "description": "The author name or keyword to search for in recent Capriks."}
+                    "query": {"type": "string", "description": "Exactly one single word, usually the author name (e.g. 'Herald')."}
                 },
                 "required": ["query"]
             }
