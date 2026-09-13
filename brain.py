@@ -225,7 +225,32 @@ async def search_caprik(query: str, bot) -> str:
                     
                 attachment_info = ""
                 if msg.attachments:
-                    attachment_info = f"\n[NOTE: This Caprik contains {len(msg.attachments)} attachment(s) (likely images/polls) which you cannot read. Inform the user of this.]"
+                    attachment_info = f"\n[NOTE: This Caprik contains {len(msg.attachments)} attachment(s). Transcribing image contents...]\n"
+                    for att in msg.attachments:
+                        if att.content_type and att.content_type.startswith('image/'):
+                            try:
+                                img_url = att.url
+                                client = Mistral(api_key=os.environ.get("MISTRAL_API_KEY"))
+                                
+                                def transcribe_image(url):
+                                    return client.chat.complete(
+                                        model="pixtral-12b-2409",
+                                        messages=[
+                                            {
+                                                "role": "user",
+                                                "content": [
+                                                    {"type": "text", "text": "Extract all text, numbers, and data from this image. Format it clearly."},
+                                                    {"type": "image_url", "image_url": url}
+                                                ]
+                                            }
+                                        ]
+                                    )
+                                    
+                                vision_response = await asyncio.to_thread(transcribe_image, img_url)
+                                transcription = vision_response.choices[0].message.content
+                                attachment_info += f"--- Image Transcription ---\n{transcription}\n---------------------------\n"
+                            except Exception as e:
+                                attachment_info += f"[Failed to read image attachment: {e}]\n"
                     
                 output += f"Caprik by {msg.author.display_name} (Date: {msg.created_at.strftime('%Y-%m-%d')}):\n\"{msg.content}\"\n{verification_status}{attachment_info}\n\n"
                 found += 1
