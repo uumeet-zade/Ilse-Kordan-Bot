@@ -202,13 +202,19 @@ async def search_caprik(query: str, bot) -> str:
             
         output = f"Recent Capriks matching '{query}':\n\n"
         found = 0
-        query_lower = query.lower()
+        query_words = query.lower().split()
         
         async for msg in channel.history(limit=1500):
             msg_lower = msg.content.lower()
             author_lower = msg.author.display_name.lower()
             
-            if query_lower in msg_lower or query_lower in author_lower:
+            match = True
+            for word in query_words:
+                if word not in msg_lower and word not in author_lower:
+                    match = False
+                    break
+            
+            if match:
                 verification_status = ""
                 if '🔒' in msg.content or 'lock' in msg_lower:
                     verification_status = " [STATUS: UNVERIFIED/LOCKED (Treat as rumor/unofficial)]"
