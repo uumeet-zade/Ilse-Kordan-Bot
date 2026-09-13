@@ -204,7 +204,7 @@ async def search_caprik(query: str, bot) -> str:
         found = 0
         query_lower = query.lower()
         
-        async for msg in channel.history(limit=250):
+        async for msg in channel.history(limit=1500):
             msg_lower = msg.content.lower()
             author_lower = msg.author.display_name.lower()
             
@@ -217,10 +217,14 @@ async def search_caprik(query: str, bot) -> str:
                 else:
                     verification_status = " [STATUS: UNVERIFIED (Treat as rumor/unofficial)]"
                     
-                output += f"Caprik by {msg.author.display_name} (Date: {msg.created_at.strftime('%Y-%m-%d')}):\n\"{msg.content}\"\n{verification_status}\n\n"
+                attachment_info = ""
+                if msg.attachments:
+                    attachment_info = f"\n[NOTE: This Caprik contains {len(msg.attachments)} attachment(s) (likely images/polls) which you cannot read. Inform the user of this.]"
+                    
+                output += f"Caprik by {msg.author.display_name} (Date: {msg.created_at.strftime('%Y-%m-%d')}):\n\"{msg.content}\"\n{verification_status}{attachment_info}\n\n"
                 found += 1
                 
-                if found >= 10:
+                if found >= 15: # increased from 10 to 15 to provide more context
                     break
                     
         if found == 0:
