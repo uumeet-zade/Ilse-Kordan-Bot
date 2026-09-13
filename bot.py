@@ -210,6 +210,9 @@ async def on_message(message):
                 # Strip thoughts from the actual response sent to Discord
                 response = re.sub(r'<THOUGHT>.*?</[a-zA-Z]+>', '', response, flags=re.DOTALL | re.IGNORECASE).strip()
                 
+                # Forcefully remove larpy sign-offs that the LLM stubbornly generates
+                response = re.sub(r'(?i)(?:Now,?\s*)?if you\'?ll excuse me.*', '', response, flags=re.DOTALL).strip()
+                
                 try:
                     await message.remove_reaction("⏳", bot.user)
                 except:
@@ -415,6 +418,9 @@ async def think_command(interaction: discord.Interaction, query: str):
         global_latest_thought["thought"] = combined_thought.strip()
         
     response = re.sub(r'<THOUGHT>.*?</[a-zA-Z]+>', '', response, flags=re.DOTALL | re.IGNORECASE).strip()
+    
+    # Forcefully remove larpy sign-offs
+    response = re.sub(r'(?i)(?:Now,?\s*)?if you\'?ll excuse me.*', '', response, flags=re.DOTALL).strip()
     
     # Check security tags
     if "<BLOCK_USER>" in response:
