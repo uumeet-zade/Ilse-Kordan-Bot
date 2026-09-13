@@ -7,10 +7,10 @@
         "doc_link": null,
         "main_goal": "This bill seeks to limit the duration of a specific (unspecified) authorization to exactly one year from its passage, ensuring temporary and time-bound legislative or executive action.",
         "ilse_opinion": "**What Ilse Liked:** The bill promotes accountability and prevents indefinite extensions of state power, aligning with Ordoliberal principles of limited and transparent governance.\n\n**What Ilse Disliked:** The bill lacks clarity on what specific authorization it applies to, which could lead to ambiguity or unintended consequences in its implementation.",
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 16,
+        "votes_nay": 3,
+        "votes_abstain": 2,
+        "votes_absent": 12,
         "category": "Government & Nominations"
     },
     {
@@ -21,10 +21,10 @@
         "doc_link": null,
         "main_goal": "This bill seeks to authorize the Caprican military to engage in armed conflict against the state of Norwyn, granting the executive broad powers to conduct military operations.",
         "ilse_opinion": "**What Ilse Liked:** Nothing\n\n**What Ilse Disliked:** As a Social Democrat and Ordoliberal, I oppose unilateral military action without clear justification, multilateral consensus, or a defined legal framework. The bill lacks specificity on objectives, proportionality, and diplomatic alternatives, risking unnecessary escalation and economic strain on Caprica\u2019s working class. Military force should be a last resort, not a first response, and this bill appears to bypass democratic oversight and international law.",
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 11,
+        "votes_nay": 11,
+        "votes_abstain": 5,
+        "votes_absent": 6,
         "category": "Foreign Policy"
     },
     {
@@ -35,10 +35,10 @@
         "doc_link": "https://docs.google.com/document/d/1_F14yVp7FIqUt5rS3B1qnY7xTcLB6AlSbBkmnSpUm6Q",
         "main_goal": "This bill aims to establish a comprehensive legal framework to protect whales and marine biodiversity in Caprican territorial waters, prohibit whaling and trafficking of whale products, and strengthen international cooperation on marine conservation.",
         "ilse_opinion": "**What Ilse Liked:** I appreciate the bill's emphasis on environmental protection and the preservation of marine ecosystems, which aligns with Ordoliberal principles of sustainable resource management and long-term economic stability. The provisions for indigenous cultural practices and scientific research demonstrate a balanced approach to tradition and progress. Additionally, the focus on international cooperation reflects a responsible and collaborative stance in foreign policy.\n\n**What Ilse Disliked:** While the bill is well-intentioned, I have concerns about the potential economic impact on coastal communities that may rely on maritime industries. The strict penalties and broad prohibitions could disproportionately affect working-class fishermen without providing adequate alternative livelihoods or transitional support. Furthermore, the enforcement mechanisms may require significant bureaucratic expansion, which could lead to inefficiencies or overreach.",
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 23,
+        "votes_nay": 1,
+        "votes_abstain": 0,
+        "votes_absent": 9,
         "category": "Social Policy"
     },
     {
