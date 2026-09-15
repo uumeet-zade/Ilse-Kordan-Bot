@@ -426,6 +426,15 @@ async def analyze_command(interaction: discord.Interaction, query: str):
 
 @bot.tree.command(name="think", description="Run a deep analysis query using the flagship GLM-5-2 model.")
 async def think_command(interaction: discord.Interaction, query: str):
+    if is_banned(interaction.user.id):
+        await interaction.response.send_message("You are not authorized to use this bot.", ephemeral=True)
+        return
+        
+    guild_id = interaction.guild.id if interaction.guild else None
+    if guild_id != TEST_SERVER_ID and (guild_id != CAPRICA_SERVER_ID or interaction.channel_id not in ALLOWED_CAPRICA_CHANNELS):
+        await interaction.response.send_message("I am currently restricted from this channel.", ephemeral=True)
+        return
+
     if not is_owner_or_authorized(interaction.user):
         now = time.time()
         last_used = user_think_cooldowns.get(interaction.user.id, 0)
@@ -437,65 +446,78 @@ async def think_command(interaction: discord.Interaction, query: str):
 
     await interaction.response.defer()
     
-    print(f"[{time.strftime('%X')}] Received /think from {interaction.user.display_name}. Forcing glm-5-2.")
-    
-    chat_history = ""
-    async for msg in interaction.channel.history(limit=15):
-        chat_history = f"{msg.author.display_name} (Username: {msg.author.name}, ID: {msg.author.id}): {msg.content}\n" + chat_history
+    try:
+        print(f"[{time.strftime('%X')}] Received /think from {interaction.user.display_name}. Forcing glm-5-2.")
         
-    is_test = (interaction.guild.id == TEST_SERVER_ID) if interaction.guild else False
-    current_user_context = f"{interaction.user.display_name} (Username: {interaction.user.name}, ID: {interaction.user.id})"
-    
-    linked_context = await extract_linked_messages(query, bot)
-    
-    response = await generate_response(query, chat_history, is_test_server=is_test, current_user=current_user_context, image_data=None, force_model="glm-5-2", linked_messages_context=linked_context, discord_bot=bot)
-    
-    thoughts = re.findall(r'<THOUGHT>(.*?)</[a-zA-Z]+>', response, re.DOTALL | re.IGNORECASE)
-    combined_thought = ""
-    for thought in thoughts:
-        combined_thought += thought.strip() + "\n"
-        with open("thoughts.log", "a") as f:
-            f.write(f"[{time.strftime('%X')}] Response to {interaction.user.display_name}:\n{thought.strip()}\n\n")
+        chat_history = ""
+        async for msg in interaction.channel.history(limit=15):
+            chat_history = f"{msg.author.display_name} (Username: {msg.author.name}, ID: {msg.author.id}): {msg.content}\n" + chat_history
             
-    if combined_thought:
-        latest_thoughts[interaction.user.id] = combined_thought.strip()
-        global_latest_thought["user"] = interaction.user.display_name
-        global_latest_thought["thought"] = combined_thought.strip()
+        is_test = (interaction.guild.id == TEST_SERVER_ID) if interaction.guild else False
+        current_user_context = f"{interaction.user.display_name} (Username: {interaction.user.name}, ID: {interaction.user.id})"
         
-    response = re.sub(r'<THOUGHT>.*?</[a-zA-Z]+>', '', response, flags=re.DOTALL | re.IGNORECASE).strip()
-    
-    # Forcefully remove larpy sign-offs
-    response = re.sub(r'(?i)(?:Now,?\s*)?if you\'?ll excuse me.*', '', response, flags=re.DOTALL).strip()
-    
-    # Check security tags
-    if "<BLOCK_USER>" in response:
-        ban_user(interaction.user.id)
-        await interaction.followup.send(f"You have been permanently blocked for security reasons, {interaction.user.mention}.")
-        return
+        linked_context = await extract_linked_messages(query, bot)
         
-    if "<STRIKE_USER>" in response:
-        if not is_owner_or_authorized(interaction.user):
-            user_behavior_strikes[interaction.user.id] = user_behavior_strikes.get(interaction.user.id, 0) + 1
-            if user_behavior_strikes[interaction.user.id] >= 3:
-                ban_user(interaction.user.id)
-                await interaction.followup.send(f"You have been permanently banned for repeated infractions, {interaction.user.mention}.")
-                return
+        response = await generate_response(query, chat_history, is_test_server=is_test, current_user=current_user_context, image_data=None, force_model="glm-5-2", linked_messages_context=linked_context, discord_bot=bot)
+        
+        if response == "<API_EXHAUSTED>":
+            global api_exhausted_until
+            api_exhausted_until = time.time() + 60
+            await interaction.followup.send("*(Ilse enters a state of rest. I have run out of API tokens and will ignore all requests for the next minute while my quota refreshes.)*")
+            return
+            
+        thoughts = re.findall(r'<THOUGHT>(.*?)</[a-zA-Z]+>', response, re.DOTALL | re.IGNORECASE)
+        combined_thought = ""
+        for thought in thoughts:
+            combined_thought += thought.strip() + "\n"
+            with open("thoughts.log", "a") as f:
+                f.write(f"[{time.strftime('%X')}] Response to {interaction.user.display_name}:\n{thought.strip()}\n\n")
+                
+        if combined_thought:
+            latest_thoughts[interaction.user.id] = combined_thought.strip()
+            global_latest_thought["user"] = interaction.user.display_name
+            global_latest_thought["thought"] = combined_thought.strip()
+            
+        response = re.sub(r'<THOUGHT>.*?</[a-zA-Z]+>', '', response, flags=re.DOTALL | re.IGNORECASE).strip()
+        
+        # Forcefully remove larpy sign-offs
+        response = re.sub(r'(?i)(?:Now,?\s*)?if you\'?ll excuse me.*', '', response, flags=re.DOTALL).strip()
+        
+        # Check security tags
+        if "<BLOCK_USER>" in response:
+            ban_user(interaction.user.id)
+            await interaction.followup.send(f"You have been permanently blocked for security reasons, {interaction.user.mention}.")
+            return
+            
+        if "<STRIKE_USER>" in response:
+            if not is_owner_or_authorized(interaction.user):
+                user_behavior_strikes[interaction.user.id] = user_behavior_strikes.get(interaction.user.id, 0) + 1
+                if user_behavior_strikes[interaction.user.id] >= 3:
+                    ban_user(interaction.user.id)
+                    await interaction.followup.send(f"You have been permanently banned for repeated infractions, {interaction.user.mention}.")
+                    return
+                else:
+                    await interaction.followup.send(f"I will not tolerate slurs, inappropriate conduct, or flirting, {interaction.user.mention}. (Strike {user_behavior_strikes[interaction.user.id]}/3)")
+                    return
             else:
-                await interaction.followup.send(f"I will not tolerate slurs, inappropriate conduct, or flirting, {interaction.user.mention}. (Strike {user_behavior_strikes[interaction.user.id]}/3)")
-                return
+                response = response.replace("<STRIKE_USER>", "")
+        
+        if len(response) > 2000:
+            for i, chunk in enumerate([response[j:j+1900] for j in range(0, len(response), 1900)]):
+                if i == 0:
+                    await interaction.followup.send(chunk)
+                else:
+                    await interaction.channel.send(chunk)
         else:
-            response = response.replace("<STRIKE_USER>", "")
-    
-    if len(response) > 2000:
-        for i, chunk in enumerate([response[j:j+1900] for j in range(0, len(response), 1900)]):
-            if i == 0:
-                await interaction.followup.send(chunk)
-            else:
-                await interaction.channel.send(chunk)
-    else:
-        await interaction.followup.send(response)
-        
-    print(f"[{time.strftime('%X')}] /think response to {interaction.user.name} completed.")
+            await interaction.followup.send(response)
+            
+        print(f"[{time.strftime('%X')}] /think response to {interaction.user.name} completed.")
+    except Exception as e:
+        print(f"Error in /think command: {e}")
+        try:
+            await interaction.followup.send(f"An internal error occurred: {e}", ephemeral=True)
+        except:
+            pass
 
 @bot.tree.command(name="analyze_pending_bills", description="[OWNER ONLY] Manually trigger analysis of all bills with pending analysis.")
 async def analyze_pending_command(interaction: discord.Interaction):
