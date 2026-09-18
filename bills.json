@@ -1,5 +1,19 @@
 [
     {
+        "id": 706,
+        "title": "Prisoner's rights Act",
+        "date": "2026-09-18",
+        "proposer": "nikderprager (ID: 773197858970271744)",
+        "doc_link": "https://docs.google.com/document/d/1DhqxwksIkptm9UGoJ9JTfwKBGY5XHkgrtXga06fGpDo",
+        "main_goal": "This bill seeks to establish and enshrine a comprehensive set of rights for prisoners in Caprica, ensuring humane treatment, access to healthcare, rehabilitation, and the protection of fundamental liberties such as voting and self-determination.",
+        "ilse_opinion": "**What Ilse Liked:** I strongly support the emphasis on rehabilitation and education for prisoners, as well as the focus on medical and mental healthcare. These measures align with Ordoliberal principles of social responsibility and the belief that a fair and just society must provide opportunities for reintegration. The prohibition of degrading treatment and the right to self-determination also reflect a commitment to human dignity, which is essential for a working-class ideology.\n\n**What Ilse Disliked:** While I support the abolition of the death penalty, I am concerned about the potential lack of clarity in the provision allowing lethal force by guards 'unless absolutely necessary.' This could be subject to abuse or misinterpretation. Additionally, the right to vote for prisoners, while symbolically important, may require further debate to ensure it does not undermine the integrity of the electoral process, particularly given Caprica's historical struggles with democratic legitimacy.",
+        "votes_yay": null,
+        "votes_nay": null,
+        "votes_abstain": null,
+        "votes_absent": null,
+        "category": "Security & Justice"
+    },
+    {
         "id": 705,
         "title": "Kuliga defense collaboration package",
         "date": "2026-09-18",
