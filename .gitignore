@@ -1,19 +1,34 @@
 # Secrets
-.env
-secret.key
-client_secret.json
-token.json
-google_credentials.json
+config/.env
+config/client_secret.json
+config/token.json
+config/google_credentials.json
 
 # Databases
-*.db
-*.sqlite3
-memory.db
+data/*.db
+data/*.sqlite3
+data/memory.db*
+data/ilse.db
 
 # Logs
 *.log
+data/thoughts.log
 
-# Python
+# AI Files (Ignore)
+data/active_dms.json
+data/blacklist.json
+data/caprica_lore.md
+data/bills_opinions.md
+data/ilse_opinions.md
+data/disabled_models.json
+data/mistral.md
+data/scratch_brain.txt
+web/dashboard.html
+
+# Scripts & Source Code
+src/*.py
+scripts/*.sh
+scripts/*.py
 __pycache__/
 *.py[cod]
 *$py.class
@@ -26,25 +41,10 @@ env/
 .idea/
 .DS_Store
 
-# Hide Ilse bot files
-*.py
-*.sh
-blacklist.json
-status.json
-disabled_models.json
-ilse_opinions.md
-bills.md
-bills_opinions.md
-scratch_brain.txt
-
-# Don't ignore static assets and our data file!
-!bills.json
-!status.json
-!static/
-!templates/
-
-# Mistral Vibe analysis file
-mistral.md
-
-# Web Dashboard
-dashboard.html
+# Explicitly DO NOT ignore these crucial files for GitHub Pages
+!data/bills.json
+!data/status.json
+!data/bills.md
+!index.html
+!bill.html
+!style.css
