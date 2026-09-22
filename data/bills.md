@@ -1,5 +1,14 @@
 # Caprica Proposed Bills (Sorted by Date)
 
+## Norwynian Refugee Act
+**Date:** 2026-09-22
+**Proposer:** lubangiv (ID: 1363223655596691789)
+**Document:** https://docs.google.com/document/d/1lGzq6mVdXVgFPH-LwEUPARrUCrOHnWkX923CiQeDzmc
+
+**Main Goal:** This bill seeks to establish a structured and regulated system for the admission, integration, and support of up to 100,000 Norwynian refugees annually, while ensuring their self-sufficiency and alignment with Caprica's labor and regional needs.
+
+---
+
 ## Nominate Kosta Piastri as Speaker of the Parliament
 **Date:** 2026-09-22
 **Proposer:** kpokemon (ID: 469079188138360832)
