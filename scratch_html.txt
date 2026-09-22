@@ -1,0 +1,170 @@
+<div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><table style="border: 2px solid #0066d4; border-left: 12px solid #0066d4; margin: 1px 0% 0px; background-color: #c2dbff; vertical-align: middle; color:#404040, box-shadow: 0px black;">
+<tbody><tr>
+<td style="padding: 2px 0 2px 0.5em"><span typeof="mw:File"><a href="/wiki/File:Oxygen480-actions-irc-voice.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Oxygen480-actions-irc-voice.svg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=original" decoding="async" loading="lazy" width="55" height="55" class="mw-file-element" /></a></span>
+</td>
+<td style="padding: 0.25em 0.5em; width: 100%;"><big><b>MANDATORY: Make sure you're logged in before you make edits - otherwise, your IP will be made public.</b></big>
+<p><b>Here's a list of all pages: <a href="/wiki/Special:AllPages" title="Special:AllPages"><i><u>All Pages</u></i></a></b>
+</p><p><b>Here's a list of all files: <a href="/wiki/Special:ListFiles" title="Special:ListFiles"><i><u>List of Files</u></i></a></b>
+</p><p><b>Here's a list of recent edits: <a href="/wiki/Special:RecentChanges" title="Special:RecentChanges"><i><u>Recent Changes</u></i></a></b>
+</p><p><b>Here's where you can upload files: <i><u><a href="/wiki/Special:Upload" title="Special:Upload">Upload a File</a></u></i></b>
+</p>
+</td></tr></tbody></table>
+<table style="width:100%; border:none; text-align:center; border-collapse:collapse;">
+
+<tbody><tr>
+<th colspan="3" style="font-size:180%; font-weight:bold; padding:3px;">
+<p>Today in <a href="/wiki/Caprica" title="Caprica">Caprica</a>
+</p>
+</th></tr>
+<tr>
+<td colspan="3" style="font-size:110%; padding:2px;"><b>Today is:</b> <i>June 4, 2069</i>
+</td></tr>
+<tr>
+<td style="width:33%; vertical-align:top;">
+<div style="border:1px solid #c8ccd1; background:#f8f9fa; padding:10px;">
+<div style="font-size:120%; font-weight:bold;">
+<p><a href="/wiki/President_of_Caprica" title="President of Caprica">13th President</a>
+</p>
+</div>
+<p><b><a href="/wiki/Mandy_Trottier" title="Mandy Trottier">Mandy Trottier</a></b><br /><i><a href="/wiki/Alternative_Labour_Party" class="mw-redirect" title="Alternative Labour Party"><span style="color: #BF2519;"><i>Alternative Labor</i></span></a></i><br /><span typeof="mw:File/Frameless"><a href="/wiki/File:Angrymandy.png" class="mw-file-description"><img src="//static.wikitide.net/capricawiki/thumb/a/a8/Angrymandy.png/155px-Angrymandy.png" decoding="async" loading="lazy" width="155" height="200" class="mw-file-element" srcset="//static.wikitide.net/capricawiki/thumb/a/a8/Angrymandy.png/233px-Angrymandy.png 1.5x, //static.wikitide.net/capricawiki/a/a8/Angrymandy.png 2x" /></a></span>
+</p>
+<hr />
+<div style="font-size:120%; font-weight:bold;">
+<p><a href="/wiki/Vice_President_of_Caprica" title="Vice President of Caprica">15th Vice President</a>
+</p>
+</div>
+<b><a href="/wiki/Adriana_Flash" title="Adriana Flash">Adriana Flash</a></b><br /><i><a href="/wiki/Democratic_Greens_of_Caprica" title="Democratic Greens of Caprica"><span style="color: #0d8f3d;"><i>Democratic Green</i></span></a></i><figure class="mw-halign-center" typeof="mw:File/Frameless"><a href="/wiki/File:Adrianaflashportrait2068cropped.jpeg" class="mw-file-description"><img src="//static.wikitide.net/capricawiki/thumb/e/ea/Adrianaflashportrait2068cropped.jpeg/200px-Adrianaflashportrait2068cropped.jpeg" decoding="async" loading="lazy" width="200" height="200" class="mw-file-element" srcset="//static.wikitide.net/capricawiki/thumb/e/ea/Adrianaflashportrait2068cropped.jpeg/300px-Adrianaflashportrait2068cropped.jpeg 1.5x, //static.wikitide.net/capricawiki/thumb/e/ea/Adrianaflashportrait2068cropped.jpeg/400px-Adrianaflashportrait2068cropped.jpeg 2x" /></a><figcaption></figcaption></figure>
+</div>
+</td>
+<td style="width:34%; vertical-align:top;">
+<div style="border:1px solid #c8ccd1; background:#ffffff; padding:10px;">
+<div style="font-size:120%; font-weight:bold;">
+<p><a href="/wiki/Speaker_of_the_Parliament_of_Caprica" title="Speaker of the Parliament of Caprica">3rd Speaker of Parliament</a>
+</p>
+</div>
+<p><b><a href="/wiki/Paul_Otrione" title="Paul Otrione">Kosta Piastri</a></b><br /><i><a href="/wiki/Alternative_Labour_Party" class="mw-redirect" title="Alternative Labour Party"><span style="color: #BF2519;"><i>Alternative Labour</i></span></a></i><br />  
+<span typeof="mw:File"><a href="/wiki/File:KostaPiastriPortraitCrop.png" class="mw-file-description"><img src="//static.wikitide.net/capricawiki/thumb/e/e7/KostaPiastriPortraitCrop.png/199px-KostaPiastriPortraitCrop.png" decoding="async" loading="lazy" width="199" height="199" class="mw-file-element" srcset="//static.wikitide.net/capricawiki/thumb/e/e7/KostaPiastriPortraitCrop.png/299px-KostaPiastriPortraitCrop.png 1.5x, //static.wikitide.net/capricawiki/thumb/e/e7/KostaPiastriPortraitCrop.png/398px-KostaPiastriPortraitCrop.png 2x" /></a></span>
+</p>
+<hr />
+<div style="font-weight:bold;">
+<p><a href="/wiki/Parliament_of_Caprica" title="Parliament of Caprica">House</a>
+</p>
+</div>
+<p><span typeof="mw:File/Frameless"><a href="/wiki/File:19th_parliament.svg" class="mw-file-description"><img src="//static.wikitide.net/capricawiki/e/e5/19th_parliament.svg" decoding="async" loading="lazy" width="193" height="99" class="mw-file-element" /></a></span>
+</p>
+<hr />
+<div style="font-size:85%; text-align:left;">
+<p><b>Government (19)</b>
+</p>
+<ul><li><style data-mw-deduplicate="TemplateStyles:r750">.mw-parser-output .legend{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .legend-color{display:inline-block;min-width:1.25em;height:1.25em;line-height:1.25;margin:1px 0;text-align:center;border:1px solid black;background-color:transparent;color:black}.mw-parser-output .legend-text{}</style><span class="legend-color" style="background-color:#D7003A; color:white;">&#160;</span> <a href="/wiki/Social_Democratic_Alliance" title="Social Democratic Alliance">Social Democratic</a> (7)</li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r750" /><span class="legend-color" style="background-color:#0D8F3D; color:black;">&#160;</span> <a href="/wiki/Democratic_Greens_of_Caprica" title="Democratic Greens of Caprica">Democratic Greens of Caprica</a> (5)</li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r750" /><span class="legend-color" style="background-color:#BF2519; color:white;">&#160;</span> <a href="/wiki/Alternative_Labor_Party" title="Alternative Labor Party">Alt. Labour</a>  (4)</li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r750" /><span class="legend-color" style="background-color:#D48C52; color:black;">&#160;</span> <a href="/wiki/Avenir_Caprica" title="Avenir Caprica">Rejuvenation</a> (2)</li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r750" /><span class="legend-color" style="background-color:#FFCA81; color:black;">&#160;</span> <a href="/wiki/Caprica_Unity" title="Caprica Unity">Kalahooska National</a> (1)</li></ul>
+<p><b>Opposition (14)</b>
+</p>
+<ul><li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r750" /><span class="legend-color" style="background-color:#1800AD; color:white;">&#160;</span> <a href="/wiki/People%27s_Party" title="People&#39;s Party">People's</a> (4)</li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r750" /><span class="legend-color" style="background-color:#125422; color:white;">&#160;</span> <a href="/wiki/Avenir_Caprica" title="Avenir Caprica">Avenir</a> (3)</li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r750" /><span class="legend-color" style="background-color:#0F2AF7; color:white;">&#160;</span> <a href="/wiki/Rejuvenation" class="mw-redirect" title="Rejuvenation">Moderate Reform</a> (3)</li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r750" /><span class="legend-color" style="background-color:#657FD4; color:black;">&#160;</span> <a href="/wiki/Democratic_Greens_of_Caprica" title="Democratic Greens of Caprica">New Progressive</a> (2)</li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r750" /><span class="legend-color" style="background-color:#B5085B; color:white;">&#160;</span> <a href="/wiki/Caprica_Unity" title="Caprica Unity">Caprica Unity</a> (1)</li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r750" /><span class="legend-color" style="background-color:#DDDDBB; color:black;">&#160;</span> <a href="/wiki/Caprica_Unity" title="Caprica Unity">Independent</a> (1)</li></ul></div>
+</div>
+</td>
+<td style="width:33%; vertical-align:top;"><div style="border:1px solid #c8ccd1; background:#f8f9fa; padding:10px;">
+<div style="font-size:120%; font-weight:bold;">
+<p><a href="/wiki/Prime_Minister_of_Caprica" title="Prime Minister of Caprica">20th Prime Minister</a>
+</p>
+</div>
+<p><b><a href="/wiki/Safiya_Bethune-Fayyad" title="Safiya Bethune-Fayyad">Safiya Bethune-Fayyad</a></b><br /><i><a href="/wiki/Social_Democratic_Alliance" title="Social Democratic Alliance"><span style="color: #D7003A;"><i>Social Democratic</i></span></a></i><br />  
+<span typeof="mw:File"><a href="/wiki/File:SafiyaBethuneFayyad.png" class="mw-file-description"><img src="//static.wikitide.net/capricawiki/thumb/5/57/SafiyaBethuneFayyad.png/199px-SafiyaBethuneFayyad.png" decoding="async" loading="lazy" width="199" height="199" class="mw-file-element" srcset="//static.wikitide.net/capricawiki/thumb/5/57/SafiyaBethuneFayyad.png/299px-SafiyaBethuneFayyad.png 1.5x, //static.wikitide.net/capricawiki/thumb/5/57/SafiyaBethuneFayyad.png/398px-SafiyaBethuneFayyad.png 2x" /></a></span>
+</p>
+<hr />
+<div style="font-size:120%; font-weight:bold;">
+<p><a href="/wiki/Deputy_Prime_Minister" class="mw-redirect" title="Deputy Prime Minister">16th Deputy Prime Minister</a>
+</p>
+</div>
+<p><b><a href="/wiki/Kosta_Piastri" title="Kosta Piastri">Kosta Piastri</a></b><br /><i><a href="/wiki/Alternative_Labour_Party" class="mw-redirect" title="Alternative Labour Party"><span style="color: #BF2519;"><i>Alternative Labour</i></span></a></i><br />
+<span typeof="mw:File"><a href="/wiki/File:KostaPiastriPortraitCrop.png" class="mw-file-description"><img src="//static.wikitide.net/capricawiki/thumb/e/e7/KostaPiastriPortraitCrop.png/200px-KostaPiastriPortraitCrop.png" decoding="async" loading="lazy" width="200" height="200" class="mw-file-element" srcset="//static.wikitide.net/capricawiki/thumb/e/e7/KostaPiastriPortraitCrop.png/300px-KostaPiastriPortraitCrop.png 1.5x, //static.wikitide.net/capricawiki/thumb/e/e7/KostaPiastriPortraitCrop.png/400px-KostaPiastriPortraitCrop.png 2x" /></a></span>
+</p>
+</div>
+</td></tr></tbody></table>
+<div class="mw-heading mw-heading2"><h2 id="Politics_and_Elections">Politics and Elections</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Main_Page?veaction=edit&amp;section=1" title="Edit section: Politics and Elections" class="mw-editsection-visualeditor" rel="nofollow"><span>edit</span></a><span class="mw-editsection-divider"> | </span><a href="/wiki/Main_Page?action=edit&amp;section=1" title="Edit section&#039;s source code: Politics and Elections" rel="nofollow"><span>edit source</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<table style="width:100%; border:none;">
+
+
+<tbody><tr>
+<td style="width:55%; vertical-align:top;">
+<div style="border:1px solid #c8ccd1; background:#f8f9fa; padding:10px;">
+<div style="font-size:120%; font-weight:bold;">
+<p>Recent national elections
+</p>
+</div>
+<hr />
+<p><b><a href="/wiki/2068_Caprican_presidential_election" title="2068 Caprican presidential election">2068 Caprican presidential election</a></b>
+</p><p>The <b>2068 Caprican presidential election</b> was held on 5 December 2068, to elect the <a href="/wiki/President_of_Caprica" title="President of Caprica">President</a> of the <a href="/wiki/Caprica" title="Caprica">Second Republic of Caprica</a>.
+</p>
+<hr />
+<p><b><a href="/wiki/2068_Caprican_House_election" title="2068 Caprican House election">2068 Caprican House election</a></b>
+</p><p>The <b>2068 Caprican parliamentary election</b> was held on 5 December 2068, to elect the 20th <a href="/wiki/Parliament_of_Caprica" title="Parliament of Caprica">House</a> of the <a href="/wiki/Caprica" title="Caprica">Second Republic of Caprica</a>. All 33 seats in the House were up for election.
+</p>
+<hr /><b><a href="/wiki/2054_Caprican_Senate_election" title="2054 Caprican Senate election">2054 Caprican Senate election</a></b>
+<p>The <b>2054 Caprican senate election</b> was held on 9 November 2054, to elect the 4th <a href="/wiki/Senate_of_Caprica" title="Senate of Caprica">Senate</a> of the <a href="/wiki/Caprica" title="Caprica">Second Republic of Caprica</a>.
+</p>
+</div>
+</td>
+<td style="width:45%; vertical-align:top;">
+<div style="border:1px solid #cedff2; background:#f5faff; padding:10px;">
+<div style="font-size:120%; font-weight:bold;">
+<p>Caprican Politics
+</p>
+</div>
+<hr />
+<p><b>Political system</b>
+</p>
+<ul><li><a href="/wiki/Political_parties_of_Caprica" title="Political parties of Caprica">Political parties of Caprica</a></li>
+<li><a href="/wiki/List_of_members_of_the_Parliament_of_Caprica" title="List of members of the Parliament of Caprica">List of current MPs</a></li></ul>
+<hr />
+<p><b>Legislative Branch</b>
+</p>
+<ul><li><a href="/wiki/Prime_Minister_of_Caprica" title="Prime Minister of Caprica">Prime Minister of Caprica</a></li>
+<li><a href="/wiki/Deputy_Prime_Minister_of_Caprica" title="Deputy Prime Minister of Caprica">Deputy Prime Minister of Caprica</a></li>
+<li><a href="/wiki/Bethune_government" title="Bethune government">Bethune government</a> (<i>current government)</i></li></ul>
+<hr />
+<p><b>Executive Branch</b>
+</p>
+<ul><li><a href="/wiki/President_of_Caprica" title="President of Caprica">President of Caprica</a></li>
+<li><a href="/wiki/Vice_President_of_Caprica" title="Vice President of Caprica">Vice President of Caprica</a></li></ul>
+</div>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw202
+Cached time: 20260922231806
+Cache expiry: 1296000
+Reduced expiry: false
+Complications: [no‐toc]
+CPU time usage: 0.221 seconds
+Real time usage: 0.555 seconds
+Preprocessor visited node count: 540/1000000
+Revision size: 5294/2097152 bytes
+Post‐expand include size: 4906/2097152 bytes
+Template argument size: 682/2097152 bytes
+Highest expansion depth: 7/100
+Expensive parser function count: 0/99
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 4433/5000000 bytes
+Lua time usage: 0.021/10.000 seconds
+Lua memory usage: 985364/52428800 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   61.882      1 -total
+ 86.25%   53.372     11 Template:Color_box
+ 45.40%   28.092     11 Template:Greater_color_contrast_ratio
+ 10.82%    6.698      5 Template:Font_color
+-->
+
+<!-- Saved in parser cache with key capricawiki:pcache:1:|#|:idhash:canonical and timestamp 20260922231806 and revision id 17753. Rendering was triggered because: page_view
+ -->
+</div>
