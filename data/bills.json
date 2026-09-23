@@ -1,5 +1,19 @@
 [
     {
+        "id": 714,
+        "title": "Amendment to Public Response Agency Act of 2069. Add the following: Nothing in this Act shall derogate from the National Police Standard Act. All PRA law-enforcement bodies, including the POC, POIS, CRS-P, dispatch policing personnel, and any successor unit, shall remain subject to its arrest, search, detention, use-of-force, transparency, anti-cronyism, data, and independent civilian oversight requirements.",
+        "date": "2026-09-23",
+        "proposer": "lubangiv (ID: 1363223655596691789)",
+        "doc_link": null,
+        "main_goal": "This bill seeks to reinforce the application of the National Police Standard Act to all law-enforcement bodies under the Public Response Agency, ensuring consistent legal and procedural safeguards across policing units.",
+        "ilse_opinion": "**What Ilse Liked:** The bill upholds strong, independent civilian oversight and transparency requirements, which align with Ordoliberal principles of rule of law and accountability in state institutions. It also prevents cronyism, a key concern for working-class representation and fair governance.\n\n**What Ilse Disliked:** Nothing",
+        "votes_yay": null,
+        "votes_nay": null,
+        "votes_abstain": null,
+        "votes_absent": null,
+        "category": "Security & Justice"
+    },
+    {
         "id": 713,
         "title": "Public Response Agency Act of 2069",
         "date": "2026-09-23",
@@ -98,6 +112,20 @@
         "category": "Government & Nominations"
     },
     {
+        "id": 715,
+        "title": "To amend the Prisoner's rights Act",
+        "date": "2026-09-18",
+        "proposer": "nikderprager (ID: 773197858970271744)",
+        "doc_link": "https://docs.google.com/document/d/1DhqxwksIkptm9UGoJ9JTfwKBGY5XHkgrtXga06fGpDo",
+        "main_goal": "This bill seeks to codify and expand the rights of prisoners in Caprica, ensuring humane treatment, access to healthcare, rehabilitation, and the preservation of certain civil rights such as voting and self-identity.",
+        "ilse_opinion": "**What Ilse Liked:** I appreciate the emphasis on rehabilitation and education for prisoners, as well as the focus on humane treatment, medical care, and the abolition of the death penalty. These align with Ordoliberal principles of social justice and the belief in the dignity of all individuals, including those incarcerated. The inclusion of reintegration programs and vocational training reflects a commitment to reducing recidivism and supporting working-class reentry into society.\n\n**What Ilse Disliked:** While the bill has many positive aspects, I am concerned about the potential lack of clarity in the enforcement mechanisms for these rights. Additionally, the right to vote for prisoners, while ideologically appealing, may face practical challenges in implementation and could be contentious among the public. The bill also does not address systemic issues in the justice system, such as over-policing of marginalized communities or the economic disparities that contribute to crime.",
+        "votes_yay": 13,
+        "votes_nay": 3,
+        "votes_abstain": 2,
+        "votes_absent": 17,
+        "category": "Security & Justice"
+    },
+    {
         "id": 706,
         "title": "Prisoner's rights Act",
         "date": "2026-09-18",
@@ -152,6 +180,20 @@
         "votes_abstain": 2,
         "votes_absent": 12,
         "category": "Government & Nominations"
+    },
+    {
+        "id": 716,
+        "title": "Adopt the Whale Protection and Anti-Trafficking Act, 2067 by Paul Otrione",
+        "date": "2026-09-11",
+        "proposer": "nikderprager (ID: 773197858970271744)",
+        "doc_link": "https://docs.google.com/document/d/1_F14yVp7FIqUt5rS3B1qnY7xTcLB6AlSbBkmnSpUm6Q",
+        "main_goal": "This bill seeks to establish a comprehensive legal framework to protect whales and marine biodiversity in Caprican territorial waters, prohibit whaling and trafficking of whale products, and strengthen international cooperation on marine conservation.",
+        "ilse_opinion": "**What Ilse Liked:** The bill aligns with Ordoliberal principles of responsible stewardship of natural resources and long-term sustainability. It balances economic interests with ecological preservation, ensures fair enforcement, and includes provisions for indigenous cultural practices, reflecting a pragmatic and inclusive approach. The emphasis on international cooperation and scientific research also resonates with Caprica\u2019s historical commitment to multilateralism and evidence-based policy.\n\n**What Ilse Disliked:** The penalties for violations, while necessary, may disproportionately affect working-class fishermen or small-scale operators who might inadvertently violate the law. Additionally, the bill could benefit from clearer provisions to support affected communities in transitioning away from whaling-dependent livelihoods, ensuring no one is left behind in the shift toward conservation.",
+        "votes_yay": 23,
+        "votes_nay": 1,
+        "votes_abstain": 0,
+        "votes_absent": 11,
+        "category": "Social Policy"
     },
     {
         "id": 702,

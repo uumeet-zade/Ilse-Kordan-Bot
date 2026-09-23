@@ -1,15 +1,24 @@
 # Caprica Proposed Bills (Sorted by Date)
 
-## [Public Response Agency Act of 2069]
+## Amendment to Public Response Agency Act of 2069. Add the following: Nothing in this Act shall derogate from the National Police Standard Act. All PRA law-enforcement bodies, including the POC, POIS, CRS-P, dispatch policing personnel, and any successor unit, shall remain subject to its arrest, search, detention, use-of-force, transparency, anti-cronyism, data, and independent civilian oversight requirements.
+**Date:** 2026-09-23
+**Proposer:** lubangiv (ID: 1363223655596691789)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to reinforce the application of the National Police Standard Act to all law-enforcement bodies under the Public Response Agency, ensuring consistent legal and procedural safeguards across policing units.
+
+---
+
+## Public Response Agency Act of 2069
 **Date:** 2026-09-23
 **Proposer:** lynism. (ID: 610453628657860654)
-**Document:** No Link
+**Document:** https://docs.google.com/document/d/1HXM9yvarH3Ku5KiXB8BumI76Jb_tvPAvbaMydtxXnMw/edit?tab=t.0
 
 **Main Goal:** This bill seeks to establish a centralized Public Response Agency tasked with coordinating emergency services, disaster relief, and public safety responses across Caprica to improve efficiency and accountability in crisis management.
 
 ---
 
-## NGESAA
+## Repeal the NGESAA
 **Date:** 2026-09-23
 **Proposer:** umeet (ID: 853004086286745640)
 **Document:** https://docs.google.com/document/d/1NG7WNt2Gw9J-vGAOIio0puWghYCVViVJqYTTZKKPSSY
@@ -63,6 +72,15 @@
 
 ---
 
+## To amend the Prisoner's rights Act
+**Date:** 2026-09-18
+**Proposer:** nikderprager (ID: 773197858970271744)
+**Document:** https://docs.google.com/document/d/1DhqxwksIkptm9UGoJ9JTfwKBGY5XHkgrtXga06fGpDo
+
+**Main Goal:** This bill seeks to codify and expand the rights of prisoners in Caprica, ensuring humane treatment, access to healthcare, rehabilitation, and the preservation of certain civil rights such as voting and self-identity.
+
+---
+
 ## Prisoner's rights Act
 **Date:** 2026-09-18
 **Proposer:** nikderprager (ID: 773197858970271744)
@@ -96,6 +114,15 @@
 **Document:** No Link
 
 **Main Goal:** This bill seeks to limit the duration of a specific (unspecified) authorization to exactly one year from its passage, ensuring temporary and time-bound legislative or executive action.
+
+---
+
+## Adopt the Whale Protection and Anti-Trafficking Act, 2067 by Paul Otrione
+**Date:** 2026-09-11
+**Proposer:** nikderprager (ID: 773197858970271744)
+**Document:** https://docs.google.com/document/d/1_F14yVp7FIqUt5rS3B1qnY7xTcLB6AlSbBkmnSpUm6Q
+
+**Main Goal:** This bill seeks to establish a comprehensive legal framework to protect whales and marine biodiversity in Caprican territorial waters, prohibit whaling and trafficking of whale products, and strengthen international cooperation on marine conservation.
 
 ---
 
