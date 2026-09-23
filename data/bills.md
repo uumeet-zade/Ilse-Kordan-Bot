@@ -1,5 +1,23 @@
 # Caprica Proposed Bills (Sorted by Date)
 
+## ADOPT HARPS SEALS AS THE NATIONAL ANIMAL OF CAPRICA
+**Date:** 2026-09-23
+**Proposer:** umeet (ID: 853004086286745640)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to officially designate the harp seal as the national animal of Caprica, symbolizing national identity and cultural heritage.
+
+---
+
+## amendment to Comprehensive Workers Protection Act
+**Date:** 2026-09-23
+**Proposer:** lubangiv (ID: 1363223655596691789)
+**Document:** https://docs.google.com/document/d/14Ufbl-kXx8RCKrXDjayh9lbP7wJGRtTsFuR5TdBKmSg
+
+**Main Goal:** This bill seeks to amend the Comprehensive Workers Protection Act by reducing fines for employer violations, redefining union-security agreements, clarifying the status of non-standard workers (e.g., gig/platform workers), and establishing a National Employment Matching Agency (NEMA) to facilitate temporary job placements.
+
+---
+
 ## Small and Medium Enterprise Relief Act Authored by Christian Lindner
 **Date:** 2026-09-23
 **Proposer:** umeet (ID: 853004086286745640)
