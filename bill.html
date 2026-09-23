@@ -92,7 +92,7 @@
             try {
 
                 
-                const response = await fetch('data/bills.json');
+                const response = await fetch(`data/bills.json?t=${new Date().getTime()}`);
                 const bills = await response.json();
                 
                 const bill = bills.find(b => b.id === billId);
