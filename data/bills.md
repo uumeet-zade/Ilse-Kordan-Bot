@@ -1,5 +1,14 @@
 # Caprica Proposed Bills (Sorted by Date)
 
+## Comprehensive Workers Protection Act, 2069 Authored by William Smith
+**Date:** 2026-09-23
+**Proposer:** umeet (ID: 853004086286745640)
+**Document:** https://docs.google.com/document/d/13LLml96Zwa6sV5WFjnKOswmKSHFEOn6D2mHTAsYVtGM
+
+**Main Goal:** This bill seeks to overhaul Caprica's labor laws by consolidating worker protections, democratizing workplace governance, and ensuring dignity, security, and collective ownership rights for all workers across sectors.
+
+---
+
 ## Amendment to Public Response Agency Act of 2069. Add the following: Nothing in this Act shall derogate from the National Police Standard Act. All PRA law-enforcement bodies, including the POC, POIS, CRS-P, dispatch policing personnel, and any successor unit, shall remain subject to its arrest, search, detention, use-of-force, transparency, anti-cronyism, data, and independent civilian oversight requirements.
 **Date:** 2026-09-23
 **Proposer:** lubangiv (ID: 1363223655596691789)
