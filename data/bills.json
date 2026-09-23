@@ -1,5 +1,33 @@
 [
     {
+        "id": 711,
+        "title": "Confirm Dr. Alina Hachen Charliennes as director of the Caprican Office of Intelligence (COIN)",
+        "date": "2026-09-23",
+        "proposer": "umeet (ID: 853004086286745640)",
+        "doc_link": null,
+        "main_goal": "To formally appoint Dr. Alina Hachen Charliennes as the director of the Caprican Office of Intelligence (COIN), ensuring leadership continuity in national security and intelligence operations.",
+        "ilse_opinion": "**What Ilse Liked:** The appointment of a qualified individual to a critical role in national security aligns with the need for competent, nonpartisan governance, especially after the instability of the Diana regime. Ensuring COIN operates effectively is vital for protecting Caprica\u2019s sovereignty and democratic institutions.\n\n**What Ilse Disliked:** While the appointment itself is necessary, I am concerned about the lack of transparency in the selection process for such a sensitive position. Given COIN\u2019s history\u2014particularly its role in dismantling Kadenism and communism\u2014there must be clear accountability to prevent overreach or abuse of power.",
+        "votes_yay": null,
+        "votes_nay": null,
+        "votes_abstain": null,
+        "votes_absent": null,
+        "category": "Government & Nominations"
+    },
+    {
+        "id": 710,
+        "title": "Confirm Stephen Alan Bratanovic as the director of the Caprican Interregional Violent Crime and Investigative Commission (CIVIC)",
+        "date": "2026-09-23",
+        "proposer": "umeet (ID: 853004086286745640)",
+        "doc_link": null,
+        "main_goal": "To formally appoint Stephen Alan Bratanovic as the director of CIVIC, ensuring leadership continuity and operational stability in Caprica's interregional law enforcement agency.",
+        "ilse_opinion": "**What Ilse Liked:** The need for a stable and competent leadership in law enforcement to maintain public safety and uphold the rule of law aligns with my Ordoliberal principles of strong institutional frameworks.\n\n**What Ilse Disliked:** Nothing, provided Bratanovic's record demonstrates a commitment to fairness, accountability, and non-partisan enforcement of justice without overreach into civil liberties.",
+        "votes_yay": null,
+        "votes_nay": null,
+        "votes_abstain": null,
+        "votes_absent": null,
+        "category": "Government & Nominations"
+    },
+    {
         "id": 709,
         "title": "Norwynian Refugee Act",
         "date": "2026-09-22",

@@ -1,5 +1,23 @@
 # Caprica Proposed Bills (Sorted by Date)
 
+## Confirm Dr. Alina Hachen Charliennes as director of the Caprican Office of Intelligence (COIN)
+**Date:** 2026-09-23
+**Proposer:** umeet (ID: 853004086286745640)
+**Document:** No Link
+
+**Main Goal:** To formally appoint Dr. Alina Hachen Charliennes as the director of the Caprican Office of Intelligence (COIN), ensuring leadership continuity in national security and intelligence operations.
+
+---
+
+## Confirm Stephen Alan Bratanovic as the director of the Caprican Interregional Violent Crime and Investigative Commission (CIVIC)
+**Date:** 2026-09-23
+**Proposer:** umeet (ID: 853004086286745640)
+**Document:** No Link
+
+**Main Goal:** To formally appoint Stephen Alan Bratanovic as the director of CIVIC, ensuring leadership continuity and operational stability in Caprica's interregional law enforcement agency.
+
+---
+
 ## Norwynian Refugee Act
 **Date:** 2026-09-22
 **Proposer:** lubangiv (ID: 1363223655596691789)
