@@ -1,5 +1,14 @@
 # Caprica Proposed Bills (Sorted by Date)
 
+## [Public Response Agency Act of 2069]
+**Date:** 2026-09-23
+**Proposer:** lynism. (ID: 610453628657860654)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to establish a centralized Public Response Agency tasked with coordinating emergency services, disaster relief, and public safety responses across Caprica to improve efficiency and accountability in crisis management.
+
+---
+
 ## NGESAA
 **Date:** 2026-09-23
 **Proposer:** umeet (ID: 853004086286745640)

@@ -1,5 +1,19 @@
 [
     {
+        "id": 713,
+        "title": "[Public Response Agency Act of 2069]",
+        "date": "2026-09-23",
+        "proposer": "lynism. (ID: 610453628657860654)",
+        "doc_link": null,
+        "main_goal": "This bill seeks to establish a centralized Public Response Agency tasked with coordinating emergency services, disaster relief, and public safety responses across Caprica to improve efficiency and accountability in crisis management.",
+        "ilse_opinion": "**What Ilse Liked:** The bill emphasizes state coordination to ensure equitable and efficient public services, aligning with Ordoliberal principles of structured market intervention for the public good. It also addresses working-class concerns by prioritizing accessible and reliable emergency response, particularly for marginalized communities historically underserved by fragmented systems.\n\n**What Ilse Disliked:** The bill lacks explicit provisions to prevent bureaucratic overreach or ensure transparency in the agency's operations, which could risk inefficiency or corruption. Additionally, there is no clear mechanism for local input or oversight, potentially sidelining community voices in favor of top-down control.",
+        "votes_yay": null,
+        "votes_nay": null,
+        "votes_abstain": null,
+        "votes_absent": null,
+        "category": "Security & Justice"
+    },
+    {
         "id": 712,
         "title": "NGESAA",
         "date": "2026-09-23",
