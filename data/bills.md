@@ -1,5 +1,14 @@
 # Caprica Proposed Bills (Sorted by Date)
 
+## NGESAA
+**Date:** 2026-09-23
+**Proposer:** umeet (ID: 853004086286745640)
+**Document:** https://docs.google.com/document/d/1NG7WNt2Gw9J-vGAOIio0puWghYCVViVJqYTTZKKPSSY
+
+**Main Goal:** The NGESAA 2064 seeks to centralize regulatory and fiscal oversight, harmonize administrative standards across regions, and enforce strict compliance with federal legislative frameworks to ensure national cohesion and economic stability.
+
+---
+
 ## Confirm Dr. Alina Hachen Charliennes as director of the Caprican Office of Intelligence (COIN)
 **Date:** 2026-09-23
 **Proposer:** umeet (ID: 853004086286745640)
