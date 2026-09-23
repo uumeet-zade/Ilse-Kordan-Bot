@@ -1,5 +1,14 @@
 # Caprica Proposed Bills (Sorted by Date)
 
+## Small and Medium Enterprise Relief Act Authored by Christian Lindner
+**Date:** 2026-09-23
+**Proposer:** umeet (ID: 853004086286745640)
+**Document:** https://docs.google.com/document/d/1lzY__AeUJd4olzOW51KmUdEFCJ4J3xGRJcKYJqfLNp8
+
+**Main Goal:** This bill aims to provide financial relief, reduce regulatory burdens, and incentivize automation for small and medium enterprises (SMEs) to stimulate economic growth and reduce operational costs.
+
+---
+
 ## Comprehensive Workers Protection Act, 2069 Authored by William Smith
 **Date:** 2026-09-23
 **Proposer:** umeet (ID: 853004086286745640)
