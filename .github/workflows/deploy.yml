@@ -5,8 +5,8 @@ on:
     branches:
       - main
     paths:
-      - 'bills.json'
-      - 'status.json'
+      - 'data/bills.json'
+      - 'data/status.json'
       - '*.html'
       - '*.css'
 
