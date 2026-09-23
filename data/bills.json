@@ -1,5 +1,19 @@
 [
     {
+        "id": 718,
+        "title": "Small and Medium Enterprise Relief Act Authored by Christian Lindner",
+        "date": "2026-09-23",
+        "proposer": "umeet (ID: 853004086286745640)",
+        "doc_link": "https://docs.google.com/document/d/1lzY__AeUJd4olzOW51KmUdEFCJ4J3xGRJcKYJqfLNp8",
+        "main_goal": "This bill aims to provide financial relief, reduce regulatory burdens, and incentivize automation for small and medium enterprises (SMEs) to stimulate economic growth and reduce operational costs.",
+        "ilse_opinion": "**What Ilse Liked:** The reduction in employer contributions to the central provident fund and unemployment insurance for SMEs will lower labor costs, potentially preserving jobs and encouraging hiring. The tax exemption on overtime pay for the first 200 hours per employee is a pragmatic measure to support workers while easing financial pressure on smaller businesses. The streamlined bureaucracy and single digital reporting system will reduce red tape, making it easier for SMEs to comply with labor regulations without excessive administrative overhead.\n\n**What Ilse Disliked:** The exemptions from the Comprehensive Workers Protection Act, including the Social Impact Statement, Displacement Levy, and Just Transition obligations, weaken protections for workers facing automation and displacement. This risks leaving employees vulnerable to abrupt job losses without adequate support or retraining opportunities. The exemption from the worker cooperative Right of First Refusal undermines collective bargaining and worker ownership, which are critical for a fair and equitable economy. The platform work exemption could enable misclassification of employees as independent contractors, eroding labor rights and protections.",
+        "votes_yay": null,
+        "votes_nay": null,
+        "votes_abstain": null,
+        "votes_absent": null,
+        "category": "Economy"
+    },
+    {
         "id": 717,
         "title": "Comprehensive Workers Protection Act, 2069 Authored by William Smith",
         "date": "2026-09-23",
