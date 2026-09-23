@@ -138,7 +138,14 @@ async def check_and_update_bills(bot: discord.Client):
     print(f"Auto-Scraper: Current Parliament Size is {total_mps} MPs.")
     
     # Get the last ~50 messages
+    last_seen_link = None
     async for message in channel.history(limit=50):
+        # Track doc links posted in regular messages
+        if message.content and 'docs.google.com' in message.content:
+            link_match = re.search(r'(https://docs\.google\.com[^\s\)]+)', message.content)
+            if link_match:
+                last_seen_link = link_match.group(1)
+
         if message.author.id == BOT_ID and message.embeds:
             embed = message.embeds[0]
             desc = embed.description or ""
@@ -163,11 +170,15 @@ async def check_and_update_bills(bot: discord.Client):
                 title_line = title_match.group(1).strip()
                 # Remove the url part of markdown links, leaving just the text
                 title = re.sub(r'\[(.*?)\]\(.*?\)', r'\1', title_line)
-                title = title.replace("Amend the ", "").replace("Pass the ", "").strip()
+                title = title.replace("Amend the ", "").replace("Pass the ", "").replace("[", "").replace("]", "").strip()
             else:
                 title = "Unknown Bill"
             
             date_str = message.created_at.strftime("%Y-%m-%d")
+
+            if not doc_link and last_seen_link:
+                doc_link = last_seen_link
+                last_seen_link = None # Reset after using
 
             # Extract Votes
             votes_yay = None
