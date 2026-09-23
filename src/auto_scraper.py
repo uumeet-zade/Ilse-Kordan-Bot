@@ -158,13 +158,14 @@ async def check_and_update_bills(bot: discord.Client):
                 
             # Extract Title
             title = "Unknown Bill"
-            title_match = re.search(r'\[(.*?)\]\(https://docs', desc)
+            title_match = re.search(r'\*\*Question\*\*\n(.*?)(?:\n|$)', desc)
             if title_match:
-                title = title_match.group(1)
+                title_line = title_match.group(1).strip()
+                # Remove the url part of markdown links, leaving just the text
+                title = re.sub(r'\[(.*?)\]\(.*?\)', r'\1', title_line)
+                title = title.replace("Amend the ", "").replace("Pass the ", "").strip()
             else:
-                lines = desc.split('\n')
-                if len(lines) > 1:
-                    title = lines[1].replace("Amend the ", "").replace("Pass the ", "").strip()
+                title = "Unknown Bill"
             
             date_str = message.created_at.strftime("%Y-%m-%d")
 
