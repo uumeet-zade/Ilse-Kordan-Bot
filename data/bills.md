@@ -1,5 +1,14 @@
 # Caprica Proposed Bills (Sorted by Date)
 
+## EWP Act 2061
+**Date:** 2026-09-24
+**Proposer:** adieliicious (ID: 877921042314711130)
+**Document:** https://docs.google.com/document/d/1lvD4-F5wvVipetWLRvvBM3F_ORv4y0KZN5piu80sVys
+
+**Main Goal:** This bill aims to establish a comprehensive national water management strategy, including greywater reuse, sponge city infrastructure, cloud seeding, and interbasin water transfers, with a focus on drought resilience and efficient resource allocation.
+
+---
+
 ## Confirm the following appointees to the constitutional committee: Adriana Flash (DGC), Michelle Obama (U), Robert Bluespan (RE), Eve Callen (KNP)
 **Date:** 2026-09-24
 **Proposer:** aalborg (ID: 508032256166854666)

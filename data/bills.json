@@ -1,5 +1,19 @@
 [
     {
+        "id": 722,
+        "title": "EWP Act 2061",
+        "date": "2026-09-24",
+        "proposer": "adieliicious (ID: 877921042314711130)",
+        "doc_link": "https://docs.google.com/document/d/1lvD4-F5wvVipetWLRvvBM3F_ORv4y0KZN5piu80sVys",
+        "main_goal": "This bill aims to establish a comprehensive national water management strategy, including greywater reuse, sponge city infrastructure, cloud seeding, and interbasin water transfers, with a focus on drought resilience and efficient resource allocation.",
+        "ilse_opinion": "**What Ilse Liked:** The bill promotes sustainable water use through practical measures like greywater recycling and sponge cities, which align with Ordoliberal principles of efficient resource management and long-term infrastructure investment. The emphasis on local authority incentives and performance-based funding ensures accountability and working-class benefits, particularly in drought-affected regions like Cambria.\n\n**What Ilse Disliked:** The centralization of authority in the Ministry of Natural Resources and Energy for interbasin transfers risks undermining regional autonomy and could lead to bureaucratic inefficiencies. Additionally, the lack of explicit labor protections or worker participation in the implementation of these programs is concerning from a working-class perspective.",
+        "votes_yay": null,
+        "votes_nay": null,
+        "votes_abstain": null,
+        "votes_absent": null,
+        "category": "Infrastructure"
+    },
+    {
         "id": 721,
         "title": "Confirm the following appointees to the constitutional committee: Adriana Flash (DGC), Michelle Obama (U), Robert Bluespan (RE), Eve Callen (KNP)",
         "date": "2026-09-24",
@@ -77,10 +91,10 @@
         "doc_link": null,
         "main_goal": "This bill seeks to reinforce the application of the National Police Standard Act to all law-enforcement bodies under the Public Response Agency, ensuring consistent legal and procedural safeguards across policing units.",
         "ilse_opinion": "**What Ilse Liked:** The bill upholds strong, independent civilian oversight and transparency requirements, which align with Ordoliberal principles of rule of law and accountability in state institutions. It also prevents cronyism, a key concern for working-class representation and fair governance.\n\n**What Ilse Disliked:** Nothing",
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 16,
+        "votes_nay": 1,
+        "votes_abstain": 2,
+        "votes_absent": 16,
         "category": "Security & Justice"
     },
     {
@@ -91,10 +105,10 @@
         "doc_link": "https://docs.google.com/document/d/1HXM9yvarH3Ku5KiXB8BumI76Jb_tvPAvbaMydtxXnMw/edit?tab=t.0",
         "main_goal": "This bill seeks to establish a centralized Public Response Agency tasked with coordinating emergency services, disaster relief, and public safety responses across Caprica to improve efficiency and accountability in crisis management.",
         "ilse_opinion": "**What Ilse Liked:** The bill emphasizes state coordination to ensure equitable and efficient public services, aligning with Ordoliberal principles of structured market intervention for the public good. It also addresses working-class concerns by prioritizing accessible and reliable emergency response, particularly for marginalized communities historically underserved by fragmented systems.\n\n**What Ilse Disliked:** The bill lacks explicit provisions to prevent bureaucratic overreach or ensure transparency in the agency's operations, which could risk inefficiency or corruption. Additionally, there is no clear mechanism for local input or oversight, potentially sidelining community voices in favor of top-down control.",
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 21,
+        "votes_nay": 0,
+        "votes_abstain": 1,
+        "votes_absent": 13,
         "category": "Security & Justice"
     },
     {
@@ -105,10 +119,10 @@
         "doc_link": "https://docs.google.com/document/d/1NG7WNt2Gw9J-vGAOIio0puWghYCVViVJqYTTZKKPSSY",
         "main_goal": "The NGESAA 2064 seeks to centralize regulatory and fiscal oversight, harmonize administrative standards across regions, and enforce strict compliance with federal legislative frameworks to ensure national cohesion and economic stability.",
         "ilse_opinion": "**What Ilse Liked:** The bill\u2019s emphasis on fiscal accountability, deficit cap enforcement, and rigorous auditing aligns with Ordoliberal principles of responsible economic management and transparency. The standardization of administrative metrics could reduce regional disparities in public service delivery, benefiting working-class communities.\n\n**What Ilse Disliked:** The excessive centralization of authority\u2014particularly the recall of regional delegations in healthcare, education, and infrastructure\u2014risks undermining local autonomy and democratic accountability. The pre-enactment compatibility review process may also create bureaucratic bottlenecks that stifle regional innovation and responsiveness to local needs.",
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 13,
+        "votes_nay": 7,
+        "votes_abstain": 0,
+        "votes_absent": 15,
         "category": "Government & Nominations"
     },
     {
@@ -119,10 +133,10 @@
         "doc_link": null,
         "main_goal": "To formally appoint Dr. Alina Hachen Charliennes as the director of the Caprican Office of Intelligence (COIN), ensuring leadership continuity in national security and intelligence operations.",
         "ilse_opinion": "**What Ilse Liked:** The appointment of a qualified individual to a critical role in national security aligns with the need for competent, nonpartisan governance, especially after the instability of the Diana regime. Ensuring COIN operates effectively is vital for protecting Caprica\u2019s sovereignty and democratic institutions.\n\n**What Ilse Disliked:** While the appointment itself is necessary, I am concerned about the lack of transparency in the selection process for such a sensitive position. Given COIN\u2019s history\u2014particularly its role in dismantling Kadenism and communism\u2014there must be clear accountability to prevent overreach or abuse of power.",
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 15,
+        "votes_nay": 6,
+        "votes_abstain": 0,
+        "votes_absent": 14,
         "category": "Government & Nominations"
     },
     {
@@ -133,10 +147,10 @@
         "doc_link": null,
         "main_goal": "To formally appoint Stephen Alan Bratanovic as the director of CIVIC, ensuring leadership continuity and operational stability in Caprica's interregional law enforcement agency.",
         "ilse_opinion": "**What Ilse Liked:** The need for a stable and competent leadership in law enforcement to maintain public safety and uphold the rule of law aligns with my Ordoliberal principles of strong institutional frameworks.\n\n**What Ilse Disliked:** Nothing, provided Bratanovic's record demonstrates a commitment to fairness, accountability, and non-partisan enforcement of justice without overreach into civil liberties.",
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 15,
+        "votes_nay": 6,
+        "votes_abstain": 0,
+        "votes_absent": 14,
         "category": "Government & Nominations"
     },
     {
