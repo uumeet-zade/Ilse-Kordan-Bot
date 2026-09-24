@@ -1,5 +1,14 @@
 # Caprica Proposed Bills (Sorted by Date)
 
+## Nomination of <@1113613253134790686> to the Supreme Court of Caprica
+**Date:** 2026-09-24
+**Proposer:** lapgrap (ID: 342607320666079232)
+**Document:** No Link
+
+**Main Goal:** To appoint a nominee to the Supreme Court of Caprica, ensuring the judiciary reflects the values and legal needs of the post-Diana regime republic.
+
+---
+
 ## EWP Act 2061
 **Date:** 2026-09-24
 **Proposer:** adieliicious (ID: 877921042314711130)
