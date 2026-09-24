@@ -49,10 +49,10 @@
         "doc_link": null,
         "main_goal": "This bill seeks to officially designate the harp seal as the national animal of Caprica, symbolizing national identity and cultural heritage.",
         "ilse_opinion": "**What Ilse Liked:** Nothing\n\n**What Ilse Disliked:** This bill is a frivolous distraction from pressing economic and social issues facing the working class. Symbolic gestures do little to address unemployment, wage stagnation, or the need for structural reforms in Caprica's post-regime recovery.",
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 8,
+        "votes_nay": 13,
+        "votes_abstain": 2,
+        "votes_absent": 12,
         "category": "Misc."
     },
     {
@@ -63,10 +63,10 @@
         "doc_link": "https://docs.google.com/document/d/14Ufbl-kXx8RCKrXDjayh9lbP7wJGRtTsFuR5TdBKmSg",
         "main_goal": "This bill seeks to amend the Comprehensive Workers Protection Act by reducing fines for employer violations, redefining union-security agreements, clarifying the status of non-standard workers (e.g., gig/platform workers), and establishing a National Employment Matching Agency (NEMA) to facilitate temporary job placements.",
         "ilse_opinion": "**What Ilse Liked:** The establishment of NEMA (Section 33) aligns with my Ordoliberal and working-class values by actively connecting unemployed workers with job opportunities, training, and temporary placements while ensuring fair wages. The protections for non-standard workers (Section 31.4) against discrimination, harassment, and arbitrary deactivation are also commendable. The reduction of fines (9.2) to a more proportionate level may encourage compliance without overburdening small businesses.\n\n**What Ilse Disliked:** The reclassification of non-standard workers (Section 31) risks entrenching precarious employment by allowing platforms to avoid employer responsibilities, undermining labor rights and job security. The legalization of union-security agreements (30.4) could pressure workers into unions, conflicting with voluntary association principles. The removal of Sections 26, 27, and 28 (likely related to worker protections) without clear replacements is concerning for labor standards.",
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 13,
+        "votes_nay": 15,
+        "votes_abstain": 0,
+        "votes_absent": 7,
         "category": "Social Policy"
     },
     {
