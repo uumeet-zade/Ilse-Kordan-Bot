@@ -1,5 +1,14 @@
 # Caprica Proposed Bills (Sorted by Date)
 
+## Confirm the following appointees to the constitutional committee: Adriana Flash (DGC), Michelle Obama (U), Robert Bluespan (RE), Eve Callen (KNP)
+**Date:** 2026-09-24
+**Proposer:** aalborg (ID: 508032256166854666)
+**Document:** No Link
+
+**Main Goal:** To confirm the appointment of four individuals to the constitutional committee, tasked with overseeing or drafting foundational legal reforms for Caprica.
+
+---
+
 ## ADOPT HARPS SEALS AS THE NATIONAL ANIMAL OF CAPRICA
 **Date:** 2026-09-23
 **Proposer:** umeet (ID: 853004086286745640)
