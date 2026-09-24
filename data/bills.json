@@ -77,10 +77,10 @@
         "doc_link": "https://docs.google.com/document/d/13LLml96Zwa6sV5WFjnKOswmKSHFEOn6D2mHTAsYVtGM",
         "main_goal": "This bill seeks to overhaul Caprica's labor laws by consolidating worker protections, democratizing workplace governance, and ensuring dignity, security, and collective ownership rights for all workers across sectors.",
         "ilse_opinion": "**What Ilse Liked:** The bill's emphasis on sectoral bargaining, co-determination seats for workers, and strong protections against exploitation aligns with Ordoliberal principles of fair competition and social equity. The inclusion of gig workers and non-standard employees under minimum wage protections reflects a commitment to working-class solidarity and economic justice.\n\n**What Ilse Disliked:** The bill's broad definition of 'employee' and mandatory worker ownership provisions risk overregulation, potentially stifling small businesses and market flexibility. The rigid enforcement of collective ownership may discourage private investment and innovation, undermining Ordoliberal ideals of balanced economic freedom.",
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 13,
+        "votes_nay": 13,
+        "votes_abstain": 1,
+        "votes_absent": 8,
         "category": "Social Policy"
     },
     {
