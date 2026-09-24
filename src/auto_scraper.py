@@ -237,11 +237,11 @@ async def check_and_update_bills(bot: discord.Client):
                 category = "Misc."
                 doc_text = ""
                 if doc_link:
-                    doc_text = read_google_doc_sync(doc_link)
+                    doc_text = await asyncio.to_thread(read_google_doc_sync, doc_link)
                     if not doc_text:
                         print(f"Auto-Scraper: Could not read Google Doc for {title}")
                 
-                main_goal_llm, ilse_opinion, category = extract_main_goal_llm(doc_text, title)
+                main_goal_llm, ilse_opinion, category = await asyncio.to_thread(extract_main_goal_llm, doc_text, title)
                 main_goal = main_goal_llm if main_goal_llm and main_goal_llm != "Pending analysis." else title
                 print(f"Auto-Scraper: Extracted main goal: {main_goal[:80]}...")
                 bills_to_insert.append((title, date_str, proposer_name, doc_link, main_goal, ilse_opinion, votes_yay, votes_nay, votes_abstain, votes_absent, category))
@@ -265,11 +265,11 @@ async def check_and_update_bills(bot: discord.Client):
         for bill_id, title, doc_link, proposer, date_str, vy, vn, vab, vabsent in bills_to_update_llm:
             doc_text = ""
             if doc_link:
-                doc_text = read_google_doc_sync(doc_link)
+                doc_text = await asyncio.to_thread(read_google_doc_sync, doc_link)
                 if not doc_text:
                     print(f"Auto-Scraper: Could not read doc for existing bill {bill_id}")
             
-            main_goal_llm, ilse_opinion, category = extract_main_goal_llm(doc_text, title)
+            main_goal_llm, ilse_opinion, category = await asyncio.to_thread(extract_main_goal_llm, doc_text, title)
             main_goal = main_goal_llm if main_goal_llm and main_goal_llm != "Pending analysis." else title
             print(f"Auto-Scraper: Updating bill {bill_id} ({title[:40]}...) with goal: {main_goal[:60]}...")
             c.execute("UPDATE bills SET main_goal = ?, ilse_opinion = ?, votes_yay = ?, votes_nay = ?, votes_abstain = ?, votes_absent = ?, category = ? WHERE id = ?", (main_goal, ilse_opinion, vy, vn, vab, vabsent, category, bill_id))
@@ -342,9 +342,9 @@ async def analyze_pending_bills(bot: discord.Client):
     for bill_id, title, doc_link in pending_bills:
         doc_text = ""
         if doc_link:
-            doc_text = read_google_doc_sync(doc_link)
+            doc_text = await asyncio.to_thread(read_google_doc_sync, doc_link)
             
-        main_goal_llm, ilse_opinion, category = extract_main_goal_llm(doc_text, title)
+        main_goal_llm, ilse_opinion, category = await asyncio.to_thread(extract_main_goal_llm, doc_text, title)
         main_goal = main_goal_llm if main_goal_llm and main_goal_llm != "Pending analysis." else title
         c.execute("UPDATE bills SET main_goal = ?, ilse_opinion = ?, category = ? WHERE id = ?", (main_goal, ilse_opinion, category, bill_id))
         print(f"  Updated bill {bill_id} ({title[:50]}...) -> {main_goal[:70]}...")
