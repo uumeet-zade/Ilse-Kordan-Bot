@@ -63,10 +63,10 @@
         "doc_link": "https://docs.google.com/document/d/1lvD4-F5wvVipetWLRvvBM3F_ORv4y0KZN5piu80sVys",
         "main_goal": "This bill aims to establish a comprehensive national water management strategy, including greywater reuse, sponge city infrastructure, cloud seeding, and interbasin water transfers, with a focus on drought resilience and efficient resource allocation.",
         "ilse_opinion": "**What Ilse Liked:** The bill promotes sustainable water use through practical measures like greywater recycling and sponge cities, which align with Ordoliberal principles of efficient resource management and long-term infrastructure investment. The emphasis on local authority incentives and performance-based funding ensures accountability and working-class benefits, particularly in drought-affected regions like Cambria.\n\n**What Ilse Disliked:** The centralization of authority in the Ministry of Natural Resources and Energy for interbasin transfers risks undermining regional autonomy and could lead to bureaucratic inefficiencies. Additionally, the lack of explicit labor protections or worker participation in the implementation of these programs is concerning from a working-class perspective.",
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 13,
+        "votes_nay": 11,
+        "votes_abstain": 0,
+        "votes_absent": 11,
         "category": "Infrastructure"
     },
     {
