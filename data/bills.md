@@ -1,5 +1,32 @@
 # Caprica Proposed Bills (Sorted by Date)
 
+## Censure <@1139128379887591514> for causing massive capital flight, economic demage,   unemployment, and general incompentency
+**Date:** 2026-09-25
+**Proposer:** lubangiv (ID: 1363223655596691789)
+**Document:** No Link
+
+**Main Goal:** To formally condemn an individual for alleged economic mismanagement resulting in capital flight, economic damage, and unemployment.
+
+---
+
+## Summon <@1139128379887591514> to a parliamentary hearing over his out of norm economic views and their consequece to the economy
+**Date:** 2026-09-25
+**Proposer:** lubangiv (ID: 1363223655596691789)
+**Document:** No Link
+
+**Main Goal:** To investigate and publicly scrutinize an individual's unconventional economic views and their potential impact on the Caprican economy through a parliamentary hearing.
+
+---
+
+## Agricultural Security and Resilience Act
+**Date:** 2026-09-25
+**Proposer:** lubangiv (ID: 1363223655596691789)
+**Document:** https://docs.google.com/document/d/1-zavufKRCZ0_A4C68GR91itSKYFhRu81vY-bXwb-y64
+
+**Main Goal:** This bill aims to establish a strategic reserve of essential agricultural inputs to ensure national food security and resilience against supply disruptions, while incentivizing private sector investment in critical infrastructure through tax allowances.
+
+---
+
 ## Nomination of <@1113613253134790686> to the Supreme Court of Caprica
 **Date:** 2026-09-24
 **Proposer:** lapgrap (ID: 342607320666079232)

@@ -1,5 +1,47 @@
 [
     {
+        "id": 726,
+        "title": "Censure <@1139128379887591514> for causing massive capital flight, economic demage,   unemployment, and general incompentency",
+        "date": "2026-09-25",
+        "proposer": "lubangiv (ID: 1363223655596691789)",
+        "doc_link": null,
+        "main_goal": "To formally condemn an individual for alleged economic mismanagement resulting in capital flight, economic damage, and unemployment.",
+        "ilse_opinion": "**What Ilse Liked:** Nothing\n\n**What Ilse Disliked:** The bill lacks substantive policy measures to address the root causes of economic instability or protect working-class interests. It appears punitive rather than constructive, failing to propose solutions for unemployment or capital flight, which are critical concerns for labor. Additionally, censure without evidence or due process undermines democratic accountability and could set a precedent for political retribution.",
+        "votes_yay": null,
+        "votes_nay": null,
+        "votes_abstain": null,
+        "votes_absent": null,
+        "category": "Government & Nominations"
+    },
+    {
+        "id": 725,
+        "title": "Summon <@1139128379887591514> to a parliamentary hearing over his out of norm economic views and their consequece to the economy",
+        "date": "2026-09-25",
+        "proposer": "lubangiv (ID: 1363223655596691789)",
+        "doc_link": null,
+        "main_goal": "To investigate and publicly scrutinize an individual's unconventional economic views and their potential impact on the Caprican economy through a parliamentary hearing.",
+        "ilse_opinion": "**What Ilse Liked:** The bill promotes transparency and accountability in economic discourse, ensuring that public figures cannot espouse harmful or unorthodox economic policies without oversight.\n\n**What Ilse Disliked:** The bill risks stifling legitimate debate and dissenting economic perspectives, which could undermine the principles of free speech and intellectual diversity essential to a functioning democracy. Additionally, it may be perceived as a politically motivated attack rather than a genuine inquiry into economic policy.",
+        "votes_yay": null,
+        "votes_nay": null,
+        "votes_abstain": null,
+        "votes_absent": null,
+        "category": "Government & Nominations"
+    },
+    {
+        "id": 724,
+        "title": "Agricultural Security and Resilience Act",
+        "date": "2026-09-25",
+        "proposer": "lubangiv (ID: 1363223655596691789)",
+        "doc_link": "https://docs.google.com/document/d/1-zavufKRCZ0_A4C68GR91itSKYFhRu81vY-bXwb-y64",
+        "main_goal": "This bill aims to establish a strategic reserve of essential agricultural inputs to ensure national food security and resilience against supply disruptions, while incentivizing private sector investment in critical infrastructure through tax allowances.",
+        "ilse_opinion": "**What Ilse Liked:** The bill promotes economic stability and food security by leveraging private sector partnerships and competitive mechanisms, aligning with Ordoliberal principles of market efficiency and state-facilitated resilience. The focus on working-class livelihoods through safeguarding agricultural production is commendable, as is the avoidance of direct state ownership or price controls.\n\n**What Ilse Disliked:** The reliance on private contracts and competitive auctions may disproportionately benefit large agribusinesses and chemical manufacturers, potentially sidelining smaller farmers and cooperatives. The lack of explicit provisions to ensure equitable access for working-class producers during emergencies is a concern.",
+        "votes_yay": null,
+        "votes_nay": null,
+        "votes_abstain": null,
+        "votes_absent": null,
+        "category": "Economy"
+    },
+    {
         "id": 723,
         "title": "Nomination of <@1113613253134790686> to the Supreme Court of Caprica",
         "date": "2026-09-24",
@@ -35,10 +77,10 @@
         "doc_link": null,
         "main_goal": "To confirm the appointment of four individuals to the constitutional committee, tasked with overseeing or drafting foundational legal reforms for Caprica.",
         "ilse_opinion": "**What Ilse Liked:** The inclusion of Michelle Obama (U), representing the Unionist party, suggests a potential for cross-partisan collaboration, which aligns with Ordoliberal principles of consensus-building and social cohesion. Additionally, the committee's work could provide an opportunity to strengthen democratic institutions and the rule of law, which are critical for a stable and fair market economy.\n\n**What Ilse Disliked:** The lack of transparency regarding the qualifications and ideological leanings of the nominees, particularly Eve Callen (KNP), whose party has historical ties to the nobility and conservative factions, raises concerns about potential biases in the constitutional process. There is also no representation from working-class or social democratic perspectives, which could lead to an imbalance in the committee's priorities.",
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 18,
+        "votes_nay": 1,
+        "votes_abstain": 0,
+        "votes_absent": 16,
         "category": "Government & Nominations"
     },
     {
