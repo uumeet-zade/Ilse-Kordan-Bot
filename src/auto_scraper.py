@@ -303,18 +303,18 @@ async def check_and_update_bills(bot: discord.Client):
         print("Auto-Scraper: Bills updated. Updating files and pushing to GitHub...")
         reorder_bills.regenerate()
         try:
-            subprocess.run(["git", "add", "data/bills.json", "data/status.json", "data/bills.md"], check=True, cwd=BASE_DIR)
-            subprocess.run(["git", "commit", "-m", "Auto-update bills via Ilse Bot"], check=True, cwd=BASE_DIR)
-            subprocess.run(["git", "push"], check=True, cwd=BASE_DIR)
+            await asyncio.to_thread(subprocess.run, ["git", "add", "data/bills.json", "data/status.json", "data/bills.md"], check=True, cwd=BASE_DIR)
+            await asyncio.to_thread(subprocess.run, ["git", "commit", "-m", "Auto-update bills via Ilse Bot"], check=True, cwd=BASE_DIR)
+            await asyncio.to_thread(subprocess.run, ["git", "push"], check=True, cwd=BASE_DIR)
             print("Auto-Scraper: Successfully pushed changes to GitHub.")
         except subprocess.CalledProcessError as e:
             print(f"Auto-Scraper: Git operation failed -> {e}")
     else:
         print("Auto-Scraper: No new bills found, pushing status ping...")
         try:
-            subprocess.run(["git", "add", "data/status.json"], check=True, cwd=BASE_DIR)
-            subprocess.run(["git", "commit", "-m", "Bot status ping"], check=True, cwd=BASE_DIR)
-            subprocess.run(["git", "push"], check=True, cwd=BASE_DIR)
+            await asyncio.to_thread(subprocess.run, ["git", "add", "data/status.json"], check=True, cwd=BASE_DIR)
+            await asyncio.to_thread(subprocess.run, ["git", "commit", "-m", "Bot status ping"], check=True, cwd=BASE_DIR)
+            await asyncio.to_thread(subprocess.run, ["git", "push"], check=True, cwd=BASE_DIR)
         except subprocess.CalledProcessError:
             pass # Ignore if no diff (e.g. ran twice in same minute)
 
@@ -360,9 +360,9 @@ async def analyze_pending_bills(bot: discord.Client):
     reorder_bills.regenerate()
     
     try:
-        subprocess.run(["git", "add", "data/bills.json", "data/status.json", "data/bills.md"], check=True, cwd=BASE_DIR)
-        subprocess.run(["git", "commit", "-m", "Analyzed all pending bills via Ilse Bot"], check=True, cwd=BASE_DIR)
-        subprocess.run(["git", "push"], check=True, cwd=BASE_DIR)
+        await asyncio.to_thread(subprocess.run, ["git", "add", "data/bills.json", "data/status.json", "data/bills.md"], check=True, cwd=BASE_DIR)
+        await asyncio.to_thread(subprocess.run, ["git", "commit", "-m", "Analyzed all pending bills via Ilse Bot"], check=True, cwd=BASE_DIR)
+        await asyncio.to_thread(subprocess.run, ["git", "push"], check=True, cwd=BASE_DIR)
         print("Successfully pushed changes to GitHub.")
     except subprocess.CalledProcessError as e:
         print(f"Git operation failed -> {e}")
