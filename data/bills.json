@@ -49,10 +49,10 @@
         "doc_link": null,
         "main_goal": "To appoint a nominee to the Supreme Court of Caprica, ensuring the judiciary reflects the values and legal needs of the post-Diana regime republic.",
         "ilse_opinion": "**What Ilse Liked:** Nothing\n\n**What Ilse Disliked:** The bill lacks transparency regarding the nominee's judicial philosophy, past rulings (if any), and alignment with Ordoliberal principles such as rule of law, economic fairness, and social justice. Without this information, it is impossible to assess whether the nominee will uphold the working-class interests or the constitutional order necessary for a stable, equitable society.",
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 14,
+        "votes_nay": 10,
+        "votes_abstain": 0,
+        "votes_absent": 11,
         "category": "Government & Nominations"
     },
     {
