@@ -37,7 +37,7 @@ bot = IlseBot()
 
 TEST_SERVER_ID = 1537631696743174224
 CAPRICA_SERVER_ID = 1189603606568108103
-ALLOWED_CAPRICA_CHANNELS = [1266040682213281955]
+ALLOWED_CAPRICA_CHANNELS = [1266040682213281955, 1189630582280441997]
 
 # --- Anti-Spam & Blacklist System ---
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -134,8 +134,13 @@ def is_allowed_channel(message):
     guild_id = message.guild.id if message.guild else None
     if guild_id == TEST_SERVER_ID:
         return True
-    if guild_id == CAPRICA_SERVER_ID and message.channel.id in ALLOWED_CAPRICA_CHANNELS:
-        return True
+    if guild_id == CAPRICA_SERVER_ID:
+        if message.channel.id == 1189630582280441997:
+            if is_owner_or_authorized(message.author):
+                return True
+            return False
+        if message.channel.id in ALLOWED_CAPRICA_CHANNELS:
+            return True
     return False
 
 async def extract_linked_messages(content: str, bot: discord.Client) -> str:
@@ -361,7 +366,7 @@ async def on_message(message):
                 
                 linked_context = await extract_linked_messages(message.content, bot)
                 
-                response = await generate_response(message.content, chat_history, is_test_server=is_test, current_user=current_user_context, image_data=image_data, linked_messages_context=linked_context, discord_bot=bot)
+                response = await generate_response(message.content, chat_history, is_test_server=is_test, current_user=current_user_context, image_data=image_data, linked_messages_context=linked_context, discord_bot=bot, is_general_chat=(message.channel.id == 1189630582280441997))
                 
                 # Extract and log internal thoughts (allow for misspelled or missing closing tags)
                 thoughts = re.findall(r'<THOUGHT>(.*?)(?:</[a-zA-Z]+>|$)', response, re.DOTALL | re.IGNORECASE)
@@ -485,10 +490,18 @@ async def unignore_command(interaction: discord.Interaction, user_id: str):
 
 @bot.tree.command(name="analyze", description="Run a deep analysis on a topic using the wiki or databases.")
 async def analyze_command(interaction: discord.Interaction, query: str):
-    global api_exhausted_until
-    
-    if time.time() < api_exhausted_until:
-        await interaction.response.send_message("I am currently in a rest state due to API token exhaustion. Please try again in a minute.", ephemeral=True)
+    if is_banned(interaction.user.id):
+        await interaction.response.send_message("You are not authorized to use this bot.", ephemeral=True)
+        return
+
+    guild_id = interaction.guild.id if interaction.guild else None
+    if guild_id != TEST_SERVER_ID and (guild_id != CAPRICA_SERVER_ID or interaction.channel_id not in ALLOWED_CAPRICA_CHANNELS):
+        await interaction.response.send_message("I am currently restricted from this channel.", ephemeral=True)
+        return
+
+    # Add general channel check
+    if guild_id == CAPRICA_SERVER_ID and interaction.channel_id == 1189630582280441997 and not is_owner_or_authorized(interaction.user):
+        await interaction.response.send_message("I only respond to my owner in this channel.", ephemeral=True)
         return
     if is_banned(interaction.user.id):
         await interaction.response.send_message("You are not authorized to use this bot.", ephemeral=True)
@@ -581,6 +594,16 @@ async def think_command(interaction: discord.Interaction, query: str):
         await interaction.response.send_message("I am currently restricted from this channel.", ephemeral=True)
         return
 
+    # Add general channel check
+    if guild_id == CAPRICA_SERVER_ID and interaction.channel_id == 1189630582280441997 and not is_owner_or_authorized(interaction.user):
+        await interaction.response.send_message("I only respond to my owner in this channel.", ephemeral=True)
+        return
+        
+    guild_id = interaction.guild.id if interaction.guild else None
+    if guild_id != TEST_SERVER_ID and (guild_id != CAPRICA_SERVER_ID or interaction.channel_id not in ALLOWED_CAPRICA_CHANNELS):
+        await interaction.response.send_message("I am currently restricted from this channel.", ephemeral=True)
+        return
+
     if not is_owner_or_authorized(interaction.user):
         now = time.time()
         last_used = user_think_cooldowns.get(interaction.user.id, 0)
@@ -604,7 +627,7 @@ async def think_command(interaction: discord.Interaction, query: str):
         
         linked_context = await extract_linked_messages(query, bot)
         
-        response = await generate_response(query, chat_history, is_test_server=is_test, current_user=current_user_context, image_data=None, force_model="glm-5-2", linked_messages_context=linked_context, discord_bot=bot)
+        response = await generate_response(query, chat_history, is_test_server=is_test, current_user=current_user_context, image_data=None, force_model="glm-5-2", linked_messages_context=linked_context, discord_bot=bot, is_general_chat=(interaction.channel_id == 1189630582280441997))
         
         if response == "<API_EXHAUSTED>":
             global api_exhausted_until
