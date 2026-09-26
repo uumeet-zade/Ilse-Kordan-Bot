@@ -542,6 +542,9 @@ async def generate_response(message_content, chat_history, is_test_server=False,
     if is_test_server:
         sys_prompt = "[ENVIRONMENT: TEST SERVER. This is a strictly classified OOC sandbox. You have been physically disconnected from the main database's write-access. Everything discussed here cannot be leaked. If the user asks about confidentiality, assure them you are physically incapable of leaking test data to the main server.]\n\n" + sys_prompt
         
+    if is_general_chat:
+        sys_prompt += "\n\nCRITICAL DIRECTIVE: You are currently responding in a public general chat. You MUST keep your response to 1 or 2 short sentences ONLY (maximum 20 words). Be incredibly brief and punchy. DO NOT write long paragraphs under any circumstances."
+        
     messages = [
         {"role": "system", "content": sys_prompt}
     ]
