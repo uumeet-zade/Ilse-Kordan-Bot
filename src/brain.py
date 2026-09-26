@@ -523,7 +523,7 @@ mistral_tools = [
     }
 ]
 
-async def generate_response(message_content, chat_history, is_test_server=False, current_user="Unknown User", image_data=None, force_model=None, linked_messages_context=None, discord_bot=None):
+async def generate_response(message_content, chat_history, is_test_server=False, current_user="Unknown User", image_data=None, force_model=None, linked_messages_context=None, discord_bot=None, is_general_chat=False):
     current_time = datetime.datetime.now().strftime("%Y-%m-%d")
     sim_date = get_sim_date()
     current_gov = get_current_government()
