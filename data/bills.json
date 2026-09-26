@@ -7,10 +7,10 @@
         "doc_link": null,
         "main_goal": "To formally condemn an individual for alleged economic mismanagement resulting in capital flight, economic damage, and unemployment.",
         "ilse_opinion": "**What Ilse Liked:** Nothing\n\n**What Ilse Disliked:** The bill lacks substantive policy measures to address the root causes of economic instability or protect working-class interests. It appears punitive rather than constructive, failing to propose solutions for unemployment or capital flight, which are critical concerns for labor. Additionally, censure without evidence or due process undermines democratic accountability and could set a precedent for political retribution.",
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 11,
+        "votes_nay": 8,
+        "votes_abstain": 4,
+        "votes_absent": 12,
         "category": "Government & Nominations"
     },
     {
@@ -21,10 +21,10 @@
         "doc_link": null,
         "main_goal": "To investigate and publicly scrutinize an individual's unconventional economic views and their potential impact on the Caprican economy through a parliamentary hearing.",
         "ilse_opinion": "**What Ilse Liked:** The bill promotes transparency and accountability in economic discourse, ensuring that public figures cannot espouse harmful or unorthodox economic policies without oversight.\n\n**What Ilse Disliked:** The bill risks stifling legitimate debate and dissenting economic perspectives, which could undermine the principles of free speech and intellectual diversity essential to a functioning democracy. Additionally, it may be perceived as a politically motivated attack rather than a genuine inquiry into economic policy.",
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 13,
+        "votes_nay": 8,
+        "votes_abstain": 0,
+        "votes_absent": 14,
         "category": "Government & Nominations"
     },
     {
@@ -35,10 +35,10 @@
         "doc_link": "https://docs.google.com/document/d/1-zavufKRCZ0_A4C68GR91itSKYFhRu81vY-bXwb-y64",
         "main_goal": "This bill aims to establish a strategic reserve of essential agricultural inputs to ensure national food security and resilience against supply disruptions, while incentivizing private sector investment in critical infrastructure through tax allowances.",
         "ilse_opinion": "**What Ilse Liked:** The bill promotes economic stability and food security by leveraging private sector partnerships and competitive mechanisms, aligning with Ordoliberal principles of market efficiency and state-facilitated resilience. The focus on working-class livelihoods through safeguarding agricultural production is commendable, as is the avoidance of direct state ownership or price controls.\n\n**What Ilse Disliked:** The reliance on private contracts and competitive auctions may disproportionately benefit large agribusinesses and chemical manufacturers, potentially sidelining smaller farmers and cooperatives. The lack of explicit provisions to ensure equitable access for working-class producers during emergencies is a concern.",
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 10,
+        "votes_nay": 0,
+        "votes_abstain": 0,
+        "votes_absent": 25,
         "category": "Economy"
     },
     {
