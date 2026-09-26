@@ -802,7 +802,7 @@ async def shutdown_command(interaction: discord.Interaction):
         await interaction.response.send_message("You do not have permission to shut me down.", ephemeral=True)
         return
         
-    await interaction.response.send_message("Shutting down... Goodbye!", ephemeral=True)
+    await interaction.response.send_message("Shutting down... Goodbye!")
     print(f"[INFO] Shutdown command received from {interaction.user.name}.")
     import sys
     await bot.close()
