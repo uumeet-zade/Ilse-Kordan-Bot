@@ -341,10 +341,11 @@ async def on_message(message):
                     chat_history = f"{msg.author.display_name} (Username: {msg.author.name}, ID: {msg.author.id}): {msg.content}\n" + chat_history
                 
                 # Fetch referenced message if replying to someone
+                modified_message_content = message.content
                 if message.reference and message.reference.message_id:
                     try:
                         ref_msg = message.reference.cached_message or await message.channel.fetch_message(message.reference.message_id)
-                        chat_history = f"[CONTEXT - PINGER REPLIED TO THIS MESSAGE]\n{ref_msg.author.display_name} (Username: {ref_msg.author.name}, ID: {ref_msg.author.id}): {ref_msg.content}\n[END CONTEXT]\n\n" + chat_history
+                        modified_message_content = f"[NOTE: The user is explicitly replying to the following message: '{ref_msg.content}' by {ref_msg.author.display_name}. Please take this replied message directly into account.]\n\n" + message.content
                     except Exception as e:
                         print(f"Failed to fetch referenced message: {e}")
                         
@@ -366,7 +367,7 @@ async def on_message(message):
                 
                 linked_context = await extract_linked_messages(message.content, bot)
                 
-                response = await generate_response(message.content, chat_history, is_test_server=is_test, current_user=current_user_context, image_data=image_data, linked_messages_context=linked_context, discord_bot=bot, is_general_chat=(message.channel.id == 1189630582280441997))
+                response = await generate_response(modified_message_content, chat_history, is_test_server=is_test, current_user=current_user_context, image_data=image_data, linked_messages_context=linked_context, discord_bot=bot, is_general_chat=(message.channel.id == 1189630582280441997))
                 
                 # Extract and log internal thoughts (allow for misspelled or missing closing tags)
                 thoughts = re.findall(r'<THOUGHT>(.*?)(?:</[a-zA-Z]+>|$)', response, re.DOTALL | re.IGNORECASE)
