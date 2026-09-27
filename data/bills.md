@@ -1,5 +1,14 @@
 # Caprica Proposed Bills (Sorted by Date)
 
+## Appoint Komaru as Chief Mouser of the Blue House
+**Date:** 2026-09-27
+**Proposer:** verschilles (ID: 324891219715162113)
+**Document:** No Link
+
+**Main Goal:** To formally appoint a cat named Komaru as the official Chief Mouser of the Blue House, the Caprican Prime Minister's residence.
+
+---
+
 ## Censure <@1139128379887591514> for causing massive capital flight, economic demage,   unemployment, and general incompentency
 **Date:** 2026-09-25
 **Proposer:** lubangiv (ID: 1363223655596691789)
