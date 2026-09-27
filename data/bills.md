@@ -1,5 +1,14 @@
 # Caprica Proposed Bills (Sorted by Date)
 
+## Amendment to the CRIC Act of 2069:
+**Date:** 2026-09-27
+**Proposer:** lynism. (ID: 610453628657860654)
+**Document:** https://docs.google.com/document/d/14AvnQIx0F9H0X6srPplWqhj8coHz-Ouoc-ar74Oc7no
+
+**Main Goal:** This bill seeks to amend the CRIC Act of 2069 to impose stricter oversight and transparency requirements on the Caprica Office of Intelligence, ensuring its operations align with human rights standards and parliamentary accountability.
+
+---
+
 ## Amendment to the Comprehensive Workers Protection Act
 **Date:** 2026-09-27
 **Proposer:** 07storm (ID: 792336271191441429)
