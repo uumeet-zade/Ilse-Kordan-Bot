@@ -1,5 +1,47 @@
 [
     {
+        "id": 732,
+        "title": "Amendment to the Comprehensive Workers Protection Act",
+        "date": "2026-09-27",
+        "proposer": "07storm (ID: 792336271191441429)",
+        "doc_link": "https://docs.google.com/document/d/1kIVKgvr8oCaaKIHGsaeUm5n22vA6vyitafo7HjgTtbc",
+        "main_goal": "This bill seeks to amend the Comprehensive Workers Protection Act to strengthen labor rights, expand unionization protections, improve severance and parental leave policies, and establish a National Employment Matching Agency to assist unemployed and underemployed workers.",
+        "ilse_opinion": "**What Ilse Liked:** The bill\u2019s expansion of unionization rights (e.g., card-check certification, union-security agreements) aligns with my Ordoliberal belief in strong collective bargaining as a counterbalance to corporate power. The increased severance pay, reduced workweek hours, and robust parental leave provisions reflect a commitment to worker dignity and economic security. The establishment of NEMA to match workers with jobs and training opportunities is a pragmatic step toward reducing unemployment and underemployment, which benefits the working class.\n\n**What Ilse Disliked:** The carve-out for non-standard workers (e.g., gig economy workers) in Section 31 risks creating a two-tiered labor system, where some workers are denied full protections. While flexibility is important, the criteria for reclassification as employees are too narrow and could be exploited by employers to avoid responsibilities. Additionally, the removal of the 'Displacement Levy' (Section 37) may weaken incentives for employers to retain workers during economic transitions.",
+        "votes_yay": null,
+        "votes_nay": null,
+        "votes_abstain": null,
+        "votes_absent": null,
+        "category": "Social Policy"
+    },
+    {
+        "id": 731,
+        "title": "Critical Revitalization of the Intelligence Community (CRIC) Act by Prime Minister Fayyad",
+        "date": "2026-09-27",
+        "proposer": "lynism. (ID: 610453628657860654)",
+        "doc_link": "https://docs.google.com/document/d/1OWNjEuzPgHJeZj_FiyHGAYf-mCR5hCpz8lnyOz0W4iQ",
+        "main_goal": "This bill seeks to modernize and unify Caprica's intelligence community by establishing new agencies (CORE and COIN) with enhanced offensive and reconnaissance capabilities, while repealing or amending outdated legislation to streamline oversight and operational efficiency.",
+        "ilse_opinion": "**What Ilse Liked:** The emphasis on qualified oversight and transparency in intelligence operations aligns with Ordoliberal principles of accountability in state institutions. Additionally, the repeal of the Nuremberg Act and CIVIC Act, which were likely remnants of authoritarian-era policies, is a positive step toward dismantling undemocratic structures.\n\n**What Ilse Disliked:** The bill grants excessive autonomy to intelligence agencies, particularly CORE, with minimal checks on military and clandestine operations. The potential for unchecked power in the hands of unelected officials risks undermining democratic governance and could disproportionately affect working-class communities through surveillance overreach. The lack of robust labor or civil liberties protections in the bill is also concerning.",
+        "votes_yay": null,
+        "votes_nay": null,
+        "votes_abstain": null,
+        "votes_absent": null,
+        "category": "Security & Justice"
+    },
+    {
+        "id": 730,
+        "title": "CRIC Act by removing the provisions allowing the Caprica Office of Intelligence to conduct enhanced interrogation and replace it with the following line:",
+        "date": "2026-09-27",
+        "proposer": "lynism. (ID: 610453628657860654)",
+        "doc_link": null,
+        "main_goal": "This bill seeks to prohibit the Caprica Office of Intelligence from conducting enhanced interrogation techniques, replacing them with undefined or alternative methods.",
+        "ilse_opinion": "**What Ilse Liked:** The bill aligns with my commitment to upholding human dignity and the rule of law, ensuring that state actions remain within ethical and legal boundaries. As an Ordoliberal, I believe in a strong but constrained state that respects fundamental rights, and this bill reflects that principle.\n\n**What Ilse Disliked:** The bill lacks specificity regarding what will replace enhanced interrogation, which could leave gaps in national security or create ambiguity in intelligence operations. As someone who values both security and clarity in governance, this vagueness is concerning.",
+        "votes_yay": null,
+        "votes_nay": null,
+        "votes_abstain": null,
+        "votes_absent": null,
+        "category": "Security & Justice"
+    },
+    {
         "id": 729,
         "title": "Make 'goog' the Chief Kitty of the Blue House",
         "date": "2026-09-27",

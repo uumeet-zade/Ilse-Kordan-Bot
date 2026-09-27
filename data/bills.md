@@ -1,5 +1,32 @@
 # Caprica Proposed Bills (Sorted by Date)
 
+## Amendment to the Comprehensive Workers Protection Act
+**Date:** 2026-09-27
+**Proposer:** 07storm (ID: 792336271191441429)
+**Document:** https://docs.google.com/document/d/1kIVKgvr8oCaaKIHGsaeUm5n22vA6vyitafo7HjgTtbc
+
+**Main Goal:** This bill seeks to amend the Comprehensive Workers Protection Act to strengthen labor rights, expand unionization protections, improve severance and parental leave policies, and establish a National Employment Matching Agency to assist unemployed and underemployed workers.
+
+---
+
+## Critical Revitalization of the Intelligence Community (CRIC) Act by Prime Minister Fayyad
+**Date:** 2026-09-27
+**Proposer:** lynism. (ID: 610453628657860654)
+**Document:** https://docs.google.com/document/d/1OWNjEuzPgHJeZj_FiyHGAYf-mCR5hCpz8lnyOz0W4iQ
+
+**Main Goal:** This bill seeks to modernize and unify Caprica's intelligence community by establishing new agencies (CORE and COIN) with enhanced offensive and reconnaissance capabilities, while repealing or amending outdated legislation to streamline oversight and operational efficiency.
+
+---
+
+## CRIC Act by removing the provisions allowing the Caprica Office of Intelligence to conduct enhanced interrogation and replace it with the following line:
+**Date:** 2026-09-27
+**Proposer:** lynism. (ID: 610453628657860654)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to prohibit the Caprica Office of Intelligence from conducting enhanced interrogation techniques, replacing them with undefined or alternative methods.
+
+---
+
 ## Make 'goog' the Chief Kitty of the Blue House
 **Date:** 2026-09-27
 **Proposer:** eruween (ID: 842809293258752000)
