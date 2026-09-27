@@ -1,5 +1,14 @@
 # Caprica Proposed Bills (Sorted by Date)
 
+## Make bunny satay the Chief Dish of the Blue House
+**Date:** 2026-09-27
+**Proposer:** lubangiv (ID: 1363223655596691789)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to officially designate bunny satay as the chief dish of the Caprican Blue House (the executive residence).
+
+---
+
 ## Appoint Komaru as Chief Mouser of the Blue House
 **Date:** 2026-09-27
 **Proposer:** verschilles (ID: 324891219715162113)
