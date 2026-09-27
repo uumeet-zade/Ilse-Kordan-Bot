@@ -1,5 +1,14 @@
 # Caprica Proposed Bills (Sorted by Date)
 
+## Make 'goog' the Chief Kitty of the Blue House
+**Date:** 2026-09-27
+**Proposer:** eruween (ID: 842809293258752000)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to appoint a cat named 'goog' as the symbolic Chief Kitty of the Blue House, Caprica's executive residence.
+
+---
+
 ## Make bunny satay the Chief Dish of the Blue House
 **Date:** 2026-09-27
 **Proposer:** lubangiv (ID: 1363223655596691789)
