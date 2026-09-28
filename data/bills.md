@@ -1,5 +1,14 @@
 # Caprica Proposed Bills (Sorted by Date)
 
+## CRIC amendment
+**Date:** 2026-09-28
+**Proposer:** lubangiv (ID: 1363223655596691789)
+**Document:** https://docs.google.com/document/d/1aBycQIhIASlNOCNNgNPNA2H4x7lNTOrSdc5LskZJ6Ng
+
+**Main Goal:** This bill seeks to amend the Caprican Reconnaissance and Intelligence Charter (CRIC) to impose stricter oversight on intelligence agencies, limit their domestic powers, and prevent the establishment of autonomous AI or combat units for domestic operations.
+
+---
+
 ## CRIC Act by removing all classifications from the mainline body of the bill to reveal their full contents to members of the public as presented to Members of Parliament.
 **Date:** 2026-09-28
 **Proposer:** lynism. (ID: 610453628657860654)
