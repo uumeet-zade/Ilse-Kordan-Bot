@@ -1,5 +1,23 @@
 # Caprica Proposed Bills (Sorted by Date)
 
+## CRIC Act by removing all classifications from the mainline body of the bill to reveal their full contents to members of the public as presented to Members of Parliament.
+**Date:** 2026-09-28
+**Proposer:** lynism. (ID: 610453628657860654)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to mandate the full declassification and public disclosure of all legislative content as presented to Members of Parliament, eliminating any classified or redacted sections in bills.
+
+---
+
+## CRIC Act by removing section 2 of the bill
+**Date:** 2026-09-28
+**Proposer:** lubangiv (ID: 1363223655596691789)
+**Document:** No Link
+
+**Main Goal:** The proposed amendment seeks to remove Section 2 of the CRIC Act, though the specific intent or impact of this removal is unclear without the full text of the original bill.
+
+---
+
 ## Amendment to the CRIC Act of 2069:
 **Date:** 2026-09-27
 **Proposer:** lynism. (ID: 610453628657860654)
