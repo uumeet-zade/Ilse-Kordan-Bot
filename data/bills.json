@@ -63,10 +63,10 @@
         "doc_link": "https://docs.google.com/document/d/1kIVKgvr8oCaaKIHGsaeUm5n22vA6vyitafo7HjgTtbc",
         "main_goal": "This bill seeks to amend the Comprehensive Workers Protection Act to strengthen labor rights, expand unionization protections, improve severance and parental leave policies, and establish a National Employment Matching Agency to assist unemployed and underemployed workers.",
         "ilse_opinion": "**What Ilse Liked:** The bill\u2019s expansion of unionization rights (e.g., card-check certification, union-security agreements) aligns with my Ordoliberal belief in strong collective bargaining as a counterbalance to corporate power. The increased severance pay, reduced workweek hours, and robust parental leave provisions reflect a commitment to worker dignity and economic security. The establishment of NEMA to match workers with jobs and training opportunities is a pragmatic step toward reducing unemployment and underemployment, which benefits the working class.\n\n**What Ilse Disliked:** The carve-out for non-standard workers (e.g., gig economy workers) in Section 31 risks creating a two-tiered labor system, where some workers are denied full protections. While flexibility is important, the criteria for reclassification as employees are too narrow and could be exploited by employers to avoid responsibilities. Additionally, the removal of the 'Displacement Levy' (Section 37) may weaken incentives for employers to retain workers during economic transitions.",
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 15,
+        "votes_nay": 0,
+        "votes_abstain": 5,
+        "votes_absent": 15,
         "category": "Social Policy"
     },
     {
@@ -77,10 +77,10 @@
         "doc_link": "https://docs.google.com/document/d/1OWNjEuzPgHJeZj_FiyHGAYf-mCR5hCpz8lnyOz0W4iQ",
         "main_goal": "This bill seeks to modernize and unify Caprica's intelligence community by establishing new agencies (CORE and COIN) with enhanced offensive and reconnaissance capabilities, while repealing or amending outdated legislation to streamline oversight and operational efficiency.",
         "ilse_opinion": "**What Ilse Liked:** The emphasis on qualified oversight and transparency in intelligence operations aligns with Ordoliberal principles of accountability in state institutions. Additionally, the repeal of the Nuremberg Act and CIVIC Act, which were likely remnants of authoritarian-era policies, is a positive step toward dismantling undemocratic structures.\n\n**What Ilse Disliked:** The bill grants excessive autonomy to intelligence agencies, particularly CORE, with minimal checks on military and clandestine operations. The potential for unchecked power in the hands of unelected officials risks undermining democratic governance and could disproportionately affect working-class communities through surveillance overreach. The lack of robust labor or civil liberties protections in the bill is also concerning.",
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 17,
+        "votes_nay": 14,
+        "votes_abstain": 1,
+        "votes_absent": 3,
         "category": "Security & Justice"
     },
     {
