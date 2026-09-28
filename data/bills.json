@@ -105,10 +105,10 @@
         "doc_link": null,
         "main_goal": "This bill seeks to appoint a cat named 'goog' as the symbolic Chief Kitty of the Blue House, Caprica's executive residence.",
         "ilse_opinion": "**What Ilse Liked:** Nothing\n\n**What Ilse Disliked:** This bill trivializes the legislative process and wastes parliamentary time on frivolous matters, detracting from serious governance and economic or social policy concerns that impact working-class Capricans.",
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 8,
+        "votes_nay": 1,
+        "votes_abstain": 1,
+        "votes_absent": 25,
         "category": "Misc."
     },
     {
