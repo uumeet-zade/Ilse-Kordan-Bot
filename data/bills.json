@@ -91,10 +91,10 @@
         "doc_link": null,
         "main_goal": "To formally appoint a cat named Komaru as the official Chief Mouser of the Blue House, the Caprican Prime Minister's residence.",
         "ilse_opinion": "**What Ilse Liked:** Nothing\n\n**What Ilse Disliked:** This bill trivializes the legislative process and diverts attention from pressing governance issues, particularly at a time when Caprica requires serious institutional rebuilding post-Diana regime. Public resources should not be expended on symbolic gestures unrelated to economic stability, social welfare, or infrastructure.",
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 13,
+        "votes_nay": 3,
+        "votes_abstain": 1,
+        "votes_absent": 18,
         "category": "Misc."
     },
     {
