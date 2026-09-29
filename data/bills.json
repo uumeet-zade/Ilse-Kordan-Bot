@@ -7,10 +7,10 @@
         "doc_link": "https://docs.google.com/document/d/1aBycQIhIASlNOCNNgNPNA2H4x7lNTOrSdc5LskZJ6Ng",
         "main_goal": "This bill seeks to amend the Caprican Reconnaissance and Intelligence Charter (CRIC) to impose stricter oversight on intelligence agencies, limit their domestic powers, and prevent the establishment of autonomous AI or combat units for domestic operations.",
         "ilse_opinion": "**What Ilse Liked:** The bill reinforces parliamentary and executive oversight over intelligence agencies, particularly in foreign operations and AI development, aligning with Ordoliberal principles of rule of law and checks on state power. The removal of domestic policing powers from COIN and the prohibition on combat units operating within Caprica reflect a commitment to civil liberties and the separation of military/intelligence functions from civilian governance.\n\n**What Ilse Disliked:** The bill retains significant executive discretion, particularly in the authorization of clandestine foreign networks and AI-assisted systems, which could still be misused without robust, independent oversight. The vague language around 'significant diplomatic, military, or civil-liberties implications' may allow loopholes for unchecked intelligence activities. Additionally, the bill does not address the historical abuses of Caprican intelligence agencies (e.g., COIN's role in the Diana regime or the Second World War), which undermines trust in reform.",
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 18,
+        "votes_nay": 3,
+        "votes_abstain": 0,
+        "votes_absent": 14,
         "category": "Security & Justice"
     },
     {
