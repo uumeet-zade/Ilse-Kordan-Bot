@@ -1,5 +1,14 @@
 # Caprica Proposed Bills (Sorted by Date)
 
+## To add to the House Rules: “After MPs are sworn in to Parliament, the Speakership is vacated until the incumbent Speaker from the previous term of Parliament is reconfirmed, or a new Speaker is elected.”
+**Date:** 2026-09-30
+**Proposer:** kpokemon (ID: 469079188138360832)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to formalize the process of electing or reconfirming the Speaker of Parliament at the beginning of each new term, ensuring continuity or a democratic transition of the Speakership.
+
+---
+
 ## CRIC amendment
 **Date:** 2026-09-28
 **Proposer:** lubangiv (ID: 1363223655596691789)
