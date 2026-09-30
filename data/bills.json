@@ -1,5 +1,19 @@
 [
     {
+        "id": 737,
+        "title": "To add to the House Rules: \u201cAfter MPs are sworn in to Parliament, the Speakership is vacated until the incumbent Speaker from the previous term of Parliament is reconfirmed, or a new Speaker is elected.\u201d",
+        "date": "2026-09-30",
+        "proposer": "kpokemon (ID: 469079188138360832)",
+        "doc_link": null,
+        "main_goal": "This bill seeks to formalize the process of electing or reconfirming the Speaker of Parliament at the beginning of each new term, ensuring continuity or a democratic transition of the Speakership.",
+        "ilse_opinion": "**What Ilse Liked:** The bill promotes transparency and democratic accountability by requiring a formal reconfirmation or election of the Speaker, preventing the entrenchment of unchecked power in a single individual.\n\n**What Ilse Disliked:** Nothing",
+        "votes_yay": null,
+        "votes_nay": null,
+        "votes_abstain": null,
+        "votes_absent": null,
+        "category": "Government & Nominations"
+    },
+    {
         "id": 736,
         "title": "CRIC amendment",
         "date": "2026-09-28",
