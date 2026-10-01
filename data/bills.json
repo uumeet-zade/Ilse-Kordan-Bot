@@ -7,10 +7,10 @@
         "doc_link": null,
         "main_goal": "This bill seeks to formalize the process of electing or reconfirming the Speaker of Parliament at the beginning of each new term, ensuring continuity or a democratic transition of the Speakership.",
         "ilse_opinion": "**What Ilse Liked:** The bill promotes transparency and democratic accountability by requiring a formal reconfirmation or election of the Speaker, preventing the entrenchment of unchecked power in a single individual.\n\n**What Ilse Disliked:** Nothing",
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 14,
+        "votes_nay": 1,
+        "votes_abstain": 5,
+        "votes_absent": 15,
         "category": "Government & Nominations"
     },
     {
