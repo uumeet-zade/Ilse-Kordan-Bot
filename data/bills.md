@@ -1,5 +1,14 @@
 # Caprica Proposed Bills (Sorted by Date)
 
+## Legislature Extension Amendment
+**Date:** 2026-10-01
+**Proposer:** 07storm (ID: 792336271191441429)
+**Document:** https://docs.google.com/document/d/1KFA7CAxDKJwPnG0AFralhoT41Fo4DLg_io3iU2-mNcw/edit?usp=sharing
+
+**Main Goal:** This bill seeks to amend the Caprican Constitution to expand the House of Representatives and restore the Senate, establishing a bicameral legislature with defined powers, electoral processes, and checks on executive appointments.
+
+---
+
 ## To add to the House Rules: “After MPs are sworn in to Parliament, the Speakership is vacated until the incumbent Speaker from the previous term of Parliament is reconfirmed, or a new Speaker is elected.”
 **Date:** 2026-09-30
 **Proposer:** kpokemon (ID: 469079188138360832)
