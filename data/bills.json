@@ -7,10 +7,10 @@
         "doc_link": "https://docs.google.com/document/d/1KFA7CAxDKJwPnG0AFralhoT41Fo4DLg_io3iU2-mNcw/edit?usp=sharing",
         "main_goal": "This bill seeks to amend the Caprican Constitution to expand the House of Representatives and restore the Senate, establishing a bicameral legislature with defined powers, electoral processes, and checks on executive appointments.",
         "ilse_opinion": "**What Ilse Liked:** The bill introduces proportional representation via closed-list voting, ensuring fairer regional representation and reducing the undue influence of nobility or elite factions. The restoration of the Senate with ranked-choice voting could also foster more deliberative and consensus-driven governance, aligning with Ordoliberal principles of balanced power. Additionally, the requirement for Senate approval of key nominations (e.g., Supreme Court justices, ambassadors) adds a layer of accountability to executive appointments.\n\n**What Ilse Disliked:** The bill allows political parties to fill House vacancies without by-elections, which could entrench party control and reduce democratic accountability to constituents. The Senate's power to approve or reject nominations, while a check on the executive, risks becoming a tool for partisan obstruction if not carefully managed. The lack of explicit safeguards against corporate or elite capture of the Senate is also concerning, given Caprica's history of noble influence in politics.",
-        "votes_yay": null,
-        "votes_nay": null,
-        "votes_abstain": null,
-        "votes_absent": null,
+        "votes_yay": 19,
+        "votes_nay": 0,
+        "votes_abstain": 0,
+        "votes_absent": 16,
         "category": "Government & Nominations"
     },
     {
