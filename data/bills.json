@@ -1,5 +1,19 @@
 [
     {
+        "id": 739,
+        "title": "The Budget",
+        "date": "2026-10-03",
+        "proposer": "umeet (ID: 853004086286745640)",
+        "doc_link": null,
+        "main_goal": "This bill seeks to allocate government funds across various sectors for the fiscal year, outlining revenue generation and expenditure priorities to ensure economic stability and public welfare.",
+        "ilse_opinion": "**What Ilse Liked:** The bill's potential to prioritize working-class welfare, such as funding for social programs, public infrastructure, and labor protections, aligns with my Ordoliberal commitment to a strong social safety net and fair economic competition. Additionally, I appreciate any provisions that ensure fiscal responsibility and transparency in government spending.\n\n**What Ilse Disliked:** If the bill disproportionately favors corporate interests or the nobility without adequate safeguards for workers or small businesses, it would contradict my Ordoliberal principles. I also oppose any cuts to social welfare or public services that harm the working class, as well as lack of investment in education or healthcare.",
+        "votes_yay": null,
+        "votes_nay": null,
+        "votes_abstain": null,
+        "votes_absent": null,
+        "category": "Economy"
+    },
+    {
         "id": 738,
         "title": "Legislature Extension Amendment",
         "date": "2026-10-01",
