@@ -1,5 +1,14 @@
 # Caprica Proposed Bills (Sorted by Date)
 
+## The Budget
+**Date:** 2026-10-03
+**Proposer:** umeet (ID: 853004086286745640)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to allocate government funds across various sectors for the fiscal year, outlining revenue generation and expenditure priorities to ensure economic stability and public welfare.
+
+---
+
 ## Legislature Extension Amendment
 **Date:** 2026-10-01
 **Proposer:** 07storm (ID: 792336271191441429)
