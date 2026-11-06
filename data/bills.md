@@ -1,5 +1,122 @@
 # Caprica Proposed Bills (Sorted by Date)
 
+## Functional Constituencies Representation Act
+**Date:** 2026-11-05
+**Proposer:** lapgrap (ID: 342607320666079232)
+**Document:** https://docs.google.com/document/d/1M86xR-T8Qc4KdDYjUg0Qt8uKppse8XJ74hvTFSoibWo
+
+**Main Goal:** This bill establishes 14 functional constituencies in the House of Caprica, representing specific economic sectors or communities of interest, to ensure sectoral representation alongside geographic constituencies while maintaining the existing size and structure of Parliament.
+
+---
+
+## That this House, having duly considered whether, in light of circumstances which might otherwise warrant the conclusion that the Prime Minister ought no longer to retain the confidence heretofore presumed to have been vested in her, there exists sufficient justification for declining to oppose the withdrawal of such confidence, resolves that it cannot, without contradicting the absence of grounds sufficient to sustain the contrary proposition, affirm that the confidence previously reposed in the Prime Minister has ceased to subsist; and accordingly rejects any determination that the House should not refrain from withholding its confidence, insofar as such determination would imply that a want of confidence has been established, thereby affirming that the Prime Minister does not fail to command the continuing confidence of this House.
+**Date:** 2026-11-01
+**Proposer:** lubangiv (ID: 1363223655596691789)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to formally reaffirm the House's confidence in the current Prime Minister, rejecting any motion of no confidence against her leadership.
+
+---
+
+## House rules to add “Motions put to the House must be clear in their purpose and not be used to cause confusion for other Members.”
+**Date:** 2026-11-01
+**Proposer:** kpokemon (ID: 469079188138360832)
+**Document:** No Link
+
+**Main Goal:** This bill aims to amend House rules to ensure that motions presented to the House are transparent and purposeful, preventing deliberate obfuscation or procedural confusion.
+
+---
+
+## Budget by <@886764158417272832>
+**Date:** 2026-10-31
+**Proposer:** umeet (ID: 853004086286745640)
+**Document:** No Link
+
+**Main Goal:** This bill proposes a fiscal budget allocation for the Caprican government, detailing revenue and expenditure plans to fund public services, infrastructure, and economic policies for the upcoming fiscal year.
+
+---
+
+## Fiscal Resilience and Public Investment Act of 2064
+**Date:** 2026-10-30
+**Proposer:** umeet (ID: 853004086286745640)
+**Document:** https://docs.google.com/document/d/1i7b3yfCT9fsKHFpuHkvN-s9Occ5kQvKZuM_VpWifIDI
+
+**Main Goal:** This bill seeks to amend the Fiscal Resilience and Public Investment Act of 2064 to allow revenues from an increased Land Value Tax (LVT) rate to be used for general public expenditure, rather than being restricted to specific sub-accounts.
+
+---
+
+## Ratify the Charter of ORGANIZATION OF FREE NATIONS
+**Date:** 2026-10-29
+**Proposer:** umeet (ID: 853004086286745640)
+**Document:** https://docs.google.com/document/d/1CNciNwlNlaJnkdYTcZsMLn746oqXs-Ee
+
+**Main Goal:** The bill seeks to ratify Caprica's membership in the Organization of Free Nations (OFN), a multinational alliance aimed at preserving human life, safeguarding freedom, upholding democracy, and authorizing humanitarian and military interventions under a 'Responsibility to Protect' framework.
+
+---
+
+## SPR
+**Date:** 2026-10-25
+**Proposer:** lubangiv (ID: 1363223655596691789)
+**Document:** https://docs.google.com/document/d/1sAXa7uGuseIFwA2q3cHKDPWvjkmhkuyjO91fzjLmvqI
+
+**Main Goal:** This bill aims to establish a Strategic Petroleum Reserve (SPR) to ensure 180 days of crude oil and 90 days of refined fuel supply, while safeguarding domestic refining capacity to meet at least 70% of national petroleum-product consumption.
+
+---
+
+## Whereas socialist ideology necessitates a concentration of power that has, time and time again, collapsed into rochelist regimes, totalitarian rule, and brutal dictatorships;
+**Date:** 2026-10-22
+**Proposer:** semville (ID: 580108528858169344)
+**Document:** No Link
+
+**Main Goal:** To preemptively ban or restrict socialist ideology and related political movements under the premise of preventing totalitarianism and dictatorship.
+
+---
+
+## Nomination of Jon Theroux (<@773197858970271744>) as Speaker of Parliament (the house?)
+**Date:** 2026-10-21
+**Proposer:** lapgrap (ID: 342607320666079232)
+**Document:** No Link
+
+**Main Goal:** To nominate Jon Theroux as the Speaker of Parliament, ensuring the selection of a presiding officer to facilitate legislative proceedings and maintain order in the house.
+
+---
+
+## Investiture vote in <@342607320666079232> as head of a government of the Alternative Labor Party, the Democratic Greens of Caprica, Democracy Manifest, the Kalahooska National Party, the Rejuvenation Party, and the Social Democratic Alliance
+**Date:** 2026-10-20
+**Proposer:** magicalmeowgician (ID: 482703830484647937)
+**Document:** No Link
+
+**Main Goal:** To confirm <@342607320666079232> as the head of a coalition government comprising left-wing, green, labor, and regionalist parties, aiming to govern under a shared legislative agenda.
+
+---
+
+## Adopt the Animal Protection and Sentience Act
+**Date:** 2026-10-16
+**Proposer:** nikderprager (ID: 773197858970271744)
+**Document:** https://docs.google.com/document/d/1hfumc_1HSxK8WD_R1drCHoK8xLdlxCHsRrxOeYzhlqw
+
+**Main Goal:** This bill seeks to establish comprehensive animal welfare protections in Caprica, recognizing animal sentience and setting standards for transport, farming, and testing while creating enforcement mechanisms and a dedicated Animal Welfare Commission.
+
+---
+
+## Armed Forces 2080 Act
+**Date:** 2026-10-13
+**Proposer:** lynism. (ID: 610453628657860654)
+**Document:** https://docs.google.com/document/d/1MDWNU5WKpRXYFWQd9eZ1HEeqA781V3ofUXOSK-qJsag
+
+**Main Goal:** This bill seeks to modernize and restructure the Caprican Armed Forces with a focus on expeditionary warfighting, humanitarian alignment, fiscal efficiency, and the consolidation of special operations units under a unified command.
+
+---
+
+## Nomination of <@842809293258752000> and <@877921042314711130> to the CEC as permanent members by President Mandy Trottier
+**Date:** 2026-10-07
+**Proposer:** lapgrap (ID: 342607320666079232)
+**Document:** No Link
+
+**Main Goal:** To appoint two new permanent members to the Caprican Election Commission (CEC) as nominated by President Mandy Trottier.
+
+---
+
 ## The Budget
 **Date:** 2026-10-03
 **Proposer:** umeet (ID: 853004086286745640)
