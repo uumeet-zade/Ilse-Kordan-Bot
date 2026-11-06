@@ -3,6 +3,7 @@
 ## Functional Constituencies Representation Act
 **Date:** 2026-11-05
 **Proposer:** lapgrap (ID: 342607320666079232)
+**Status:** Withdrawn
 **Document:** https://docs.google.com/document/d/1M86xR-T8Qc4KdDYjUg0Qt8uKppse8XJ74hvTFSoibWo
 
 **Main Goal:** This bill establishes 14 functional constituencies in the House of Caprica, representing specific economic sectors or communities of interest, to ensure sectoral representation alongside geographic constituencies while maintaining the existing size and structure of Parliament.

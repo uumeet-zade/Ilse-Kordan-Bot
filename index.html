@@ -52,7 +52,11 @@
                     <div class="meta">
                         <span class="proposer truncate-short">By: ${bill.proposer || 'Unknown'}</span>
                     </div>
-                    ${bill.votes_yay !== null && bill.votes_yay !== undefined ? `
+                    ${bill.status === 'Withdrawn' ? `
+                    <div style="margin-bottom: 1rem; font-size: 0.9rem; font-weight: 600; color: #f87171; display: flex; align-items: center; gap: 0.5rem;">
+                        <span>🚫</span> Withdrawn
+                    </div>
+                    ` : bill.votes_yay !== null && bill.votes_yay !== undefined ? `
                     <div style="margin-bottom: 1rem; font-size: 0.9rem; font-weight: 600; display: flex; gap: 0.8rem;">
                         <span style="color: #4ade80;">✅ ${bill.votes_yay}</span>
                         <span style="color: #f87171;">❌ ${bill.votes_nay}</span>
@@ -98,7 +102,8 @@
                 (b.title && b.title.toLowerCase().includes(term)) ||
                 (b.proposer && b.proposer.toLowerCase().includes(term)) ||
                 (b.main_goal && b.main_goal.toLowerCase().includes(term)) ||
-                (b.category && b.category.toLowerCase().includes(term))
+                (b.category && b.category.toLowerCase().includes(term)) ||
+                (b.status && b.status.toLowerCase().includes(term))
             );
             updateDisplay(filtered);
         });
