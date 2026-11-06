@@ -1,5 +1,14 @@
 # Caprica Proposed Bills (Sorted by Date)
 
+## Section 4 of the Foreign Development Cooperation Act by replacing the name “Caprican Development Agency” with “Caprican Agency for International Development (CAPRIAID)”.
+**Date:** 2026-11-06
+**Proposer:** nikderprager (ID: 773197858970271744)
+**Document:** No Link
+
+**Main Goal:** This bill seeks to rebrand the Caprican Development Agency as the Caprican Agency for International Development (CAPRIAID) to modernize its image and clarify its mandate in foreign development cooperation.
+
+---
+
 ## Functional Constituencies Representation Act
 **Date:** 2026-11-05
 **Proposer:** lapgrap (ID: 342607320666079232)
