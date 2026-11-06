@@ -126,7 +126,18 @@
                         <p>${bill.main_goal || 'Not specified'}</p>
                     </div>
                     
-                    ${bill.votes_yay !== null && bill.votes_yay !== undefined ? `
+                    ${bill.status === 'Withdrawn' ? `
+                    <div class="section votes">
+                        <h3>Vote Results</h3>
+                        <div style="background-color: rgba(248, 113, 113, 0.1); border-left: 4px solid #f87171; padding: 1.5rem; display: flex; align-items: center; gap: 1rem; margin-top: 1rem;">
+                            <span style="font-size: 2rem;">🚫</span>
+                            <div>
+                                <div style="font-size: 1.2rem; font-weight: 700; color: #f87171;">Withdrawn</div>
+                                <div style="color: var(--text-muted); font-size: 0.95rem; margin-top: 0.2rem;">This bill was withdrawn before the vote concluded.</div>
+                            </div>
+                        </div>
+                    </div>
+                    ` : bill.votes_yay !== null && bill.votes_yay !== undefined ? `
                     <div class="section votes">
                         <h3>Vote Results</h3>
                         <div style="display: flex; gap: 2rem; margin-top: 1rem; flex-wrap: wrap;">
