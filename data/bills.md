@@ -1,5 +1,14 @@
 # Caprica Proposed Bills (Sorted by Date)
 
+## BTCS Act
+**Date:** 2026-11-08
+**Proposer:** ongla2 (ID: 1324759274349396051)
+**Document:** https://docs.google.com/document/d/1UBIgIHhHukIr9EEvXILYUS4DWYqgi-vvhyGQtO1oc4U
+
+**Main Goal:** The BTCS Act establishes an independent national board to set and maintain educational standards and curriculum frameworks across Caprica, while preserving regional autonomy in education administration and allowing for localized adaptations.
+
+---
+
 ## Caprica Foundations Act
 **Date:** 2026-11-08
 **Proposer:** umeet (ID: 853004086286745640)
