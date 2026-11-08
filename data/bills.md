@@ -1,5 +1,14 @@
 # Caprica Proposed Bills (Sorted by Date)
 
+## Caprica Foundations Act
+**Date:** 2026-11-08
+**Proposer:** umeet (ID: 853004086286745640)
+**Document:** https://docs.google.com/document/d/1WF7NpuYK-9SzsS5O31lNRLb4JJHtwQHNJI9ZWjvs-lQ
+
+**Main Goal:** This bill establishes the 'Caprica Standard' for residential construction, offering tiered tax credits to incentivize developments that exceed baseline safety, accessibility, efficiency, environmental, and aesthetic standards over an eight-year period.
+
+---
+
 ## Section 4 of the Foreign Development Cooperation Act by replacing the name “Caprican Development Agency” with “Caprican Agency for International Development (CAPRIAID)”.
 **Date:** 2026-11-06
 **Proposer:** nikderprager (ID: 773197858970271744)

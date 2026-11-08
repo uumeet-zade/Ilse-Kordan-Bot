@@ -1,5 +1,19 @@
 [
     {
+        "id": 754,
+        "title": "Caprica Foundations Act",
+        "date": "2026-11-08",
+        "proposer": "umeet (ID: 853004086286745640)",
+        "doc_link": "https://docs.google.com/document/d/1WF7NpuYK-9SzsS5O31lNRLb4JJHtwQHNJI9ZWjvs-lQ",
+        "main_goal": "This bill establishes the 'Caprica Standard' for residential construction, offering tiered tax credits to incentivize developments that exceed baseline safety, accessibility, efficiency, environmental, and aesthetic standards over an eight-year period.",
+        "votes_yay": null,
+        "votes_nay": null,
+        "votes_abstain": null,
+        "votes_absent": null,
+        "category": "Infrastructure",
+        "status": null
+    },
+    {
         "id": 753,
         "title": "Section 4 of the Foreign Development Cooperation Act by replacing the name \u201cCaprican Development Agency\u201d with \u201cCaprican Agency for International Development (CAPRIAID)\u201d.",
         "date": "2026-11-06",
