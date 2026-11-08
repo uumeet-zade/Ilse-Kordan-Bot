@@ -1,5 +1,19 @@
 [
     {
+        "id": 755,
+        "title": "BTCS Act",
+        "date": "2026-11-08",
+        "proposer": "ongla2 (ID: 1324759274349396051)",
+        "doc_link": "https://docs.google.com/document/d/1UBIgIHhHukIr9EEvXILYUS4DWYqgi-vvhyGQtO1oc4U",
+        "main_goal": "The BTCS Act establishes an independent national board to set and maintain educational standards and curriculum frameworks across Caprica, while preserving regional autonomy in education administration and allowing for localized adaptations.",
+        "votes_yay": null,
+        "votes_nay": null,
+        "votes_abstain": null,
+        "votes_absent": null,
+        "category": "Social Policy",
+        "status": null
+    },
+    {
         "id": 754,
         "title": "Caprica Foundations Act",
         "date": "2026-11-08",
