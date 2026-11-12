@@ -1,5 +1,19 @@
 [
     {
+        "id": 756,
+        "title": "Caprican National Laboratories Act",
+        "date": "2026-11-12",
+        "proposer": "umeet (ID: 853004086286745640)",
+        "doc_link": "https://docs.google.com/document/d/1dGmPjdxgylv9IA5MTTEZeEtZhVNRqJzAFR2CnISySa8",
+        "main_goal": "This bill seeks to establish a network of state-funded national laboratories to drive scientific research, technological innovation, and industrial development in Caprica, with an emphasis on energy independence and economic competitiveness.",
+        "votes_yay": null,
+        "votes_nay": null,
+        "votes_abstain": null,
+        "votes_absent": null,
+        "category": "Infrastructure",
+        "status": null
+    },
+    {
         "id": 755,
         "title": "BTCS Act",
         "date": "2026-11-08",

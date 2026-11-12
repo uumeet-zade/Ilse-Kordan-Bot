@@ -1,5 +1,14 @@
 # Caprica Proposed Bills (Sorted by Date)
 
+## Caprican National Laboratories Act
+**Date:** 2026-11-12
+**Proposer:** umeet (ID: 853004086286745640)
+**Document:** https://docs.google.com/document/d/1dGmPjdxgylv9IA5MTTEZeEtZhVNRqJzAFR2CnISySa8
+
+**Main Goal:** This bill seeks to establish a network of state-funded national laboratories to drive scientific research, technological innovation, and industrial development in Caprica, with an emphasis on energy independence and economic competitiveness.
+
+---
+
 ## BTCS Act
 **Date:** 2026-11-08
 **Proposer:** ongla2 (ID: 1324759274349396051)
