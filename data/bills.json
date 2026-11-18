@@ -1,5 +1,47 @@
 [
     {
+        "id": 759,
+        "title": "Investiture vote in Francis Urquhart (<@1363223655596691789>) as the leader of a governing coalition between Convergence and Alliance, with the Jasfelts providing supply and confidence.",
+        "date": "2026-11-18",
+        "proposer": "magicalmeowgician (ID: 482703830484647937)",
+        "doc_link": null,
+        "main_goal": "Investiture vote in Francis Urquhart (<@1363223655596691789>) as the leader of a governing coalition between Convergence and Alliance, with the Jasfelts providing supply and confidence.",
+        "votes_yay": null,
+        "votes_nay": null,
+        "votes_abstain": null,
+        "votes_absent": null,
+        "category": "Misc.",
+        "status": null
+    },
+    {
+        "id": 758,
+        "title": "Nomination of Willard W. Coles as Speaker of the House",
+        "date": "2026-11-18",
+        "proposer": "aalborg (ID: 508032256166854666)",
+        "doc_link": null,
+        "main_goal": "Nomination of Willard W. Coles as Speaker of the House",
+        "votes_yay": null,
+        "votes_nay": null,
+        "votes_abstain": null,
+        "votes_absent": null,
+        "category": "Misc.",
+        "status": null
+    },
+    {
+        "id": 757,
+        "title": "Nominate Reijo Alamets\u00e4 as the Vice President of Caprica",
+        "date": "2026-11-17",
+        "proposer": "eruween (ID: 842809293258752000)",
+        "doc_link": null,
+        "main_goal": "Nominate Reijo Alamets\u00e4 as the Vice President of Caprica",
+        "votes_yay": 17,
+        "votes_nay": 16,
+        "votes_abstain": 0,
+        "votes_absent": 2,
+        "category": "Misc.",
+        "status": null
+    },
+    {
         "id": 756,
         "title": "Caprican National Laboratories Act",
         "date": "2026-11-12",
