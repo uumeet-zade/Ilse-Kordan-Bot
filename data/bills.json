@@ -1,5 +1,19 @@
 [
     {
+        "id": 760,
+        "title": "Strategic Grain Security Act",
+        "date": "2026-11-19",
+        "proposer": "lubangiv (ID: 1363223655596691789)",
+        "doc_link": "https://docs.google.com/document/d/1NAX-MzKecQf9Zok_DwdvZSLneMz-0UcgX73SUup8kQw",
+        "main_goal": "Strategic Grain Security Act",
+        "votes_yay": null,
+        "votes_nay": null,
+        "votes_abstain": null,
+        "votes_absent": null,
+        "category": "Misc.",
+        "status": null
+    },
+    {
         "id": 759,
         "title": "Investiture vote in Francis Urquhart (<@1363223655596691789>) as the leader of a governing coalition between Convergence and Alliance, with the Jasfelts providing supply and confidence.",
         "date": "2026-11-18",
