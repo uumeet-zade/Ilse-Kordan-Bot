@@ -1,5 +1,19 @@
 [
     {
+        "id": 766,
+        "title": "OPEN Act",
+        "date": "2026-11-22",
+        "proposer": "lubangiv (ID: 1363223655596691789)",
+        "doc_link": "https://docs.google.com/document/d/1pseqrdoATRE5znMVk-zccSPqDZhmGhCtEasuvYk0lrc",
+        "main_goal": "OPEN Act",
+        "votes_yay": null,
+        "votes_nay": null,
+        "votes_abstain": null,
+        "votes_absent": null,
+        "category": "Misc.",
+        "status": null
+    },
+    {
         "id": 765,
         "title": "Amendment to the Build, Baby, Build Act 2078",
         "date": "2026-11-22",
