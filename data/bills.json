@@ -1,5 +1,33 @@
 [
     {
+        "id": 765,
+        "title": "Amendment to the Build, Baby, Build Act 2078",
+        "date": "2026-11-22",
+        "proposer": "hansitodlv (ID: 768995999288393728)",
+        "doc_link": "https://docs.google.com/document/d/1MaEfp08sSpFpTM1Dx-_U8_m3hCpLlrPiFc0kgbFC1z4",
+        "main_goal": "Amendment to the Build, Baby, Build Act 2078",
+        "votes_yay": null,
+        "votes_nay": null,
+        "votes_abstain": null,
+        "votes_absent": null,
+        "category": "Misc.",
+        "status": null
+    },
+    {
+        "id": 764,
+        "title": "Build, Baby, Build Act 2078",
+        "date": "2026-11-22",
+        "proposer": "umeet (ID: 853004086286745640)",
+        "doc_link": "https://docs.google.com/document/d/1-TosO4xreIW5KW4RgfkXIfy9ECZ_-7tOQydqKTnajv0",
+        "main_goal": "Build, Baby, Build Act 2078",
+        "votes_yay": null,
+        "votes_nay": null,
+        "votes_abstain": null,
+        "votes_absent": null,
+        "category": "Misc.",
+        "status": null
+    },
+    {
         "id": 763,
         "title": "Amendment of the PCIC Act 2077",
         "date": "2026-11-22",
