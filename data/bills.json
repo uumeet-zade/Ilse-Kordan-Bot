@@ -1,5 +1,19 @@
 [
     {
+        "id": 768,
+        "title": "Amendment to the LOCAL Act",
+        "date": "2026-11-25",
+        "proposer": "umeet (ID: 853004086286745640)",
+        "doc_link": "https://docs.google.com/document/d/1ejOx7lAE_8qff-mB9asTW4bDquoJ9F5d6vEjLcTCJzI",
+        "main_goal": "Amendment to the LOCAL Act",
+        "votes_yay": null,
+        "votes_nay": null,
+        "votes_abstain": null,
+        "votes_absent": null,
+        "category": "Misc.",
+        "status": null
+    },
+    {
         "id": 767,
         "title": "Local",
         "date": "2026-11-25",
