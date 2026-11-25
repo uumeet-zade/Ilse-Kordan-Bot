@@ -1,5 +1,19 @@
 [
     {
+        "id": 767,
+        "title": "Local",
+        "date": "2026-11-25",
+        "proposer": "lubangiv (ID: 1363223655596691789)",
+        "doc_link": "https://docs.google.com/document/d/1Xa6SuAsgQ_PBUCCDCUDjW9y1e0v9fIS6MrL2Ss_8aO0",
+        "main_goal": "Local",
+        "votes_yay": null,
+        "votes_nay": null,
+        "votes_abstain": null,
+        "votes_absent": null,
+        "category": "Misc.",
+        "status": null
+    },
+    {
         "id": 766,
         "title": "OPEN Act",
         "date": "2026-11-22",
