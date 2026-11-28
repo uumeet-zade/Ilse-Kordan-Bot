@@ -1,5 +1,19 @@
 [
     {
+        "id": 769,
+        "title": "CARPA",
+        "date": "2026-11-28",
+        "proposer": "lubangiv (ID: 1363223655596691789)",
+        "doc_link": "https://docs.google.com/document/d/1WtS1y1BonAbeq91Z5y6YTL2146064zVwjpMYU0tnrqI",
+        "main_goal": "CARPA",
+        "votes_yay": null,
+        "votes_nay": null,
+        "votes_abstain": null,
+        "votes_absent": null,
+        "category": "Misc.",
+        "status": null
+    },
+    {
         "id": 768,
         "title": "Amendment to the LOCAL Act",
         "date": "2026-11-25",
